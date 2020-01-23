@@ -61,12 +61,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Internal.ISystemClock.UtcNow</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Internal.ISystemClock.UtcNow</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Internal.ISystemClock.UtcNow</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Internal.ISystemClock.UtcNow</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Internal.ISystemClock.UtcNow</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Internal.ISystemClock.UtcNow</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Internal.ISystemClock.UtcNow</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.Abstractions</AssemblyName>

@@ -184,20 +184,6 @@ The expander should have automation keyboard focus whenever the actual focus is 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -221,20 +207,6 @@ The expander should have automation keyboard focus whenever the actual focus is 
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Automation.Provider.IExpandCollapseProvider.Expand() = System::Windows::Automation::Provider::IExpandCollapseProvider::Expand;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -260,20 +232,6 @@ The expander should have automation keyboard focus whenever the actual focus is 
       <MemberSignature Language="F#" Usage="System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
       </Implements>
       <AssemblyInfo>

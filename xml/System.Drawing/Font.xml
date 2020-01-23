@@ -765,26 +765,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Drawing</AssemblyName>
@@ -829,26 +809,6 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="font.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1961,26 +1921,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.Serialization.ISerializable.GetObjectData(System::Runtime::Serialization::SerializationInfo ^ si, System::Runtime::Serialization::StreamingContext context) = System::Runtime::Serialization::ISerializable::GetObjectData;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -501,32 +501,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -614,32 +588,6 @@
       <MemberSignature Language="F#" Value="abstract member CreateChannel : System.ServiceModel.EndpointAddress * Uri -&gt; 'Channel&#xA;override this.CreateChannel : System.ServiceModel.EndpointAddress * Uri -&gt; 'Channel" Usage="channelFactory.CreateChannel (address, via)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Channels.IChannelFactory`1.CreateChannel(System.ServiceModel.EndpointAddress,System.Uri)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

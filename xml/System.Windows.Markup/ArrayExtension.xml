@@ -172,7 +172,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xaml</AssemblyName>
@@ -216,7 +215,6 @@
       <MemberSignature Language="F#" Value="abstract member AddText : string -&gt; unit&#xA;override this.AddText : string -&gt; unit" Usage="arrayExtension.AddText text" FrameworkAlternate="netframework-3.0;netframework-3.5" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

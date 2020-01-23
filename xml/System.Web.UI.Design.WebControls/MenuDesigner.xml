@@ -189,19 +189,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -488,19 +475,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -539,19 +513,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -579,19 +540,6 @@
       <MemberSignature Language="F#" Usage="System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.CanRefreshSchema</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -632,19 +580,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(bool preferSilent) = System::Web::UI::Design::IDataBindingSchemaProvider::RefreshSchema;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.Design.IDataBindingSchemaProvider.RefreshSchema(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -688,19 +623,6 @@
       <MemberSignature Language="F#" Usage="System.Web.UI.Design.IDataBindingSchemaProvider.Schema" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.Design.IDataBindingSchemaProvider.Schema</InterfaceMember>
       </Implements>
       <AssemblyInfo>

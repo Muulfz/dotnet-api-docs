@@ -142,24 +142,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -191,24 +173,6 @@
       <MemberSignature Language="F#" Value="abstract member CopyTo : Array * int -&gt; unit&#xA;override this.CopyTo : Array * int -&gt; unit" Usage="settingsPropertyCollection.CopyTo (array, index)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -247,24 +211,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -296,24 +242,6 @@
       <MemberSignature Language="F#" Value="abstract member GetEnumerator : unit -&gt; System.Collections.IEnumerator&#xA;override this.GetEnumerator : unit -&gt; System.Collections.IEnumerator" Usage="settingsPropertyCollection.GetEnumerator " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -347,24 +275,6 @@
       <MemberSignature Language="F#" Value="member this.IsSynchronized : bool" Usage="System.Configuration.SettingsPropertyCollection.IsSynchronized" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -686,24 +596,6 @@
       <MemberSignature Language="F#" Value="member this.SyncRoot : obj" Usage="System.Configuration.SettingsPropertyCollection.SyncRoot" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
       </Implements>
       <AssemblyInfo>

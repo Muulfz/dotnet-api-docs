@@ -41,19 +41,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetId</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -87,19 +74,6 @@
       <MemberSignature Language="F#" Value="abstract member GetPhysicalPath : unit -&gt; string&#xA;override this.GetPhysicalPath : unit -&gt; string" Usage="appDomainInfo.GetPhysicalPath " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetPhysicalPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetPhysicalPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetPhysicalPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetPhysicalPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetPhysicalPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetPhysicalPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetPhysicalPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetPhysicalPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetPhysicalPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetPhysicalPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetPhysicalPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetPhysicalPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetPhysicalPath</InterfaceMember>
         <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetPhysicalPath</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -135,19 +109,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetSiteId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetSiteId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetSiteId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetSiteId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetSiteId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetSiteId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetSiteId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetSiteId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetSiteId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetSiteId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetSiteId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetSiteId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetSiteId</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetSiteId</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -182,19 +143,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetVirtualPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetVirtualPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetVirtualPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetVirtualPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetVirtualPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetVirtualPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetVirtualPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetVirtualPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetVirtualPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetVirtualPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetVirtualPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetVirtualPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetVirtualPath</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.GetVirtualPath</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -228,19 +176,6 @@
       <MemberSignature Language="F#" Value="abstract member IsIdle : unit -&gt; bool&#xA;override this.IsIdle : unit -&gt; bool" Usage="appDomainInfo.IsIdle " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.IsIdle</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.IsIdle</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.IsIdle</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.IsIdle</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.IsIdle</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.IsIdle</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.IsIdle</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.IsIdle</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.IsIdle</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.IsIdle</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.IsIdle</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.IsIdle</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.IsIdle</InterfaceMember>
         <InterfaceMember>M:System.Web.Hosting.IAppDomainInfo.IsIdle</InterfaceMember>
       </Implements>
       <AssemblyInfo>

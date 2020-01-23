@@ -148,27 +148,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Linq.Queryable</AssemblyName>
@@ -210,27 +189,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" FrameworkAlternate="dotnet-uwp-10.0;netcore-1.0;netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -275,29 +233,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.ElementType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Linq.Queryable</AssemblyName>
@@ -333,29 +268,6 @@
       <MemberSignature Language="F#" Usage="System.Linq.IQueryable.Expression" FrameworkAlternate="dotnet-uwp-10.0;netcore-1.0;netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
         <InterfaceMember>P:System.Linq.IQueryable.Expression</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -393,29 +305,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
-        <InterfaceMember>P:System.Linq.IQueryable.Provider</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Linq.Queryable</AssemblyName>
@@ -449,29 +338,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Linq::IQueryable ^ System.Linq.IQueryProvider.CreateQuery(System::Linq::Expressions::Expression ^ expression) = System::Linq::IQueryProvider::CreateQuery;" FrameworkAlternate="dotnet-uwp-10.0;netcore-1.0;netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
         <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery(System.Linq.Expressions.Expression)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -511,29 +377,6 @@
       <MemberSignature Language="C++ CLI" Value="generic &lt;typename S&gt;&#xA; virtual System::Linq::IQueryable&lt;S&gt; ^ System.Linq.IQueryProvider.CreateQuery(System::Linq::Expressions::Expression ^ expression) = System::Linq::IQueryProvider::CreateQuery;" FrameworkAlternate="dotnet-uwp-10.0;netcore-1.0;netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
         <InterfaceMember>M:System.Linq.IQueryProvider.CreateQuery``1(System.Linq.Expressions.Expression)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -578,29 +421,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute(System.Linq.Expressions.Expression)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Linq.Queryable</AssemblyName>
@@ -639,29 +459,6 @@
       <MemberSignature Language="C++ CLI" Value="generic &lt;typename S&gt;&#xA; virtual S System.Linq.IQueryProvider.Execute(System::Linq::Expressions::Expression ^ expression) = System::Linq::IQueryProvider::Execute;" FrameworkAlternate="dotnet-uwp-10.0;netcore-1.0;netcore-1.1;netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;netstandard-2.0;netstandard-2.1;xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
-        <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
         <InterfaceMember>M:System.Linq.IQueryProvider.Execute``1(System.Linq.Expressions.Expression)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

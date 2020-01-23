@@ -88,20 +88,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -187,20 +173,6 @@
       <MemberSignature Language="F#" Value="member this.GetService : Type -&gt; obj" Usage="documentPageView.GetService serviceType" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
         <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -613,20 +585,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -655,20 +613,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.IServiceProvider.GetService(Type ^ serviceType) = IServiceProvider::GetService;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
         <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

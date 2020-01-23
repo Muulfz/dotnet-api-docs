@@ -140,7 +140,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Primitives</AssemblyName>
@@ -249,7 +248,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Primitives</AssemblyName>
@@ -282,7 +280,6 @@
       <MemberSignature Language="F#" Value="abstract member Contains : System.Net.Cookie -&gt; bool&#xA;override this.Contains : System.Net.Cookie -&gt; bool" Usage="cookieCollection.Contains cookie" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -340,44 +337,6 @@ The comparison for <xref:System.Net.Cookie.Path%2A> is case-sensitive.
       <MemberSignature Language="F#" Value="abstract member CopyTo : Array * int -&gt; unit&#xA;override this.CopyTo : Array * int -&gt; unit" Usage="cookieCollection.CopyTo (array, index)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -506,55 +465,8 @@ The comparison for <xref:System.Net.Cookie.Path%2A> is case-sensitive.
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Primitives</AssemblyName>
@@ -602,51 +514,6 @@ The comparison for <xref:System.Net.Cookie.Path%2A> is case-sensitive.
       <MemberSignature Language="F#" Value="abstract member GetEnumerator : unit -&gt; System.Collections.IEnumerator&#xA;override this.GetEnumerator : unit -&gt; System.Collections.IEnumerator" Usage="cookieCollection.GetEnumerator " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -702,7 +569,6 @@ The comparison for <xref:System.Net.Cookie.Path%2A> is case-sensitive.
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -752,44 +618,6 @@ The comparison for <xref:System.Net.Cookie.Path%2A> is case-sensitive.
       <MemberSignature Language="F#" Value="member this.IsSynchronized : bool" Usage="System.Net.CookieCollection.IsSynchronized" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -967,7 +795,6 @@ The comparison for <xref:System.Net.Cookie.Path%2A> is case-sensitive.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Primitives</AssemblyName>
@@ -1017,44 +844,6 @@ The comparison for <xref:System.Net.Cookie.Path%2A> is case-sensitive.
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -1103,7 +892,6 @@ The comparison for <xref:System.Net.Cookie.Path%2A> is case-sensitive.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Primitives</AssemblyName>
@@ -1148,12 +936,6 @@ The comparison for <xref:System.Net.Cookie.Path%2A> is case-sensitive.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Primitives</AssemblyName>
@@ -1194,12 +976,6 @@ The comparison for <xref:System.Net.Cookie.Path%2A> is case-sensitive.
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Net.Primitives</AssemblyName>
@@ -1234,12 +1010,6 @@ The comparison for <xref:System.Net.Cookie.Path%2A> is case-sensitive.
       <MemberSignature Language="F#" Usage="System.Collections.ICollection.SyncRoot" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
       </Implements>
       <AssemblyInfo>

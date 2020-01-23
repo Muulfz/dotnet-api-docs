@@ -640,28 +640,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.CompareFilters(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -863,28 +841,6 @@
       <MemberSignature Language="F#" Value="abstract member EvaluateFilter : string -&gt; bool&#xA;override this.EvaluateFilter : string -&gt; bool" Usage="httpBrowserCapabilitiesBase.EvaluateFilter filterName" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IFilterResolutionService.EvaluateFilter(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

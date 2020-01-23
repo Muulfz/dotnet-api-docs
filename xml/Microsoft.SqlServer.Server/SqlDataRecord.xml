@@ -117,26 +117,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.FieldCount</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -175,26 +155,6 @@
       <MemberSignature Language="F#" Value="abstract member GetBoolean : int -&gt; bool&#xA;override this.GetBoolean : int -&gt; bool" Usage="sqlDataRecord.GetBoolean ordinal" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetBoolean(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -242,26 +202,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetByte(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -307,26 +247,6 @@
       <MemberSignature Language="F#" Value="abstract member GetBytes : int * int64 * byte[] * int * int -&gt; int64&#xA;override this.GetBytes : int * int64 * byte[] * int * int -&gt; int64" Usage="sqlDataRecord.GetBytes (ordinal, fieldOffset, buffer, bufferOffset, length)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -391,26 +311,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChar(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -456,26 +356,6 @@
       <MemberSignature Language="F#" Value="abstract member GetChars : int * int64 * char[] * int * int -&gt; int64&#xA;override this.GetChars : int * int64 * char[] * int * int -&gt; int64" Usage="sqlDataRecord.GetChars (ordinal, fieldOffset, buffer, bufferOffset, length)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -540,8 +420,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -573,26 +451,6 @@
       <MemberSignature Language="F#" Value="abstract member GetDataTypeName : int -&gt; string&#xA;override this.GetDataTypeName : int -&gt; string" Usage="sqlDataRecord.GetDataTypeName ordinal" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetDataTypeName(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -645,26 +503,6 @@
       <MemberSignature Language="F#" Value="abstract member GetDateTime : int -&gt; DateTime&#xA;override this.GetDateTime : int -&gt; DateTime" Usage="sqlDataRecord.GetDateTime ordinal" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetDateTime(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -752,26 +590,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDecimal(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -818,26 +636,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetDouble(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -883,26 +681,6 @@
       <MemberSignature Language="F#" Value="abstract member GetFieldType : int -&gt; Type&#xA;override this.GetFieldType : int -&gt; Type" Usage="sqlDataRecord.GetFieldType ordinal" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetFieldType(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -951,26 +729,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetFloat(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -1016,26 +774,6 @@
       <MemberSignature Language="F#" Value="abstract member GetGuid : int -&gt; Guid&#xA;override this.GetGuid : int -&gt; Guid" Usage="sqlDataRecord.GetGuid ordinal" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetGuid(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1083,26 +821,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt16(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -1148,26 +866,6 @@
       <MemberSignature Language="F#" Value="abstract member GetInt32 : int -&gt; int&#xA;override this.GetInt32 : int -&gt; int" Usage="sqlDataRecord.GetInt32 ordinal" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetInt32(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1215,26 +913,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetInt64(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -1281,26 +959,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetName(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -1345,26 +1003,6 @@
       <MemberSignature Language="F#" Value="abstract member GetOrdinal : string -&gt; int&#xA;override this.GetOrdinal : string -&gt; int" Usage="sqlDataRecord.GetOrdinal name" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetOrdinal(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2274,26 +1912,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetString(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -2379,26 +1997,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValue(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -2450,26 +2048,6 @@
       <MemberSignature Language="F#" Value="abstract member GetValues : obj[] -&gt; int&#xA;override this.GetValues : obj[] -&gt; int" Usage="sqlDataRecord.GetValues values" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetValues(System.Object[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2526,26 +2104,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.IsDBNull(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -2601,26 +2159,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.SqlClient</AssemblyName>
@@ -2671,26 +2209,6 @@
       <MemberSignature Language="F#" Value="member this.Item(string) : obj" Usage="Microsoft.SqlServer.Server.SqlDataRecord.Item" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
         <InterfaceMember>P:System.Data.IDataRecord.Item(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4239,23 +3757,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Data::IDataReader ^ System.Data.IDataRecord.GetData(int ordinal) = System::Data::IDataRecord::GetData;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataRecord.GetData(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -708,18 +708,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -751,18 +739,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -793,18 +769,6 @@
       <MemberSignature Language="F#" Usage="System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -842,18 +806,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -885,18 +837,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -926,18 +866,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Automation.Provider.IInvokeProvider.Invoke() = System::Windows::Automation::Provider::IInvokeProvider::Invoke;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.IInvokeProvider.Invoke</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -969,18 +897,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Provider.IScrollItemProvider.ScrollIntoView</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollItemProvider.ScrollIntoView</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollItemProvider.ScrollIntoView</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollItemProvider.ScrollIntoView</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollItemProvider.ScrollIntoView</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollItemProvider.ScrollIntoView</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollItemProvider.ScrollIntoView</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollItemProvider.ScrollIntoView</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollItemProvider.ScrollIntoView</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollItemProvider.ScrollIntoView</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollItemProvider.ScrollIntoView</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollItemProvider.ScrollIntoView</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IScrollItemProvider.ScrollIntoView</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1010,18 +926,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection() = System::Windows::Automation::Provider::ISelectionItemProvider::AddToSelection;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1054,18 +958,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1097,18 +989,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1138,18 +1018,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Automation.Provider.ISelectionItemProvider.Select() = System::Windows::Automation::Provider::ISelectionItemProvider::Select;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1181,18 +1049,6 @@
       <MemberSignature Language="F#" Usage="System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1229,18 +1085,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1271,18 +1115,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual cli::array &lt;System::Windows::Automation::Provider::IRawElementProviderSimple ^&gt; ^ System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems() = System::Windows::Automation::Provider::ITableItemProvider::GetRowHeaderItems;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1316,18 +1148,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1358,18 +1178,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Automation.Provider.IValueProvider.SetValue(System::String ^ value) = System::Windows::Automation::Provider::IValueProvider::SetValue;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.IValueProvider.SetValue(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1406,18 +1214,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IValueProvider.Value</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1447,18 +1243,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Automation.Provider.IVirtualizedItemProvider.Realize() = System::Windows::Automation::Provider::IVirtualizedItemProvider::Realize;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IVirtualizedItemProvider.Realize</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IVirtualizedItemProvider.Realize</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IVirtualizedItemProvider.Realize</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IVirtualizedItemProvider.Realize</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IVirtualizedItemProvider.Realize</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IVirtualizedItemProvider.Realize</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IVirtualizedItemProvider.Realize</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IVirtualizedItemProvider.Realize</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IVirtualizedItemProvider.Realize</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IVirtualizedItemProvider.Realize</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IVirtualizedItemProvider.Realize</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IVirtualizedItemProvider.Realize</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.IVirtualizedItemProvider.Realize</InterfaceMember>
       </Implements>
       <AssemblyInfo>

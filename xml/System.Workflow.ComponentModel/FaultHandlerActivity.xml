@@ -358,18 +358,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Workflow.ComponentModel.Design.ITypeFilterProvider.CanFilterType(System.Type,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.ITypeFilterProvider.CanFilterType(System.Type,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.ITypeFilterProvider.CanFilterType(System.Type,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.ITypeFilterProvider.CanFilterType(System.Type,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.ITypeFilterProvider.CanFilterType(System.Type,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.ITypeFilterProvider.CanFilterType(System.Type,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.ITypeFilterProvider.CanFilterType(System.Type,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.ITypeFilterProvider.CanFilterType(System.Type,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.ITypeFilterProvider.CanFilterType(System.Type,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.ITypeFilterProvider.CanFilterType(System.Type,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.ITypeFilterProvider.CanFilterType(System.Type,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.ITypeFilterProvider.CanFilterType(System.Type,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.ITypeFilterProvider.CanFilterType(System.Type,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -402,18 +390,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Workflow.ComponentModel.Design.ITypeFilterProvider.FilterDescription</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.ITypeFilterProvider.FilterDescription</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.ITypeFilterProvider.FilterDescription</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.ITypeFilterProvider.FilterDescription</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.ITypeFilterProvider.FilterDescription</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.ITypeFilterProvider.FilterDescription</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.ITypeFilterProvider.FilterDescription</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.ITypeFilterProvider.FilterDescription</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.ITypeFilterProvider.FilterDescription</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.ITypeFilterProvider.FilterDescription</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.ITypeFilterProvider.FilterDescription</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.ITypeFilterProvider.FilterDescription</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.ITypeFilterProvider.FilterDescription</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -437,18 +413,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Workflow.ComponentModel.IActivityEventListener&lt;System.Workflow.ComponentModel.ActivityExecutionStatusChangedEventArgs&gt;.OnEvent(System::Object ^ sender, System::Workflow::ComponentModel::ActivityExecutionStatusChangedEventArgs ^ e) = System::Workflow::ComponentModel::IActivityEventListener&lt;System::Workflow::ComponentModel::ActivityExecutionStatusChangedEventArgs ^&gt;::OnEvent;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
         <InterfaceMember>M:System.Workflow.ComponentModel.IActivityEventListener`1.OnEvent(System.Object,`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -478,18 +442,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Workflow::ComponentModel::Compiler::AccessTypes System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(IServiceProvider ^ serviceProvider, System::String ^ propertyName) = System::Workflow::ComponentModel::IDynamicPropertyTypeProvider::GetAccessType;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
         <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetAccessType(System.IServiceProvider,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -527,18 +479,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual Type ^ System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(IServiceProvider ^ serviceProvider, System::String ^ propertyName) = System::Workflow::ComponentModel::IDynamicPropertyTypeProvider::GetPropertyType;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
         <InterfaceMember>M:System.Workflow.ComponentModel.IDynamicPropertyTypeProvider.GetPropertyType(System.IServiceProvider,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

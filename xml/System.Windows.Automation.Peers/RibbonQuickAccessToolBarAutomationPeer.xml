@@ -53,17 +53,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Controls.Ribbon</AssemblyName>
@@ -114,17 +103,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Controls.Ribbon</AssemblyName>
@@ -149,17 +127,6 @@
       <MemberSignature Language="F#" Value="member this.ExpandCollapseState : System.Windows.Automation.ExpandCollapseState" Usage="System.Windows.Automation.Peers.RibbonQuickAccessToolBarAutomationPeer.ExpandCollapseState" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
       </Implements>
       <AssemblyInfo>

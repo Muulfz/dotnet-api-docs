@@ -62,30 +62,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.DoGCCollect</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.DoGCCollect</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -138,30 +114,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.ProcessRequest(System.IntPtr,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -195,30 +147,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StartProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StartProcessing</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -246,30 +174,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime.StopProcessing</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IISAPIRuntime2.StopProcessing</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -295,19 +199,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.Hosting.IRegisteredObject.Stop(bool immediate) = System::Web::Hosting::IRegisteredObject::Stop;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Web.Hosting.IRegisteredObject.Stop(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IRegisteredObject.Stop(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IRegisteredObject.Stop(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IRegisteredObject.Stop(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IRegisteredObject.Stop(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IRegisteredObject.Stop(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IRegisteredObject.Stop(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IRegisteredObject.Stop(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IRegisteredObject.Stop(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IRegisteredObject.Stop(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IRegisteredObject.Stop(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IRegisteredObject.Stop(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.Hosting.IRegisteredObject.Stop(System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.Web.Hosting.IRegisteredObject.Stop(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

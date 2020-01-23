@@ -256,21 +256,6 @@
       <MemberSignature Language="C++ CLI" Value="protected:&#xA; virtual bool CanConnect(System::Workflow::ComponentModel::Design::ConnectionPoint ^ source, System::Workflow::ComponentModel::Design::ConnectionPoint ^ target);" />
       <MemberSignature Language="F#" Value="abstract member CanConnect : System.Workflow.ComponentModel.Design.ConnectionPoint * System.Workflow.ComponentModel.Design.ConnectionPoint -&gt; bool&#xA;override this.CanConnect : System.Workflow.ComponentModel.Design.ConnectionPoint * System.Workflow.ComponentModel.Design.ConnectionPoint -&gt; bool" Usage="activityDesigner.CanConnect (source, target)" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.CanConnect(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.CanConnect(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.CanConnect(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.CanConnect(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.CanConnect(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.CanConnect(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.CanConnect(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.CanConnect(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.CanConnect(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.CanConnect(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.CanConnect(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.CanConnect(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.CanConnect(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
@@ -401,18 +386,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -463,18 +436,6 @@
       <MemberSignature Language="F#" Value="abstract member DoDefaultAction : unit -&gt; unit&#xA;override this.DoDefaultAction : unit -&gt; unit" Usage="activityDesigner.DoDefaultAction " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -986,18 +947,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -1177,18 +1126,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -1256,18 +1193,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -1324,18 +1249,6 @@
       <MemberSignature Language="F#" Value="member this.MessageFilters : System.Collections.ObjectModel.ReadOnlyCollection&lt;System.Workflow.ComponentModel.Design.WorkflowDesignerMessageFilter&gt;" Usage="System.Workflow.ComponentModel.Design.ActivityDesigner.MessageFilters" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
         <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1453,21 +1366,6 @@
       <MemberSignature Language="C++ CLI" Value="protected:&#xA; virtual void OnConnected(System::Workflow::ComponentModel::Design::ConnectionPoint ^ source, System::Workflow::ComponentModel::Design::ConnectionPoint ^ target);" />
       <MemberSignature Language="F#" Value="abstract member OnConnected : System.Workflow.ComponentModel.Design.ConnectionPoint * System.Workflow.ComponentModel.Design.ConnectionPoint -&gt; unit&#xA;override this.OnConnected : System.Workflow.ComponentModel.Design.ConnectionPoint * System.Workflow.ComponentModel.Design.ConnectionPoint -&gt; unit" Usage="activityDesigner.OnConnected (source, target)" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.OnConnected(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.OnConnected(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.OnConnected(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.OnConnected(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.OnConnected(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.OnConnected(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.OnConnected(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.OnConnected(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.OnConnected(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.OnConnected(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.OnConnected(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.OnConnected(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IConnectableDesigner.OnConnected(System.Workflow.ComponentModel.Design.ConnectionPoint,System.Workflow.ComponentModel.Design.ConnectionPoint)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
@@ -1702,21 +1600,6 @@
       <MemberSignature Language="C++ CLI" Value="protected:&#xA; virtual void OnEndResizing();" />
       <MemberSignature Language="F#" Value="abstract member OnEndResizing : unit -&gt; unit&#xA;override this.OnEndResizing : unit -&gt; unit" Usage="activityDesigner.OnEndResizing " />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowDesignerMessageSink.OnEndResizing</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowDesignerMessageSink.OnEndResizing</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowDesignerMessageSink.OnEndResizing</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowDesignerMessageSink.OnEndResizing</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowDesignerMessageSink.OnEndResizing</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowDesignerMessageSink.OnEndResizing</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowDesignerMessageSink.OnEndResizing</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowDesignerMessageSink.OnEndResizing</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowDesignerMessageSink.OnEndResizing</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowDesignerMessageSink.OnEndResizing</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowDesignerMessageSink.OnEndResizing</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowDesignerMessageSink.OnEndResizing</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowDesignerMessageSink.OnEndResizing</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
@@ -2877,18 +2760,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -2916,18 +2787,6 @@
       <MemberSignature Language="F#" Value="abstract member PostFilterEvents : System.Collections.IDictionary -&gt; unit&#xA;override this.PostFilterEvents : System.Collections.IDictionary -&gt; unit" Usage="activityDesigner.PostFilterEvents events" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2957,18 +2816,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -2996,18 +2843,6 @@
       <MemberSignature Language="F#" Value="abstract member PreFilterAttributes : System.Collections.IDictionary -&gt; unit&#xA;override this.PreFilterAttributes : System.Collections.IDictionary -&gt; unit" Usage="activityDesigner.PreFilterAttributes attributes" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3037,18 +2872,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -3076,18 +2899,6 @@
       <MemberSignature Language="F#" Value="abstract member PreFilterProperties : System.Collections.IDictionary -&gt; unit&#xA;override this.PreFilterProperties : System.Collections.IDictionary -&gt; unit" Usage="activityDesigner.PreFilterProperties properties" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3224,18 +3035,6 @@
       <MemberSignature Language="F#" Value="abstract member SaveViewState : System.IO.BinaryWriter -&gt; unit&#xA;override this.SaveViewState : System.IO.BinaryWriter -&gt; unit" Usage="activityDesigner.SaveViewState writer" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
         <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3484,18 +3283,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Component</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Component</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Component</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Component</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Component</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Component</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Component</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Component</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Component</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Component</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Component</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Component</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Component</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -3526,18 +3313,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.Design.IDesigner.DoDefaultAction() = System::ComponentModel::Design::IDesigner::DoDefaultAction;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3570,18 +3345,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -3610,18 +3373,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -3645,18 +3396,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System::Collections::IDictionary ^ attributes) = System::ComponentModel::Design::IDesignerFilter::PostFilterAttributes;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3685,18 +3424,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -3723,18 +3450,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System::Collections::IDictionary ^ properties) = System::ComponentModel::Design::IDesignerFilter::PostFilterProperties;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3763,18 +3478,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -3801,18 +3504,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System::Collections::IDictionary ^ events) = System::ComponentModel::Design::IDesignerFilter::PreFilterEvents;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3841,18 +3532,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -3879,18 +3558,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.ComponentModel.Design.IRootDesigner.GetView(System::ComponentModel::Design::ViewTechnology technology) = System::ComponentModel::Design::IRootDesigner::GetView;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3930,18 +3597,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -3971,18 +3626,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Drawing.Design.IToolboxUser.GetToolSupported(System::Drawing::Design::ToolboxItem ^ toolboxItem) = System::Drawing::Design::IToolboxUser::GetToolSupported;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
         <InterfaceMember>M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4019,18 +3662,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
-        <InterfaceMember>M:System.Drawing.Design.IToolboxUser.ToolPicked(System.Drawing.Design.ToolboxItem)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -4065,18 +3696,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.LoadViewState(System.IO.BinaryReader)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -4103,18 +3722,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System::IO::BinaryWriter ^ writer) = System::Workflow::ComponentModel::Design::IPersistUIState::SaveViewState;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
         <InterfaceMember>M:System.Workflow.ComponentModel.Design.IPersistUIState.SaveViewState(System.IO.BinaryWriter)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4144,18 +3751,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.InvokingDesigner</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -4179,18 +3774,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(Type ^ activityType) = System::Workflow::ComponentModel::Design::IWorkflowRootDesigner::IsSupportedActivityType;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
         <InterfaceMember>M:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.IsSupportedActivityType(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4229,18 +3812,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.MessageFilters</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -4265,18 +3836,6 @@
       <MemberSignature Language="F#" Usage="System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.SupportsLayoutPersistence" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.SupportsLayoutPersistence</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.SupportsLayoutPersistence</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.SupportsLayoutPersistence</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.SupportsLayoutPersistence</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.SupportsLayoutPersistence</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.SupportsLayoutPersistence</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.SupportsLayoutPersistence</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.SupportsLayoutPersistence</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.SupportsLayoutPersistence</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.SupportsLayoutPersistence</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.SupportsLayoutPersistence</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.SupportsLayoutPersistence</InterfaceMember>
         <InterfaceMember>P:System.Workflow.ComponentModel.Design.IWorkflowRootDesigner.SupportsLayoutPersistence</InterfaceMember>
       </Implements>
       <AssemblyInfo>

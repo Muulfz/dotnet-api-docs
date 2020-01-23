@@ -139,17 +139,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
@@ -210,17 +199,6 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="clientFormsIdentity.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -300,17 +278,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
@@ -365,17 +332,6 @@
       <MemberSignature Language="F#" Value="member this.Name : string" Usage="System.Web.ClientServices.ClientFormsIdentity.Name" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
         <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
       </Implements>
       <AssemblyInfo>

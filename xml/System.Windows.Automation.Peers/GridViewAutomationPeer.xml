@@ -61,20 +61,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.CreateItemAutomationPeer(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.CreateItemAutomationPeer(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.CreateItemAutomationPeer(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.CreateItemAutomationPeer(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.CreateItemAutomationPeer(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.CreateItemAutomationPeer(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.CreateItemAutomationPeer(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.CreateItemAutomationPeer(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.CreateItemAutomationPeer(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.CreateItemAutomationPeer(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.CreateItemAutomationPeer(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.CreateItemAutomationPeer(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.CreateItemAutomationPeer(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.CreateItemAutomationPeer(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.CreateItemAutomationPeer(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -110,20 +96,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetAutomationControlType</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetAutomationControlType</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetAutomationControlType</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetAutomationControlType</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetAutomationControlType</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetAutomationControlType</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetAutomationControlType</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetAutomationControlType</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetAutomationControlType</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetAutomationControlType</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetAutomationControlType</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetAutomationControlType</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetAutomationControlType</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetAutomationControlType</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetAutomationControlType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -155,20 +127,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Generic::List&lt;System::Windows::Automation::Peers::AutomationPeer ^&gt; ^ System.Windows.Automation.Peers.IViewAutomationPeer.GetChildren(System::Collections::Generic::List&lt;System::Windows::Automation::Peers::AutomationPeer ^&gt; ^ children) = System::Windows::Automation::Peers::IViewAutomationPeer::GetChildren;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetChildren(System.Collections.Generic.List{System.Windows.Automation.Peers.AutomationPeer})</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetChildren(System.Collections.Generic.List{System.Windows.Automation.Peers.AutomationPeer})</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetChildren(System.Collections.Generic.List{System.Windows.Automation.Peers.AutomationPeer})</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetChildren(System.Collections.Generic.List{System.Windows.Automation.Peers.AutomationPeer})</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetChildren(System.Collections.Generic.List{System.Windows.Automation.Peers.AutomationPeer})</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetChildren(System.Collections.Generic.List{System.Windows.Automation.Peers.AutomationPeer})</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetChildren(System.Collections.Generic.List{System.Windows.Automation.Peers.AutomationPeer})</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetChildren(System.Collections.Generic.List{System.Windows.Automation.Peers.AutomationPeer})</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetChildren(System.Collections.Generic.List{System.Windows.Automation.Peers.AutomationPeer})</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetChildren(System.Collections.Generic.List{System.Windows.Automation.Peers.AutomationPeer})</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetChildren(System.Collections.Generic.List{System.Windows.Automation.Peers.AutomationPeer})</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetChildren(System.Collections.Generic.List{System.Windows.Automation.Peers.AutomationPeer})</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetChildren(System.Collections.Generic.List{System.Windows.Automation.Peers.AutomationPeer})</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetChildren(System.Collections.Generic.List{System.Windows.Automation.Peers.AutomationPeer})</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetChildren(System.Collections.Generic.List{System.Windows.Automation.Peers.AutomationPeer})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -203,20 +161,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.Windows.Automation.Peers.IViewAutomationPeer.GetPattern(System::Windows::Automation::Peers::PatternInterface patternInterface) = System::Windows::Automation::Peers::IViewAutomationPeer::GetPattern;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetPattern(System.Windows.Automation.Peers.PatternInterface)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetPattern(System.Windows.Automation.Peers.PatternInterface)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetPattern(System.Windows.Automation.Peers.PatternInterface)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetPattern(System.Windows.Automation.Peers.PatternInterface)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetPattern(System.Windows.Automation.Peers.PatternInterface)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetPattern(System.Windows.Automation.Peers.PatternInterface)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetPattern(System.Windows.Automation.Peers.PatternInterface)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetPattern(System.Windows.Automation.Peers.PatternInterface)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetPattern(System.Windows.Automation.Peers.PatternInterface)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetPattern(System.Windows.Automation.Peers.PatternInterface)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetPattern(System.Windows.Automation.Peers.PatternInterface)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetPattern(System.Windows.Automation.Peers.PatternInterface)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetPattern(System.Windows.Automation.Peers.PatternInterface)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetPattern(System.Windows.Automation.Peers.PatternInterface)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.GetPattern(System.Windows.Automation.Peers.PatternInterface)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -253,20 +197,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ItemsChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ItemsChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ItemsChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ItemsChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ItemsChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ItemsChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ItemsChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ItemsChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ItemsChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ItemsChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ItemsChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ItemsChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ItemsChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ItemsChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ItemsChanged(System.Collections.Specialized.NotifyCollectionChangedEventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -301,20 +231,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ViewDetached</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ViewDetached</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ViewDetached</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ViewDetached</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ViewDetached</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ViewDetached</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ViewDetached</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ViewDetached</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ViewDetached</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ViewDetached</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ViewDetached</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ViewDetached</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ViewDetached</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ViewDetached</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Peers.IViewAutomationPeer.ViewDetached</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -347,20 +263,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.ColumnCount</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -391,20 +293,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Windows::Automation::Provider::IRawElementProviderSimple ^ System.Windows.Automation.Provider.IGridProvider.GetItem(int row, int column) = System::Windows::Automation::Provider::IGridProvider::GetItem;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.IGridProvider.GetItem(System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -444,20 +332,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridProvider.RowCount</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -488,20 +362,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual cli::array &lt;System::Windows::Automation::Provider::IRawElementProviderSimple ^&gt; ^ System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders() = System::Windows::Automation::Provider::ITableProvider::GetColumnHeaders;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetColumnHeaders</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -535,20 +395,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableProvider.GetRowHeaders</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -581,20 +427,6 @@
       <MemberSignature Language="F#" Usage="System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.ITableProvider.RowOrColumnMajor</InterfaceMember>
       </Implements>
       <AssemblyInfo>

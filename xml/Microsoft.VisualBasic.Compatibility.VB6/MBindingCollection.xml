@@ -90,19 +90,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Add(System.Object,System.String,System.String,Microsoft.VisualBasic.Compatibility.VB6.IDataFormatDisp,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Add(System.Object,System.String,System.String,Microsoft.VisualBasic.Compatibility.VB6.IDataFormatDisp,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Add(System.Object,System.String,System.String,Microsoft.VisualBasic.Compatibility.VB6.IDataFormatDisp,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Add(System.Object,System.String,System.String,Microsoft.VisualBasic.Compatibility.VB6.IDataFormatDisp,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Add(System.Object,System.String,System.String,Microsoft.VisualBasic.Compatibility.VB6.IDataFormatDisp,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Add(System.Object,System.String,System.String,Microsoft.VisualBasic.Compatibility.VB6.IDataFormatDisp,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Add(System.Object,System.String,System.String,Microsoft.VisualBasic.Compatibility.VB6.IDataFormatDisp,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Add(System.Object,System.String,System.String,Microsoft.VisualBasic.Compatibility.VB6.IDataFormatDisp,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Add(System.Object,System.String,System.String,Microsoft.VisualBasic.Compatibility.VB6.IDataFormatDisp,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Add(System.Object,System.String,System.String,Microsoft.VisualBasic.Compatibility.VB6.IDataFormatDisp,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Add(System.Object,System.String,System.String,Microsoft.VisualBasic.Compatibility.VB6.IDataFormatDisp,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Add(System.Object,System.String,System.String,Microsoft.VisualBasic.Compatibility.VB6.IDataFormatDisp,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Add(System.Object,System.String,System.String,Microsoft.VisualBasic.Compatibility.VB6.IDataFormatDisp,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Add(System.Object,System.String,System.String,Microsoft.VisualBasic.Compatibility.VB6.IDataFormatDisp,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Compatibility.Data</AssemblyName>
@@ -197,19 +184,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Compatibility.Data</AssemblyName>
@@ -244,19 +218,6 @@
       <MemberSignature Language="F#" Value="member this.Count : int" Usage="Count" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Count</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Count</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Count</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Count</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Count</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Count</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Count</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Count</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Count</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Count</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Count</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Count</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Count</InterfaceMember>
         <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -293,19 +254,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataMember</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataMember</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataMember</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataMember</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataMember</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataMember</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataMember</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataMember</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataMember</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataMember</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataMember</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataMember</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataMember</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataMember</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Compatibility.Data</AssemblyName>
@@ -340,19 +288,6 @@
       <MemberSignature Language="F#" Value="member this.DataSource : msdatasrc.DataSource with get, set" Usage="DataSource" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataSource</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataSource</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataSource</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataSource</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataSource</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataSource</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataSource</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataSource</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataSource</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataSource</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataSource</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataSource</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataSource</InterfaceMember>
         <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.DataSource</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -403,19 +338,6 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="mBindingCollection.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -525,19 +447,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Item(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Compatibility.Data</AssemblyName>
@@ -576,19 +485,6 @@
       <MemberSignature Language="F#" Value="abstract member Remove : obj -&gt; unit&#xA;override this.Remove : obj -&gt; unit" Usage="mBindingCollection.Remove index" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Remove(System.Object)</InterfaceMember>
         <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.Remove(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -660,19 +556,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateControls</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateControls</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateControls</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateControls</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateControls</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateControls</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateControls</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateControls</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateControls</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateControls</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateControls</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateControls</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateControls</InterfaceMember>
-        <InterfaceMember>M:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateControls</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Compatibility.Data</AssemblyName>
@@ -707,19 +590,6 @@
       <MemberSignature Language="F#" Value="member this.UpdateMode : Microsoft.VisualBasic.Compatibility.VB6.UpdateMode with get, set" Usage="UpdateMode" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateMode</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateMode</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateMode</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateMode</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateMode</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateMode</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateMode</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateMode</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateMode</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateMode</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateMode</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateMode</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateMode</InterfaceMember>
         <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBindingCollection.UpdateMode</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -130,20 +130,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Column</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -181,20 +167,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ColumnSpan</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -227,20 +199,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.ContainingGrid</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -272,20 +230,6 @@
       <MemberSignature Language="F#" Usage="System.Windows.Automation.Provider.IGridItemProvider.Row" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.Row</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -324,20 +268,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IGridItemProvider.RowSpan</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -369,20 +299,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetColumnHeaderItems</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -407,20 +323,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual cli::array &lt;System::Windows::Automation::Provider::IRawElementProviderSimple ^&gt; ^ System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems() = System::Windows::Automation::Provider::ITableItemProvider::GetRowHeaderItems;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.ITableItemProvider.GetRowHeaderItems</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -133,17 +133,6 @@ The `Attach<TEntity>(IEnumerable<TEntity>, Boolean)` method is called by Object 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -169,17 +158,6 @@ The `Attach<TEntity>(IEnumerable<TEntity>, Boolean)` method is called by Object 
       <MemberSignature Language="F#" Value="member this.IsLoaded : bool" Usage="System.Data.Objects.DataClasses.RelatedEnd.IsLoaded" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.IsLoaded</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.IsLoaded</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.IsLoaded</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.IsLoaded</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.IsLoaded</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.IsLoaded</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.IsLoaded</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.IsLoaded</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.IsLoaded</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.IsLoaded</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.IsLoaded</InterfaceMember>
         <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.IsLoaded</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -241,17 +219,6 @@ The `Attach<TEntity>(IEnumerable<TEntity>, Boolean)` method is called by Object 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -295,17 +262,6 @@ The `Attach<TEntity>(IEnumerable<TEntity>, Boolean)` method is called by Object 
       <MemberSignature Language="F#" Value="abstract member Load : System.Data.Objects.MergeOption -&gt; unit" Usage="relatedEnd.Load mergeOption" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load(System.Data.Objects.MergeOption)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load(System.Data.Objects.MergeOption)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load(System.Data.Objects.MergeOption)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load(System.Data.Objects.MergeOption)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load(System.Data.Objects.MergeOption)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load(System.Data.Objects.MergeOption)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load(System.Data.Objects.MergeOption)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load(System.Data.Objects.MergeOption)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load(System.Data.Objects.MergeOption)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load(System.Data.Objects.MergeOption)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load(System.Data.Objects.MergeOption)</InterfaceMember>
         <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Load(System.Data.Objects.MergeOption)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -430,17 +386,6 @@ The `Merge<TEntity>` method is called by Object Services during relationship ope
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -474,17 +419,6 @@ The `Merge<TEntity>` method is called by Object Services during relationship ope
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipSet</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipSet</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipSet</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipSet</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipSet</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipSet</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipSet</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipSet</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipSet</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipSet</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipSet</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.RelationshipSet</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -517,17 +451,6 @@ The `Merge<TEntity>` method is called by Object Services during relationship ope
       <MemberSignature Language="F#" Value="member this.SourceRoleName : string" Usage="System.Data.Objects.DataClasses.RelatedEnd.SourceRoleName" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.SourceRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.SourceRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.SourceRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.SourceRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.SourceRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.SourceRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.SourceRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.SourceRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.SourceRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.SourceRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.SourceRoleName</InterfaceMember>
         <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.SourceRoleName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -588,17 +511,6 @@ The `Merge<TEntity>` method is called by Object Services during relationship ope
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -634,16 +546,6 @@ The `Merge<TEntity>` method is called by Object Services during relationship ope
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Data.Objects.DataClasses.IRelatedEnd.Add(System::Object ^ entity) = System::Data::Objects::DataClasses::IRelatedEnd::Add;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Add(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -687,17 +589,6 @@ The `Merge<TEntity>` method is called by Object Services during relationship ope
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -734,16 +625,6 @@ The `Merge<TEntity>` method is called by Object Services during relationship ope
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Attach(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -778,17 +659,6 @@ The `Merge<TEntity>` method is called by Object Services during relationship ope
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerable ^ System.Data.Objects.DataClasses.IRelatedEnd.CreateSourceQuery() = System::Data::Objects::DataClasses::IRelatedEnd::CreateSourceQuery;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.CreateSourceQuery</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.CreateSourceQuery</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.CreateSourceQuery</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.CreateSourceQuery</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.CreateSourceQuery</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.CreateSourceQuery</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.CreateSourceQuery</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.CreateSourceQuery</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.CreateSourceQuery</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.CreateSourceQuery</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.CreateSourceQuery</InterfaceMember>
         <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.CreateSourceQuery</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -833,17 +703,6 @@ The `Merge<TEntity>` method is called by Object Services during relationship ope
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Data.Objects.DataClasses.IEntityWithRelationships)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -881,16 +740,6 @@ The `Merge<TEntity>` method is called by Object Services during relationship ope
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.DataClasses.IRelatedEnd.Remove(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -926,17 +775,6 @@ The `Merge<TEntity>` method is called by Object Services during relationship ope
       <MemberSignature Language="F#" Value="member this.TargetRoleName : string" Usage="System.Data.Objects.DataClasses.RelatedEnd.TargetRoleName" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.TargetRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.TargetRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.TargetRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.TargetRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.TargetRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.TargetRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.TargetRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.TargetRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.TargetRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.TargetRoleName</InterfaceMember>
-        <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.TargetRoleName</InterfaceMember>
         <InterfaceMember>P:System.Data.Objects.DataClasses.IRelatedEnd.TargetRoleName</InterfaceMember>
       </Implements>
       <AssemblyInfo>

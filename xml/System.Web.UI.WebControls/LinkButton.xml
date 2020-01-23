@@ -290,19 +290,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CausesValidation</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CausesValidation</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CausesValidation</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CausesValidation</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CausesValidation</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CausesValidation</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CausesValidation</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CausesValidation</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CausesValidation</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CausesValidation</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CausesValidation</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CausesValidation</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CausesValidation</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CausesValidation</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -371,19 +358,6 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Click</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Click</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Click</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Click</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Click</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Click</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Click</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Click</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Click</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Click</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Click</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Click</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Click</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Click</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -429,19 +403,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual event System::Web::UI::WebControls::CommandEventHandler ^ Command;" FrameworkAlternate="netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Event</MemberType>
       <Implements>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Command</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Command</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Command</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Command</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Command</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Command</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Command</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Command</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Command</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Command</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Command</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Command</InterfaceMember>
-        <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Command</InterfaceMember>
         <InterfaceMember>E:System.Web.UI.WebControls.IButtonControl.Command</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -490,19 +451,6 @@
       <MemberSignature Language="F#" Value="member this.CommandArgument : string with get, set" Usage="System.Web.UI.WebControls.LinkButton.CommandArgument" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandArgument</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandArgument</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandArgument</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandArgument</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandArgument</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandArgument</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandArgument</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandArgument</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandArgument</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandArgument</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandArgument</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandArgument</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandArgument</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandArgument</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -566,19 +514,6 @@
       <MemberSignature Language="F#" Value="member this.CommandName : string with get, set" Usage="System.Web.UI.WebControls.LinkButton.CommandName" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandName</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandName</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandName</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandName</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandName</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandName</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandName</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandName</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandName</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandName</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandName</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandName</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandName</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.CommandName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -905,19 +840,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.PostBackUrl</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.PostBackUrl</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.PostBackUrl</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.PostBackUrl</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.PostBackUrl</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.PostBackUrl</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.PostBackUrl</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.PostBackUrl</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.PostBackUrl</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.PostBackUrl</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.PostBackUrl</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.PostBackUrl</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.PostBackUrl</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.PostBackUrl</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -1005,19 +927,6 @@ End Sub
       <MemberSignature Language="F#" Value="abstract member RaisePostBackEvent : string -&gt; unit&#xA;override this.RaisePostBackEvent : string -&gt; unit" Usage="linkButton.RaisePostBackEvent eventArgument" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1138,20 +1047,6 @@ End Sub
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -1193,19 +1088,6 @@ End Sub
       <MemberSignature Language="F#" Value="member this.Text : string with get, set" Usage="System.Web.UI.WebControls.LinkButton.Text" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.Text</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.Text</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.Text</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.Text</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.Text</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.Text</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.Text</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.Text</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.Text</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.Text</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.Text</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.Text</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.Text</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.Text</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1268,19 +1150,6 @@ End Sub
       <MemberSignature Language="F#" Value="member this.ValidationGroup : string with get, set" Usage="System.Web.UI.WebControls.LinkButton.ValidationGroup" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.ValidationGroup</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.ValidationGroup</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.ValidationGroup</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.ValidationGroup</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.ValidationGroup</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.ValidationGroup</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.ValidationGroup</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.ValidationGroup</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.ValidationGroup</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.ValidationGroup</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.ValidationGroup</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.ValidationGroup</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.ValidationGroup</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.WebControls.IButtonControl.ValidationGroup</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -79,11 +79,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -148,11 +143,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; int BinarySearch(T item);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.BinarySearch : 'T -&gt; int" Usage="builder.BinarySearch item" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.BinarySearch(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.BinarySearch(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.BinarySearch(`0)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -195,11 +185,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; int BinarySearch(T item, System::Collections::Generic::IComparer&lt;T&gt; ^ comparer);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.BinarySearch : 'T * System.Collections.Generic.IComparer&lt;'T&gt; -&gt; int" Usage="builder.BinarySearch (item, comparer)" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.BinarySearch(`0,System.Collections.Generic.IComparer{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.BinarySearch(`0,System.Collections.Generic.IComparer{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.BinarySearch(`0,System.Collections.Generic.IComparer{`0})</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -246,11 +231,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; int BinarySearch(int index, int count, T item, System::Collections::Generic::IComparer&lt;T&gt; ^ comparer);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.BinarySearch : int * int * 'T * System.Collections.Generic.IComparer&lt;'T&gt; -&gt; int" Usage="builder.BinarySearch (index, count, item, comparer)" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.BinarySearch(System.Int32,System.Int32,`0,System.Collections.Generic.IComparer{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.BinarySearch(System.Int32,System.Int32,`0,System.Collections.Generic.IComparer{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.BinarySearch(System.Int32,System.Int32,`0,System.Collections.Generic.IComparer{`0})</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -307,16 +287,6 @@
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -346,11 +316,6 @@
       <MemberSignature Language="F#" Value="abstract member Contains : 'T -&gt; bool&#xA;override this.Contains : 'T -&gt; bool" Usage="builder.Contains item" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -388,11 +353,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA;generic &lt;typename TOutput&gt;&#xA; System::Collections::Immutable::ImmutableList&lt;TOutput&gt; ^ ConvertAll(Func&lt;T, TOutput&gt; ^ converter);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.ConvertAll : Func&lt;'T, 'Output&gt; -&gt; System.Collections.Immutable.ImmutableList&lt;'Output&gt;" Usage="builder.ConvertAll converter" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.ConvertAll``1(System.Func{`0,``0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.ConvertAll``1(System.Func{`0,``0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.ConvertAll``1(System.Func{`0,``0})</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -431,11 +391,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; void CopyTo(cli::array &lt;T&gt; ^ array);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.CopyTo : 'T[] -&gt; unit" Usage="builder.CopyTo array" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.CopyTo(`0[])</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.CopyTo(`0[])</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.CopyTo(`0[])</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -467,14 +422,6 @@
       <MemberSignature Language="F#" Value="abstract member CopyTo : 'T[] * int -&gt; unit&#xA;override this.CopyTo : 'T[] * int -&gt; unit" Usage="builder.CopyTo (array, arrayIndex)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -512,11 +459,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; void CopyTo(int index, cli::array &lt;T&gt; ^ array, int arrayIndex, int count);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.CopyTo : int * 'T[] * int * int -&gt; unit" Usage="builder.CopyTo (index, array, arrayIndex, count)" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.CopyTo(System.Int32,`0[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.CopyTo(System.Int32,`0[],System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.CopyTo(System.Int32,`0[],System.Int32,System.Int32)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -555,23 +497,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Immutable.IOrderedCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Immutable.IOrderedCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Immutable.IOrderedCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
       </Implements>
@@ -605,11 +530,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; bool Exists(Predicate&lt;T&gt; ^ match);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.Exists : Predicate&lt;'T&gt; -&gt; bool" Usage="builder.Exists match" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.Exists(System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.Exists(System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.Exists(System.Predicate{`0})</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -645,11 +565,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; T Find(Predicate&lt;T&gt; ^ match);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.Find : Predicate&lt;'T&gt; -&gt; 'T" Usage="builder.Find match" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.Find(System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.Find(System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.Find(System.Predicate{`0})</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -684,11 +599,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; System::Collections::Immutable::ImmutableList&lt;T&gt; ^ FindAll(Predicate&lt;T&gt; ^ match);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.FindAll : Predicate&lt;'T&gt; -&gt; System.Collections.Immutable.ImmutableList&lt;'T&gt;" Usage="builder.FindAll match" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindAll(System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindAll(System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindAll(System.Predicate{`0})</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -723,11 +633,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; int FindIndex(Predicate&lt;T&gt; ^ match);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.FindIndex : Predicate&lt;'T&gt; -&gt; int" Usage="builder.FindIndex match" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindIndex(System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindIndex(System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindIndex(System.Predicate{`0})</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -762,11 +667,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; int FindIndex(int startIndex, Predicate&lt;T&gt; ^ match);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.FindIndex : int * Predicate&lt;'T&gt; -&gt; int" Usage="builder.FindIndex (startIndex, match)" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindIndex(System.Int32,System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindIndex(System.Int32,System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindIndex(System.Int32,System.Predicate{`0})</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -803,11 +703,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; int FindIndex(int startIndex, int count, Predicate&lt;T&gt; ^ match);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.FindIndex : int * int * Predicate&lt;'T&gt; -&gt; int" Usage="builder.FindIndex (startIndex, count, match)" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindIndex(System.Int32,System.Int32,System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindIndex(System.Int32,System.Int32,System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindIndex(System.Int32,System.Int32,System.Predicate{`0})</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -846,11 +741,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; T FindLast(Predicate&lt;T&gt; ^ match);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.FindLast : Predicate&lt;'T&gt; -&gt; 'T" Usage="builder.FindLast match" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindLast(System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindLast(System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindLast(System.Predicate{`0})</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -885,11 +775,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; int FindLastIndex(Predicate&lt;T&gt; ^ match);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.FindLastIndex : Predicate&lt;'T&gt; -&gt; int" Usage="builder.FindLastIndex match" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindLastIndex(System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindLastIndex(System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindLastIndex(System.Predicate{`0})</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -924,11 +809,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; int FindLastIndex(int startIndex, Predicate&lt;T&gt; ^ match);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.FindLastIndex : int * Predicate&lt;'T&gt; -&gt; int" Usage="builder.FindLastIndex (startIndex, match)" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindLastIndex(System.Int32,System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindLastIndex(System.Int32,System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindLastIndex(System.Int32,System.Predicate{`0})</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -965,11 +845,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; int FindLastIndex(int startIndex, int count, Predicate&lt;T&gt; ^ match);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.FindLastIndex : int * int * Predicate&lt;'T&gt; -&gt; int" Usage="builder.FindLastIndex (startIndex, count, match)" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindLastIndex(System.Int32,System.Int32,System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindLastIndex(System.Int32,System.Int32,System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.FindLastIndex(System.Int32,System.Int32,System.Predicate{`0})</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -1008,11 +883,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; void ForEach(Action&lt;T&gt; ^ action);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.ForEach : Action&lt;'T&gt; -&gt; unit" Usage="builder.ForEach action" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.ForEach(System.Action{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.ForEach(System.Action{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.ForEach(System.Action{`0})</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -1074,11 +944,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; System::Collections::Immutable::ImmutableList&lt;T&gt; ^ GetRange(int index, int count);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.GetRange : int * int -&gt; System.Collections.Immutable.ImmutableList&lt;'T&gt;" Usage="builder.GetRange (index, count)" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.GetRange(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.GetRange(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.GetRange(System.Int32,System.Int32)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>
@@ -1113,11 +978,6 @@
       <MemberSignature Language="F#" Value="abstract member IndexOf : 'T -&gt; int&#xA;override this.IndexOf : 'T -&gt; int" Usage="builder.IndexOf item" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IList`1.IndexOf(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1258,11 +1118,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IList`1.Insert(System.Int32,`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1329,11 +1184,6 @@
       <MemberSignature Language="F#" Value="member this.Item(int) : 'T with get, set" Usage="System.Collections.Immutable.ImmutableList&lt;'T&gt;.Builder.Item" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.IList`1.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1537,11 +1387,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1607,16 +1452,6 @@
       <MemberSignature Language="F#" Value="abstract member RemoveAt : int -&gt; unit&#xA;override this.RemoveAt : int -&gt; unit" Usage="builder.RemoveAt index" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IList`1.RemoveAt(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
       </Implements>
@@ -1834,11 +1669,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1867,11 +1697,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Generic::IEnumerator&lt;T&gt; ^ System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator() = System::Collections::Generic::IEnumerable&lt;T&gt;::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1908,11 +1733,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.ICollection.CopyTo(Array ^ array, int arrayIndex) = System::Collections::ICollection::CopyTo;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1957,11 +1777,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -1998,11 +1813,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2036,11 +1846,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2078,11 +1883,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual int System.Collections.IList.Add(System::Object ^ value) = System::Collections::IList::Add;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2125,11 +1925,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2166,11 +1961,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Collections.IList.Contains(System::Object ^ value) = System::Collections::IList::Contains;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2214,11 +2004,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2259,11 +2044,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.IList.Insert(int index, System::Object ^ value) = System::Collections::IList::Insert;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2308,11 +2088,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2344,11 +2119,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -2379,11 +2149,6 @@
       <MemberSignature Language="F#" Usage="System.Collections.IList.Item" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
         <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2417,11 +2182,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.IList.Remove(System::Object ^ value) = System::Collections::IList::Remove;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2500,11 +2260,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; bool TrueForAll(Predicate&lt;T&gt; ^ match);" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberSignature Language="F#" Value="member this.TrueForAll : Predicate&lt;'T&gt; -&gt; bool" Usage="builder.TrueForAll match" FrameworkAlternate="netcore-2.0;netcore-2.1;netcore-2.2;netcore-3.0;netcore-3.1" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.TrueForAll(System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.TrueForAll(System.Predicate{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableListQueries`1.TrueForAll(System.Predicate{`0})</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
         <AssemblyVersion>1.1.37.0</AssemblyVersion>

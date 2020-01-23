@@ -72,18 +72,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Media.Animation.IEasingFunction.Ease(System.Double)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Media.Animation.IEasingFunction.Ease(System.Double)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Media.Animation.IEasingFunction.Ease(System.Double)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Media.Animation.IEasingFunction.Ease(System.Double)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Media.Animation.IEasingFunction.Ease(System.Double)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Media.Animation.IEasingFunction.Ease(System.Double)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Media.Animation.IEasingFunction.Ease(System.Double)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Media.Animation.IEasingFunction.Ease(System.Double)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Media.Animation.IEasingFunction.Ease(System.Double)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Media.Animation.IEasingFunction.Ease(System.Double)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Media.Animation.IEasingFunction.Ease(System.Double)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Media.Animation.IEasingFunction.Ease(System.Double)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Media.Animation.IEasingFunction.Ease(System.Double)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>

@@ -60,9 +60,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Vsa.IVsaItem.GetOption(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Vsa.IVsaItem.GetOption(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Vsa.IVsaItem.GetOption(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Vsa.IVsaItem.GetOption(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -92,9 +89,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaItem.IsDirty</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Vsa.IVsaItem.IsDirty</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Vsa.IVsaItem.IsDirty</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Vsa.IVsaItem.IsDirty</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -121,9 +115,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaItem.ItemType</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Vsa.IVsaItem.ItemType</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Vsa.IVsaItem.ItemType</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Vsa.IVsaItem.ItemType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -149,9 +140,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Vsa.IVsaItem.Name</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Vsa.IVsaItem.Name</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Vsa.IVsaItem.Name</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Vsa.IVsaItem.Name</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Vsa</AssemblyName>
@@ -176,9 +164,6 @@
       <MemberSignature Language="F#" Value="abstract member SetOption : string * obj -&gt; unit&#xA;override this.SetOption : string * obj -&gt; unit" Usage="vsaItem.SetOption (Name, value)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Vsa.IVsaItem.SetOption(System.String,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Vsa.IVsaItem.SetOption(System.String,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Vsa.IVsaItem.SetOption(System.String,System.Object)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Vsa.IVsaItem.SetOption(System.String,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -59,7 +59,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.DependencyInjection.Specification.Fakes.IFakeOuterService.MultipleServices</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.DependencyInjection.Specification.Fakes.IFakeOuterService.MultipleServices</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection.Specification.Tests</AssemblyName>
@@ -84,7 +83,6 @@
       <MemberSignature Language="F#" Value="member this.SingleService : Microsoft.Extensions.DependencyInjection.Specification.Fakes.IFakeService" Usage="Microsoft.Extensions.DependencyInjection.Specification.Fakes.FakeDisposableCallbackOuterService.SingleService" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.Extensions.DependencyInjection.Specification.Fakes.IFakeOuterService.SingleService</InterfaceMember>
         <InterfaceMember>P:Microsoft.Extensions.DependencyInjection.Specification.Fakes.IFakeOuterService.SingleService</InterfaceMember>
       </Implements>
       <AssemblyInfo>

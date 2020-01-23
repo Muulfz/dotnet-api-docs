@@ -109,23 +109,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelDataStore.Item(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>

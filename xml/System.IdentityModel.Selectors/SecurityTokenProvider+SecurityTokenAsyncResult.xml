@@ -58,18 +58,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncState</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel</AssemblyName>
@@ -95,18 +83,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.AsyncWaitHandle</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel</AssemblyName>
@@ -131,18 +107,6 @@
       <MemberSignature Language="F#" Value="member this.CompletedSynchronously : bool" Usage="System.IdentityModel.Selectors.SecurityTokenProvider.SecurityTokenAsyncResult.CompletedSynchronously" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
         <InterfaceMember>P:System.IAsyncResult.CompletedSynchronously</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -194,18 +158,6 @@
       <MemberSignature Language="F#" Value="member this.IsCompleted : bool" Usage="System.IdentityModel.Selectors.SecurityTokenProvider.SecurityTokenAsyncResult.IsCompleted" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
-        <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
         <InterfaceMember>P:System.IAsyncResult.IsCompleted</InterfaceMember>
       </Implements>
       <AssemblyInfo>

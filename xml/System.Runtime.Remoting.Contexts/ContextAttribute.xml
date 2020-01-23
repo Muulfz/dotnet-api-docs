@@ -147,23 +147,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.Freeze(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -238,23 +221,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.GetPropertiesForNewContext(System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -299,23 +265,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextAttribute.IsContextOK(System.Runtime.Remoting.Contexts.Context,System.Runtime.Remoting.Activation.IConstructionCallMessage)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -356,23 +305,6 @@
       <MemberSignature Language="F#" Value="abstract member IsNewContextOK : System.Runtime.Remoting.Contexts.Context -&gt; bool&#xA;override this.IsNewContextOK : System.Runtime.Remoting.Contexts.Context -&gt; bool" Usage="contextAttribute.IsNewContextOK newCtx" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContextProperty.IsNewContextOK(System.Runtime.Remoting.Contexts.Context)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -421,23 +353,6 @@
       <MemberSignature Language="F#" Value="member this.Name : string" Usage="System.Runtime.Remoting.Contexts.ContextAttribute.Name" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Remoting.Contexts.IContextProperty.Name</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -106,23 +106,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Messaging.IMessage.Properties</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>

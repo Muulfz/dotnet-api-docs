@@ -62,10 +62,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Hosting.IApplicationLifetime.ApplicationStarted</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IApplicationLifetime.ApplicationStarted</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IApplicationLifetime.ApplicationStarted</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostApplicationLifetime.ApplicationStarted</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IApplicationLifetime.ApplicationStarted</InterfaceMember>
         <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostApplicationLifetime.ApplicationStarted</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -94,10 +90,6 @@
       <MemberSignature Language="F#" Value="member this.ApplicationStopped : System.Threading.CancellationToken" Usage="Microsoft.Extensions.Hosting.Internal.ApplicationLifetime.ApplicationStopped" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IApplicationLifetime.ApplicationStopped</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IApplicationLifetime.ApplicationStopped</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IApplicationLifetime.ApplicationStopped</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostApplicationLifetime.ApplicationStopped</InterfaceMember>
         <InterfaceMember>P:Microsoft.Extensions.Hosting.IApplicationLifetime.ApplicationStopped</InterfaceMember>
         <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostApplicationLifetime.ApplicationStopped</InterfaceMember>
       </Implements>
@@ -128,10 +120,6 @@
       <MemberSignature Language="F#" Value="member this.ApplicationStopping : System.Threading.CancellationToken" Usage="Microsoft.Extensions.Hosting.Internal.ApplicationLifetime.ApplicationStopping" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IApplicationLifetime.ApplicationStopping</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IApplicationLifetime.ApplicationStopping</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IApplicationLifetime.ApplicationStopping</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostApplicationLifetime.ApplicationStopping</InterfaceMember>
         <InterfaceMember>P:Microsoft.Extensions.Hosting.IApplicationLifetime.ApplicationStopping</InterfaceMember>
         <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostApplicationLifetime.ApplicationStopping</InterfaceMember>
       </Implements>
@@ -209,10 +197,6 @@
       <MemberSignature Language="F#" Value="abstract member StopApplication : unit -&gt; unit&#xA;override this.StopApplication : unit -&gt; unit" Usage="applicationLifetime.StopApplication " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Extensions.Hosting.IApplicationLifetime.StopApplication</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Hosting.IApplicationLifetime.StopApplication</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Hosting.IApplicationLifetime.StopApplication</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostApplicationLifetime.StopApplication</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Hosting.IApplicationLifetime.StopApplication</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Hosting.IHostApplicationLifetime.StopApplication</InterfaceMember>
       </Implements>

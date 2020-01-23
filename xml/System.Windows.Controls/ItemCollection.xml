@@ -94,20 +94,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -139,17 +125,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveFiltering</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -175,17 +150,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveGrouping</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -210,17 +174,6 @@
       <MemberSignature Language="F#" Value="member this.CanChangeLiveSorting : bool" Usage="System.Windows.Controls.ItemCollection.CanChangeLiveSorting" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveSorting</InterfaceMember>
         <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.CanChangeLiveSorting</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -337,20 +290,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -388,20 +327,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -430,20 +355,6 @@
       <MemberSignature Language="F#" Value="abstract member CopyTo : Array * int -&gt; unit&#xA;override this.CopyTo : Array * int -&gt; unit" Usage="itemCollection.CopyTo (array, index)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -477,20 +388,6 @@
       <MemberSignature Language="F#" Value="member this.Count : int" Usage="System.Windows.Controls.ItemCollection.Count" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -630,20 +527,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -768,20 +651,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -810,20 +679,6 @@
       <MemberSignature Language="F#" Value="abstract member Insert : int * obj -&gt; unit&#xA;override this.Insert : int * obj -&gt; unit" Usage="itemCollection.Insert (insertIndex, insertItem)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -935,17 +790,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveFiltering</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveFiltering</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -970,17 +814,6 @@
       <MemberSignature Language="F#" Value="member this.IsLiveGrouping : Nullable&lt;bool&gt; with get, set" Usage="System.Windows.Controls.ItemCollection.IsLiveGrouping" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveGrouping</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveGrouping</InterfaceMember>
         <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveGrouping</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1007,17 +840,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveSorting</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.IsLiveSorting</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1042,20 +864,6 @@
       <MemberSignature Language="F#" Value="member this.Item(int) : obj with get, set" Usage="System.Windows.Controls.ItemCollection.Item" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
         <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1088,17 +896,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveFilteringProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveFilteringProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveFilteringProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveFilteringProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveFilteringProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveFilteringProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveFilteringProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveFilteringProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveFilteringProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveFilteringProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveFilteringProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveFilteringProperties</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1123,17 +920,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveGroupingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveGroupingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveGroupingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveGroupingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveGroupingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveGroupingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveGroupingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveGroupingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveGroupingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveGroupingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveGroupingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveGroupingProperties</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1157,17 +943,6 @@
       <MemberSignature Language="F#" Value="member this.LiveSortingProperties : System.Collections.ObjectModel.ObservableCollection&lt;string&gt;" Usage="System.Windows.Controls.ItemCollection.LiveSortingProperties" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveSortingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveSortingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveSortingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveSortingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveSortingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveSortingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveSortingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveSortingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveSortingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveSortingProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveSortingProperties</InterfaceMember>
         <InterfaceMember>P:System.ComponentModel.ICollectionViewLiveShaping.LiveSortingProperties</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1430,23 +1205,6 @@
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1484,23 +1242,6 @@
       <Implements>
         <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1592,20 +1333,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1632,20 +1359,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1670,20 +1383,6 @@
       <MemberSignature Language="F#" Usage="System.Collections.IList.IsFixedSize" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
         <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1716,20 +1415,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1759,20 +1444,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.ComponentModel.IEditableCollectionView.AddNew() = System::ComponentModel::IEditableCollectionView::AddNew;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.AddNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.AddNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.AddNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.AddNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.AddNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.AddNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.AddNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.AddNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.AddNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.AddNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.AddNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.AddNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.AddNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.AddNew</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.AddNew</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1807,20 +1478,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanAddNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanAddNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanAddNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanAddNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanAddNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanAddNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanAddNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanAddNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanAddNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanAddNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanAddNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanAddNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanAddNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanAddNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanAddNew</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1854,20 +1511,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanCancelEdit</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanCancelEdit</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanCancelEdit</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanCancelEdit</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanCancelEdit</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanCancelEdit</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanCancelEdit</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanCancelEdit</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanCancelEdit</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanCancelEdit</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanCancelEdit</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanCancelEdit</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanCancelEdit</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanCancelEdit</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanCancelEdit</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1900,20 +1543,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelEdit</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1944,20 +1573,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.IEditableCollectionView.CancelNew() = System::ComponentModel::IEditableCollectionView::CancelNew;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelNew</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CancelNew</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1991,20 +1606,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanRemove</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanRemove</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanRemove</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanRemove</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanRemove</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanRemove</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanRemove</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanRemove</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanRemove</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanRemove</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanRemove</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanRemove</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanRemove</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanRemove</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CanRemove</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -2037,20 +1638,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitEdit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitEdit</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -2081,20 +1668,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.IEditableCollectionView.CommitNew() = System::ComponentModel::IEditableCollectionView::CommitNew;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitNew</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitNew</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.CommitNew</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2128,20 +1701,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentAddItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentAddItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentAddItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentAddItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentAddItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentAddItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentAddItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentAddItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentAddItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentAddItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentAddItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentAddItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentAddItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentAddItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentAddItem</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -2174,20 +1733,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentEditItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentEditItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentEditItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentEditItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentEditItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentEditItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentEditItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentEditItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentEditItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentEditItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentEditItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentEditItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentEditItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentEditItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.CurrentEditItem</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -2218,20 +1763,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.IEditableCollectionView.EditItem(System::Object ^ item) = System::ComponentModel::IEditableCollectionView::EditItem;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.EditItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.EditItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.EditItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.EditItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.EditItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.EditItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.EditItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.EditItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.EditItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.EditItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.EditItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.EditItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.EditItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.EditItem(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.EditItem(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2268,20 +1799,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsAddingNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsAddingNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsAddingNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsAddingNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsAddingNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsAddingNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsAddingNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsAddingNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsAddingNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsAddingNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsAddingNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsAddingNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsAddingNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsAddingNew</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsAddingNew</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -2314,20 +1831,6 @@
       <MemberSignature Language="F#" Usage="System.ComponentModel.IEditableCollectionView.IsEditingItem" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsEditingItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsEditingItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsEditingItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsEditingItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsEditingItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsEditingItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsEditingItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsEditingItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsEditingItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsEditingItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsEditingItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsEditingItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsEditingItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsEditingItem</InterfaceMember>
         <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.IsEditingItem</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2362,20 +1865,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.NewItemPlaceholderPosition</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.NewItemPlaceholderPosition</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.NewItemPlaceholderPosition</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.NewItemPlaceholderPosition</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.NewItemPlaceholderPosition</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.NewItemPlaceholderPosition</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.NewItemPlaceholderPosition</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.NewItemPlaceholderPosition</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.NewItemPlaceholderPosition</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.NewItemPlaceholderPosition</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.NewItemPlaceholderPosition</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.NewItemPlaceholderPosition</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.NewItemPlaceholderPosition</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.NewItemPlaceholderPosition</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionView.NewItemPlaceholderPosition</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -2407,19 +1896,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2455,19 +1931,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionView.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2502,18 +1965,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.ComponentModel.IEditableCollectionViewAddNewItem.AddNewItem(System::Object ^ newItem) = System::ComponentModel::IEditableCollectionViewAddNewItem::AddNewItem;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionViewAddNewItem.AddNewItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionViewAddNewItem.AddNewItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionViewAddNewItem.AddNewItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionViewAddNewItem.AddNewItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionViewAddNewItem.AddNewItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionViewAddNewItem.AddNewItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionViewAddNewItem.AddNewItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionViewAddNewItem.AddNewItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionViewAddNewItem.AddNewItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionViewAddNewItem.AddNewItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionViewAddNewItem.AddNewItem(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.IEditableCollectionViewAddNewItem.AddNewItem(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.IEditableCollectionViewAddNewItem.AddNewItem(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2550,18 +2001,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IEditableCollectionViewAddNewItem.CanAddNewItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionViewAddNewItem.CanAddNewItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionViewAddNewItem.CanAddNewItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionViewAddNewItem.CanAddNewItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionViewAddNewItem.CanAddNewItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionViewAddNewItem.CanAddNewItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionViewAddNewItem.CanAddNewItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionViewAddNewItem.CanAddNewItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionViewAddNewItem.CanAddNewItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionViewAddNewItem.CanAddNewItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionViewAddNewItem.CanAddNewItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionViewAddNewItem.CanAddNewItem</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IEditableCollectionViewAddNewItem.CanAddNewItem</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -2594,20 +2033,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.IItemProperties.ItemProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IItemProperties.ItemProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IItemProperties.ItemProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IItemProperties.ItemProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IItemProperties.ItemProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IItemProperties.ItemProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IItemProperties.ItemProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IItemProperties.ItemProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IItemProperties.ItemProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IItemProperties.ItemProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IItemProperties.ItemProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IItemProperties.ItemProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IItemProperties.ItemProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IItemProperties.ItemProperties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.IItemProperties.ItemProperties</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -2638,20 +2063,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Windows.IWeakEventListener.ReceiveWeakEvent(Type ^ managerType, System::Object ^ sender, EventArgs ^ e) = System::Windows::IWeakEventListener::ReceiveWeakEvent;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
         <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -83,20 +83,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -1490,20 +1476,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -2275,20 +2247,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -2400,19 +2358,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.IDisposable.Dispose() = IDisposable::Dispose;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -62,15 +62,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.Presentation.IActivityTemplateFactory`1.Create(System.Windows.DependencyObject,System.Windows.IDataObject)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.IActivityTemplateFactory`1.Create(System.Windows.DependencyObject,System.Windows.IDataObject)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.IActivityTemplateFactory`1.Create(System.Windows.DependencyObject,System.Windows.IDataObject)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.IActivityTemplateFactory`1.Create(System.Windows.DependencyObject,System.Windows.IDataObject)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.IActivityTemplateFactory`1.Create(System.Windows.DependencyObject,System.Windows.IDataObject)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.IActivityTemplateFactory`1.Create(System.Windows.DependencyObject,System.Windows.IDataObject)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.IActivityTemplateFactory`1.Create(System.Windows.DependencyObject,System.Windows.IDataObject)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.IActivityTemplateFactory`1.Create(System.Windows.DependencyObject,System.Windows.IDataObject)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.IActivityTemplateFactory`1.Create(System.Windows.DependencyObject,System.Windows.IDataObject)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.IActivityTemplateFactory`1.Create(System.Windows.DependencyObject,System.Windows.IDataObject)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Presentation</AssemblyName>

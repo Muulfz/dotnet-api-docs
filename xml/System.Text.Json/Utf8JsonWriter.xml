@@ -185,7 +185,6 @@ The `CurrentDepth` property tracks the recursive depth of the nested objects / a
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Text.Json</AssemblyName>
@@ -222,7 +221,6 @@ The <xref:System.Text.Json.Utf8JsonWriter> instance cannot be reused after dispo
       <MemberSignature Language="F#" Value="abstract member DisposeAsync : unit -&gt; System.Threading.Tasks.ValueTask&#xA;override this.DisposeAsync : unit -&gt; System.Threading.Tasks.ValueTask" Usage="utf8JsonWriter.DisposeAsync " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IAsyncDisposable.DisposeAsync</InterfaceMember>
         <InterfaceMember>M:System.IAsyncDisposable.DisposeAsync</InterfaceMember>
       </Implements>
       <AssemblyInfo>

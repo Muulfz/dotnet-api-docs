@@ -59,17 +59,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
@@ -107,17 +96,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
@@ -154,17 +132,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
@@ -193,17 +160,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.IHttpModule.Init(System::Web::HttpApplication ^ context) = System::Web::IHttpModule::Init;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
         <InterfaceMember>M:System.Web.IHttpModule.Init(System.Web.HttpApplication)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -88,19 +88,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.BeginProcessRequest(System.Web.HttpContext,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -177,19 +164,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpAsyncHandler.EndProcessRequest(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -253,19 +227,6 @@
       <MemberSignature Language="F#" Value="member this.IsReusable : bool" Usage="System.Web.DefaultHttpHandler.IsReusable" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
-        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
-        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
-        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
-        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
-        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
-        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
-        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
-        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
-        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
-        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
-        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
-        <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
         <InterfaceMember>P:System.Web.IHttpHandler.IsReusable</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -385,19 +346,6 @@
       <MemberSignature Language="F#" Value="abstract member ProcessRequest : System.Web.HttpContext -&gt; unit&#xA;override this.ProcessRequest : System.Web.HttpContext -&gt; unit" Usage="defaultHttpHandler.ProcessRequest context" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
-        <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
         <InterfaceMember>M:System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

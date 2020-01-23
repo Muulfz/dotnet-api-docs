@@ -1083,29 +1083,6 @@ This property does not move the reader.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml</AssemblyName>
@@ -2529,29 +2506,6 @@ This property does not move the reader.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.GetNamespacesInScope(System.Xml.XmlNamespaceScope)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml</AssemblyName>
@@ -2601,29 +2555,6 @@ This property does not move the reader.
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupNamespace(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml</AssemblyName>
@@ -2672,29 +2603,6 @@ This property does not move the reader.
       <MemberSignature Language="C++ CLI" Value=" virtual System::String ^ System.Xml.IXmlNamespaceResolver.LookupPrefix(System::String ^ namespaceName) = System::Xml::IXmlNamespaceResolver::LookupPrefix;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Xml.IXmlNamespaceResolver.LookupPrefix(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

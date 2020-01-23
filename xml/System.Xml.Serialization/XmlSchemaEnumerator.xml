@@ -92,29 +92,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IEnumerator`1.Current</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml</AssemblyName>
@@ -152,29 +129,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml</AssemblyName>
@@ -211,29 +165,6 @@
       <MemberSignature Language="F#" Value="abstract member MoveNext : unit -&gt; bool&#xA;override this.MoveNext : unit -&gt; bool" Usage="xmlSchemaEnumerator.MoveNext " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -274,29 +205,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml</AssemblyName>
@@ -332,29 +240,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.IEnumerator.Reset() = System::Collections::IEnumerator::Reset;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
       </Implements>
       <AssemblyInfo>

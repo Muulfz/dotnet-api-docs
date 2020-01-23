@@ -103,21 +103,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Accessibility.IAccessible.accChildCount</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accChildCount</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accChildCount</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accChildCount</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accChildCount</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accChildCount</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accChildCount</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accChildCount</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accChildCount</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accChildCount</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accChildCount</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accChildCount</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accChildCount</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accChildCount</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accChildCount</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accChildCount</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -148,22 +133,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void Accessibility.IAccessible.accDoDefaultAction(System::Object ^ childID) = Accessibility::IAccessible::accDoDefaultAction;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
         <InterfaceMember>M:Accessibility.IAccessible.accDoDefaultAction(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -200,21 +169,6 @@
       <MemberSignature Language="F#" Usage="Accessibility.IAccessible.accFocus" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Accessibility.IAccessible.accFocus</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accFocus</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accFocus</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accFocus</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accFocus</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accFocus</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accFocus</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accFocus</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accFocus</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accFocus</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accFocus</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accFocus</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accFocus</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accFocus</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accFocus</InterfaceMember>
         <InterfaceMember>P:Accessibility.IAccessible.accFocus</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -254,22 +208,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ Accessibility.IAccessible.accHitTest(int xLeft, int yTop) = Accessibility::IAccessible::accHitTest;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
         <InterfaceMember>M:Accessibility.IAccessible.accHitTest(System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -316,22 +254,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accLocation(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -374,22 +296,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ Accessibility.IAccessible.accNavigate(int navDir, System::Object ^ childID) = Accessibility::IAccessible::accNavigate;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
         <InterfaceMember>M:Accessibility.IAccessible.accNavigate(System.Int32,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -438,21 +344,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Accessibility.IAccessible.accParent</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accParent</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accParent</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accParent</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accParent</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accParent</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accParent</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accParent</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accParent</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accParent</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accParent</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accParent</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accParent</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accParent</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accParent</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accParent</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -483,22 +374,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void Accessibility.IAccessible.accSelect(int flagsSelect, System::Object ^ childID) = Accessibility::IAccessible::accSelect;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
         <InterfaceMember>M:Accessibility.IAccessible.accSelect(System.Int32,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -549,21 +424,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Accessibility.IAccessible.accSelection</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accSelection</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accSelection</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accSelection</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accSelection</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accSelection</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accSelection</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accSelection</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accSelection</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accSelection</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accSelection</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accSelection</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accSelection</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accSelection</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accSelection</InterfaceMember>
-        <InterfaceMember>P:Accessibility.IAccessible.accSelection</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -604,22 +464,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accChild(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -648,22 +492,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::String ^ Accessibility.IAccessible.get_accDefaultAction(System::Object ^ childID) = Accessibility::IAccessible::get_accDefaultAction;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
         <InterfaceMember>M:Accessibility.IAccessible.get_accDefaultAction(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -694,22 +522,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accDescription(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -739,22 +551,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelp(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -783,22 +579,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual int Accessibility.IAccessible.get_accHelpTopic([Runtime::InteropServices::Out] System::String ^ % pszHelpFile, System::Object ^ childID) = Accessibility::IAccessible::get_accHelpTopic;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
         <InterfaceMember>M:Accessibility.IAccessible.get_accHelpTopic(System.String@,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -830,22 +610,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::String ^ Accessibility.IAccessible.get_accKeyboardShortcut(System::Object ^ childID) = Accessibility::IAccessible::get_accKeyboardShortcut;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
         <InterfaceMember>M:Accessibility.IAccessible.get_accKeyboardShortcut(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -881,22 +645,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accName(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -931,22 +679,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accRole(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -975,22 +707,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ Accessibility.IAccessible.get_accState(System::Object ^ childID) = Accessibility::IAccessible::get_accState;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
         <InterfaceMember>M:Accessibility.IAccessible.get_accState(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1021,22 +737,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.get_accValue(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -1065,22 +765,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void Accessibility.IAccessible.set_accName(System::Object ^ childID, System::String ^ newName) = Accessibility::IAccessible::set_accName;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
         <InterfaceMember>M:Accessibility.IAccessible.set_accName(System.Object,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1111,22 +795,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void Accessibility.IAccessible.set_accValue(System::Object ^ childID, System::String ^ newValue) = Accessibility::IAccessible::set_accValue;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
         <InterfaceMember>M:Accessibility.IAccessible.set_accValue(System.Object,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1211,10 +879,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::String ^ DefaultAction { System::String ^ get(); };" />
       <MemberSignature Language="F#" Value="member this.DefaultAction : string" Usage="System.Windows.Forms.AccessibleObject.DefaultAction" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:System.Windows.Forms.UnsafeNativeMethods.ILegacyIAccessibleProvider.DefaultAction</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.UnsafeNativeMethods.ILegacyIAccessibleProvider.DefaultAction</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
         <AssemblyVersion>1.0.5000.0</AssemblyVersion>
@@ -1258,10 +922,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::String ^ Description { System::String ^ get(); };" />
       <MemberSignature Language="F#" Value="member this.Description : string" Usage="System.Windows.Forms.AccessibleObject.Description" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:System.Windows.Forms.UnsafeNativeMethods.ILegacyIAccessibleProvider.Description</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.UnsafeNativeMethods.ILegacyIAccessibleProvider.Description</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
         <AssemblyVersion>1.0.5000.0</AssemblyVersion>
@@ -1305,10 +965,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void DoDefaultAction();" />
       <MemberSignature Language="F#" Value="abstract member DoDefaultAction : unit -&gt; unit&#xA;override this.DoDefaultAction : unit -&gt; unit" Usage="accessibleObject.DoDefaultAction " />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Windows.Forms.UnsafeNativeMethods.ILegacyIAccessibleProvider.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.UnsafeNativeMethods.ILegacyIAccessibleProvider.DoDefaultAction</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
         <AssemblyVersion>1.0.5000.0</AssemblyVersion>
@@ -1532,10 +1188,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::String ^ Help { System::String ^ get(); };" />
       <MemberSignature Language="F#" Value="member this.Help : string" Usage="System.Windows.Forms.AccessibleObject.Help" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:System.Windows.Forms.UnsafeNativeMethods.ILegacyIAccessibleProvider.Help</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.UnsafeNativeMethods.ILegacyIAccessibleProvider.Help</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
         <AssemblyVersion>1.0.5000.0</AssemblyVersion>
@@ -1612,10 +1264,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual property System::String ^ KeyboardShortcut { System::String ^ get(); };" />
       <MemberSignature Language="F#" Value="member this.KeyboardShortcut : string" Usage="System.Windows.Forms.AccessibleObject.KeyboardShortcut" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:System.Windows.Forms.UnsafeNativeMethods.ILegacyIAccessibleProvider.KeyboardShortcut</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.UnsafeNativeMethods.ILegacyIAccessibleProvider.KeyboardShortcut</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
         <AssemblyVersion>1.0.5000.0</AssemblyVersion>
@@ -2043,22 +1691,6 @@ This method must be overridden in derived classes that support the UI automation
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetField(System.String,System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -2098,22 +1730,6 @@ This method must be overridden in derived classes that support the UI automation
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetFields(System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -2151,22 +1767,6 @@ This method must be overridden in derived classes that support the UI automation
       <MemberSignature Language="C++ CLI" Value=" virtual cli::array &lt;System::Reflection::MemberInfo ^&gt; ^ System.Reflection.IReflect.GetMember(System::String ^ name, System::Reflection::BindingFlags bindingAttr) = System::Reflection::IReflect::GetMember;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
         <InterfaceMember>M:System.Reflection.IReflect.GetMember(System.String,System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2206,22 +1806,6 @@ This method must be overridden in derived classes that support the UI automation
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMembers(System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -2257,22 +1841,6 @@ This method must be overridden in derived classes that support the UI automation
       <MemberSignature Language="C++ CLI" Value=" virtual System::Reflection::MethodInfo ^ System.Reflection.IReflect.GetMethod(System::String ^ name, System::Reflection::BindingFlags bindingAttr) = System::Reflection::IReflect::GetMethod;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
         <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2311,22 +1879,6 @@ This method must be overridden in derived classes that support the UI automation
       <MemberSignature Language="C++ CLI" Value=" virtual System::Reflection::MethodInfo ^ System.Reflection.IReflect.GetMethod(System::String ^ name, System::Reflection::BindingFlags bindingAttr, System::Reflection::Binder ^ binder, cli::array &lt;Type ^&gt; ^ types, cli::array &lt;System::Reflection::ParameterModifier&gt; ^ modifiers) = System::Reflection::IReflect::GetMethod;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
         <InterfaceMember>M:System.Reflection.IReflect.GetMethod(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2375,22 +1927,6 @@ This method must be overridden in derived classes that support the UI automation
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetMethods(System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -2427,22 +1963,6 @@ This method must be overridden in derived classes that support the UI automation
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperties(System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -2478,22 +1998,6 @@ This method must be overridden in derived classes that support the UI automation
       <MemberSignature Language="C++ CLI" Value=" virtual System::Reflection::PropertyInfo ^ System.Reflection.IReflect.GetProperty(System::String ^ name, System::Reflection::BindingFlags bindingAttr) = System::Reflection::IReflect::GetProperty;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
         <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2532,22 +2036,6 @@ This method must be overridden in derived classes that support the UI automation
       <MemberSignature Language="C++ CLI" Value=" virtual System::Reflection::PropertyInfo ^ System.Reflection.IReflect.GetProperty(System::String ^ name, System::Reflection::BindingFlags bindingAttr, System::Reflection::Binder ^ binder, Type ^ returnType, cli::array &lt;Type ^&gt; ^ types, cli::array &lt;System::Reflection::ParameterModifier&gt; ^ modifiers) = System::Reflection::IReflect::GetProperty;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
         <InterfaceMember>M:System.Reflection.IReflect.GetProperty(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Type,System.Type[],System.Reflection.ParameterModifier[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2593,22 +2081,6 @@ This method must be overridden in derived classes that support the UI automation
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.Reflection.IReflect.InvokeMember(System::String ^ name, System::Reflection::BindingFlags invokeAttr, System::Reflection::Binder ^ binder, System::Object ^ target, cli::array &lt;System::Object ^&gt; ^ args, cli::array &lt;System::Reflection::ParameterModifier&gt; ^ modifiers, System::Globalization::CultureInfo ^ culture, cli::array &lt;System::String ^&gt; ^ namedParameters) = System::Reflection::IReflect::InvokeMember;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
         <InterfaceMember>M:System.Reflection.IReflect.InvokeMember(System.String,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object,System.Object[],System.Reflection.ParameterModifier[],System.Globalization.CultureInfo,System.String[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2688,21 +2160,6 @@ More than one argument is specified for a field set operation.</exception>
       <MemberSignature Language="F#" Usage="System.Reflection.IReflect.UnderlyingSystemType" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
-        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
-        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
-        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
-        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
-        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
-        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
-        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
-        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
-        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
-        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
-        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
-        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
-        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
-        <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
         <InterfaceMember>P:System.Reflection.IReflect.UnderlyingSystemType</InterfaceMember>
       </Implements>
       <AssemblyInfo>

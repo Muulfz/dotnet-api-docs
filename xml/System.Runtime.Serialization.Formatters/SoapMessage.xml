@@ -70,23 +70,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.Headers</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -115,23 +98,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.MethodName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -158,23 +124,6 @@
       <MemberSignature Language="F#" Value="member this.ParamNames : string[] with get, set" Usage="System.Runtime.Serialization.Formatters.SoapMessage.ParamNames" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamNames</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -203,23 +152,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamTypes</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -247,23 +179,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.ParamValues</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -290,23 +205,6 @@
       <MemberSignature Language="F#" Value="member this.XmlNameSpace : string with get, set" Usage="System.Runtime.Serialization.Formatters.SoapMessage.XmlNameSpace" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Serialization.Formatters.ISoapMessage.XmlNameSpace</InterfaceMember>
       </Implements>
       <AssemblyInfo>

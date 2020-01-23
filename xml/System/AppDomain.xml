@@ -140,21 +140,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.AppendPrivatePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.AppendPrivatePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.AppendPrivatePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.AppendPrivatePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.AppendPrivatePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.AppendPrivatePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.AppendPrivatePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.AppendPrivatePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.AppendPrivatePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.AppendPrivatePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.AppendPrivatePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.AppendPrivatePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.AppendPrivatePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.AppendPrivatePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.AppendPrivatePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.AppendPrivatePath(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -345,21 +330,6 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System._AppDomain.AssemblyLoad</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyLoad</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyLoad</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyLoad</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyLoad</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyLoad</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyLoad</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyLoad</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyLoad</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyLoad</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyLoad</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyLoad</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyLoad</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyLoad</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyLoad</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyLoad</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -428,21 +398,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual event ResolveEventHandler ^ AssemblyResolve;" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Event</MemberType>
       <Implements>
-        <InterfaceMember>E:System._AppDomain.AssemblyResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.AssemblyResolve</InterfaceMember>
         <InterfaceMember>E:System._AppDomain.AssemblyResolve</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -524,21 +479,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System._AppDomain.BaseDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.BaseDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.BaseDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.BaseDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.BaseDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.BaseDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.BaseDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.BaseDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.BaseDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.BaseDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.BaseDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.BaseDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.BaseDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.BaseDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.BaseDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.BaseDirectory</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -603,21 +543,6 @@
       <MemberSignature Language="F#" Value="abstract member ClearPrivatePath : unit -&gt; unit&#xA;override this.ClearPrivatePath : unit -&gt; unit" Usage="appDomain.ClearPrivatePath " FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.ClearPrivatePath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearPrivatePath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearPrivatePath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearPrivatePath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearPrivatePath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearPrivatePath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearPrivatePath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearPrivatePath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearPrivatePath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearPrivatePath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearPrivatePath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearPrivatePath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearPrivatePath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearPrivatePath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearPrivatePath</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.ClearPrivatePath</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -699,21 +624,6 @@
       <MemberSignature Language="F#" Value="abstract member ClearShadowCopyPath : unit -&gt; unit&#xA;override this.ClearShadowCopyPath : unit -&gt; unit" Usage="appDomain.ClearShadowCopyPath " FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.ClearShadowCopyPath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearShadowCopyPath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearShadowCopyPath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearShadowCopyPath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearShadowCopyPath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearShadowCopyPath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearShadowCopyPath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearShadowCopyPath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearShadowCopyPath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearShadowCopyPath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearShadowCopyPath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearShadowCopyPath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearShadowCopyPath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearShadowCopyPath</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ClearShadowCopyPath</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.ClearShadowCopyPath</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1384,21 +1294,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1479,21 +1374,6 @@
       <MemberSignature Language="F#" Value="abstract member CreateInstance : string * string * obj[] -&gt; System.Runtime.Remoting.ObjectHandle&#xA;override this.CreateInstance : string * string * obj[] -&gt; System.Runtime.Remoting.ObjectHandle" Usage="appDomain.CreateInstance (assemblyName, typeName, activationAttributes)" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Object[])</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Object[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1666,21 +1546,6 @@
       <MemberSignature Language="F#" Value="member this.CreateInstance : string * string * bool * System.Reflection.BindingFlags * System.Reflection.Binder * obj[] * System.Globalization.CultureInfo * obj[] * System.Security.Policy.Evidence -&gt; System.Runtime.Remoting.ObjectHandle" Usage="appDomain.CreateInstance (assemblyName, typeName, ignoreCase, bindingAttr, binder, args, culture, activationAttributes, securityAttributes)" FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.CreateInstance(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2183,21 +2048,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -2309,21 +2159,6 @@
       <MemberSignature Language="F#" Value="abstract member CreateInstanceFrom : string * string * obj[] -&gt; System.Runtime.Remoting.ObjectHandle&#xA;override this.CreateInstanceFrom : string * string * obj[] -&gt; System.Runtime.Remoting.ObjectHandle" Usage="appDomain.CreateInstanceFrom (assemblyFile, typeName, activationAttributes)" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Object[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Object[])</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Object[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2504,21 +2339,6 @@
       <MemberSignature Language="F#" Value="member this.CreateInstanceFrom : string * string * bool * System.Reflection.BindingFlags * System.Reflection.Binder * obj[] * System.Globalization.CultureInfo * obj[] * System.Security.Policy.Evidence -&gt; System.Runtime.Remoting.ObjectHandle" Usage="appDomain.CreateInstanceFrom (assemblyFile, typeName, ignoreCase, bindingAttr, binder, args, culture, activationAttributes, securityAttributes)" FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.CreateInstanceFrom(System.String,System.String,System.Boolean,System.Reflection.BindingFlags,System.Reflection.Binder,System.Object[],System.Globalization.CultureInfo,System.Object[],System.Security.Policy.Evidence)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3049,21 +2869,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -3216,21 +3021,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -3321,21 +3111,6 @@
       <MemberSignature Language="F#" Value="member this.DefineDynamicAssembly : System.Reflection.AssemblyName * System.Reflection.Emit.AssemblyBuilderAccess * string -&gt; System.Reflection.Emit.AssemblyBuilder" Usage="appDomain.DefineDynamicAssembly (name, access, dir)" FrameworkAlternate="xamarinandroid-7.1" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String)</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3474,21 +3249,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -3579,21 +3339,6 @@
       <MemberSignature Language="F#" Value="member this.DefineDynamicAssembly : System.Reflection.AssemblyName * System.Reflection.Emit.AssemblyBuilderAccess * System.Security.PermissionSet * System.Security.PermissionSet * System.Security.PermissionSet -&gt; System.Reflection.Emit.AssemblyBuilder" Usage="appDomain.DefineDynamicAssembly (name, access, requiredPermissions, optionalPermissions, refusedPermissions)" FrameworkAlternate="xamarinandroid-7.1" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3748,21 +3493,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -3860,21 +3590,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -3965,21 +3680,6 @@
       <MemberSignature Language="F#" Value="member this.DefineDynamicAssembly : System.Reflection.AssemblyName * System.Reflection.Emit.AssemblyBuilderAccess * string * System.Security.Policy.Evidence * System.Security.PermissionSet * System.Security.PermissionSet * System.Security.PermissionSet -&gt; System.Reflection.Emit.AssemblyBuilder" Usage="appDomain.DefineDynamicAssembly (name, access, dir, evidence, requiredPermissions, optionalPermissions, refusedPermissions)" FrameworkAlternate="xamarinandroid-7.1" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4078,21 +3778,6 @@
       <MemberSignature Language="F#" Value="member this.DefineDynamicAssembly : System.Reflection.AssemblyName * System.Reflection.Emit.AssemblyBuilderAccess * string * System.Security.Policy.Evidence * System.Security.PermissionSet * System.Security.PermissionSet * System.Security.PermissionSet * bool -&gt; System.Reflection.Emit.AssemblyBuilder" Usage="appDomain.DefineDynamicAssembly (name, access, dir, evidence, requiredPermissions, optionalPermissions, refusedPermissions, isSynchronized)" FrameworkAlternate="xamarinandroid-7.1" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.DefineDynamicAssembly(System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,System.String,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4286,21 +3971,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.DoCallBack(System.CrossAppDomainDelegate)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DoCallBack(System.CrossAppDomainDelegate)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DoCallBack(System.CrossAppDomainDelegate)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DoCallBack(System.CrossAppDomainDelegate)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DoCallBack(System.CrossAppDomainDelegate)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DoCallBack(System.CrossAppDomainDelegate)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DoCallBack(System.CrossAppDomainDelegate)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DoCallBack(System.CrossAppDomainDelegate)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DoCallBack(System.CrossAppDomainDelegate)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DoCallBack(System.CrossAppDomainDelegate)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DoCallBack(System.CrossAppDomainDelegate)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DoCallBack(System.CrossAppDomainDelegate)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DoCallBack(System.CrossAppDomainDelegate)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DoCallBack(System.CrossAppDomainDelegate)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DoCallBack(System.CrossAppDomainDelegate)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.DoCallBack(System.CrossAppDomainDelegate)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -4410,21 +4080,6 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System._AppDomain.DomainUnload</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.DomainUnload</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.DomainUnload</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.DomainUnload</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.DomainUnload</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.DomainUnload</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.DomainUnload</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.DomainUnload</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.DomainUnload</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.DomainUnload</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.DomainUnload</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.DomainUnload</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.DomainUnload</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.DomainUnload</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.DomainUnload</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.DomainUnload</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -4485,21 +4140,6 @@
       <MemberSignature Language="F#" Value="member this.DynamicDirectory : string" Usage="System.AppDomain.DynamicDirectory" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System._AppDomain.DynamicDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.DynamicDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.DynamicDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.DynamicDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.DynamicDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.DynamicDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.DynamicDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.DynamicDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.DynamicDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.DynamicDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.DynamicDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.DynamicDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.DynamicDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.DynamicDirectory</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.DynamicDirectory</InterfaceMember>
         <InterfaceMember>P:System._AppDomain.DynamicDirectory</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4576,35 +4216,6 @@
       <Implements>
         <InterfaceMember>P:System._AppDomain.Evidence</InterfaceMember>
         <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.Evidence</InterfaceMember>
-        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.Evidence</InterfaceMember>
-        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.Evidence</InterfaceMember>
-        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.Evidence</InterfaceMember>
-        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.Evidence</InterfaceMember>
-        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.Evidence</InterfaceMember>
-        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.Evidence</InterfaceMember>
-        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.Evidence</InterfaceMember>
-        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.Evidence</InterfaceMember>
-        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.Evidence</InterfaceMember>
-        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.Evidence</InterfaceMember>
-        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.Evidence</InterfaceMember>
-        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.Evidence</InterfaceMember>
-        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.Evidence</InterfaceMember>
-        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
-        <InterfaceMember>P:System.Security.IEvidenceFactory.Evidence</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -4657,21 +4268,6 @@
       <MemberSignature Language="F#" Value="abstract member ExecuteAssembly : string -&gt; int&#xA;override this.ExecuteAssembly : string -&gt; int" Usage="appDomain.ExecuteAssembly assemblyFile" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String)</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4760,21 +4356,6 @@
       <MemberSignature Language="F#" Value="member this.ExecuteAssembly : string * System.Security.Policy.Evidence -&gt; int" Usage="appDomain.ExecuteAssembly (assemblyFile, assemblySecurity)" FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence)</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4945,21 +4526,6 @@
       <MemberSignature Language="F#" Value="member this.ExecuteAssembly : string * System.Security.Policy.Evidence * string[] -&gt; int" Usage="appDomain.ExecuteAssembly (assemblyFile, assemblySecurity, args)" FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence,System.String[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence,System.String[])</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.ExecuteAssembly(System.String,System.Security.Policy.Evidence,System.String[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -5781,21 +5347,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System._AppDomain.FriendlyName</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.FriendlyName</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.FriendlyName</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.FriendlyName</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.FriendlyName</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.FriendlyName</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.FriendlyName</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.FriendlyName</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.FriendlyName</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.FriendlyName</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.FriendlyName</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.FriendlyName</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.FriendlyName</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.FriendlyName</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.FriendlyName</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.FriendlyName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -5858,21 +5409,6 @@
       <MemberSignature Language="F#" Value="abstract member GetAssemblies : unit -&gt; System.Reflection.Assembly[]&#xA;override this.GetAssemblies : unit -&gt; System.Reflection.Assembly[]" Usage="appDomain.GetAssemblies " FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.GetAssemblies</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetAssemblies</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetAssemblies</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetAssemblies</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetAssemblies</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetAssemblies</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetAssemblies</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetAssemblies</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetAssemblies</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetAssemblies</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetAssemblies</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetAssemblies</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetAssemblies</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetAssemblies</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetAssemblies</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.GetAssemblies</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -5991,21 +5527,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.GetData(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetData(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetData(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetData(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetData(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetData(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetData(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetData(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetData(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetData(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetData(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetData(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetData(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetData(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetData(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetData(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -6104,21 +5625,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.GetType</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetType</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetType</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetType</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetType</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetType</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetType</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetType</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetType</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetType</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetType</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetType</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetType</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetType</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetType</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -6206,21 +5712,6 @@
       <MemberSignature Language="F#" Value="override this.InitializeLifetimeService : unit -&gt; obj" Usage="appDomain.InitializeLifetimeService " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.InitializeLifetimeService</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.InitializeLifetimeService</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.InitializeLifetimeService</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.InitializeLifetimeService</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.InitializeLifetimeService</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.InitializeLifetimeService</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.InitializeLifetimeService</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.InitializeLifetimeService</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.InitializeLifetimeService</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.InitializeLifetimeService</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.InitializeLifetimeService</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.InitializeLifetimeService</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.InitializeLifetimeService</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.InitializeLifetimeService</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.InitializeLifetimeService</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.InitializeLifetimeService</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -6550,21 +6041,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.Load(System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -6647,21 +6123,6 @@
       <MemberSignature Language="F#" Value="abstract member Load : System.Reflection.AssemblyName -&gt; System.Reflection.Assembly&#xA;override this.Load : System.Reflection.AssemblyName -&gt; System.Reflection.Assembly" Usage="appDomain.Load assemblyRef" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName)</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -6748,21 +6209,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.Load(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -6835,21 +6281,6 @@
       <MemberSignature Language="F#" Value="abstract member Load : byte[] * byte[] -&gt; System.Reflection.Assembly&#xA;override this.Load : byte[] * byte[] -&gt; System.Reflection.Assembly" Usage="appDomain.Load (rawAssembly, rawSymbolStore)" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[])</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -6937,21 +6368,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Reflection.AssemblyName,System.Security.Policy.Evidence)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -7029,21 +6445,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.Load(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String,System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.String,System.Security.Policy.Evidence)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -7120,21 +6521,6 @@
       <MemberSignature Language="F#" Value="member this.Load : byte[] * byte[] * System.Security.Policy.Evidence -&gt; System.Reflection.Assembly" Usage="appDomain.Load (rawAssembly, rawSymbolStore, securityEvidence)" FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[],System.Security.Policy.Evidence)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[],System.Security.Policy.Evidence)</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.Load(System.Byte[],System.Byte[],System.Security.Policy.Evidence)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -7516,21 +6902,6 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System._AppDomain.ProcessExit</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ProcessExit</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ProcessExit</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ProcessExit</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ProcessExit</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ProcessExit</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ProcessExit</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ProcessExit</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ProcessExit</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ProcessExit</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ProcessExit</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ProcessExit</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ProcessExit</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ProcessExit</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ProcessExit</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ProcessExit</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -7707,21 +7078,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System._AppDomain.RelativeSearchPath</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.RelativeSearchPath</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.RelativeSearchPath</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.RelativeSearchPath</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.RelativeSearchPath</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.RelativeSearchPath</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.RelativeSearchPath</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.RelativeSearchPath</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.RelativeSearchPath</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.RelativeSearchPath</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.RelativeSearchPath</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.RelativeSearchPath</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.RelativeSearchPath</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.RelativeSearchPath</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.RelativeSearchPath</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.RelativeSearchPath</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -7777,21 +7133,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual event ResolveEventHandler ^ ResourceResolve;" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Event</MemberType>
       <Implements>
-        <InterfaceMember>E:System._AppDomain.ResourceResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ResourceResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ResourceResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ResourceResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ResourceResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ResourceResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ResourceResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ResourceResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ResourceResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ResourceResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ResourceResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ResourceResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ResourceResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ResourceResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.ResourceResolve</InterfaceMember>
         <InterfaceMember>E:System._AppDomain.ResourceResolve</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -7858,20 +7199,6 @@
       <MemberSignature Language="F#" Value="member this.SetAppDomainPolicy : System.Security.Policy.PolicyLevel -&gt; unit" Usage="appDomain.SetAppDomainPolicy domainPolicy" FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.SetAppDomainPolicy(System.Security.Policy.PolicyLevel)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetAppDomainPolicy(System.Security.Policy.PolicyLevel)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetAppDomainPolicy(System.Security.Policy.PolicyLevel)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetAppDomainPolicy(System.Security.Policy.PolicyLevel)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetAppDomainPolicy(System.Security.Policy.PolicyLevel)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetAppDomainPolicy(System.Security.Policy.PolicyLevel)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetAppDomainPolicy(System.Security.Policy.PolicyLevel)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetAppDomainPolicy(System.Security.Policy.PolicyLevel)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetAppDomainPolicy(System.Security.Policy.PolicyLevel)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetAppDomainPolicy(System.Security.Policy.PolicyLevel)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetAppDomainPolicy(System.Security.Policy.PolicyLevel)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetAppDomainPolicy(System.Security.Policy.PolicyLevel)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetAppDomainPolicy(System.Security.Policy.PolicyLevel)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetAppDomainPolicy(System.Security.Policy.PolicyLevel)</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.SetAppDomainPolicy(System.Security.Policy.PolicyLevel)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -7943,21 +7270,6 @@
       <MemberSignature Language="F#" Value="abstract member SetCachePath : string -&gt; unit&#xA;override this.SetCachePath : string -&gt; unit" Usage="appDomain.SetCachePath path" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.SetCachePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetCachePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetCachePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetCachePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetCachePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetCachePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetCachePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetCachePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetCachePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetCachePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetCachePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetCachePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetCachePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetCachePath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetCachePath(System.String)</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.SetCachePath(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -8042,21 +7354,6 @@
       <MemberSignature Language="F#" Value="abstract member SetData : string * obj -&gt; unit&#xA;override this.SetData : string * obj -&gt; unit" Usage="appDomain.SetData (name, data)" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.SetData(System.String,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetData(System.String,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetData(System.String,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetData(System.String,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetData(System.String,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetData(System.String,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetData(System.String,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetData(System.String,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetData(System.String,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetData(System.String,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetData(System.String,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetData(System.String,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetData(System.String,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetData(System.String,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetData(System.String,System.Object)</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.SetData(System.String,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -8263,20 +7560,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.SetPrincipalPolicy(System.Security.Principal.PrincipalPolicy)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetPrincipalPolicy(System.Security.Principal.PrincipalPolicy)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetPrincipalPolicy(System.Security.Principal.PrincipalPolicy)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetPrincipalPolicy(System.Security.Principal.PrincipalPolicy)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetPrincipalPolicy(System.Security.Principal.PrincipalPolicy)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetPrincipalPolicy(System.Security.Principal.PrincipalPolicy)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetPrincipalPolicy(System.Security.Principal.PrincipalPolicy)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetPrincipalPolicy(System.Security.Principal.PrincipalPolicy)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetPrincipalPolicy(System.Security.Principal.PrincipalPolicy)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetPrincipalPolicy(System.Security.Principal.PrincipalPolicy)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetPrincipalPolicy(System.Security.Principal.PrincipalPolicy)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetPrincipalPolicy(System.Security.Principal.PrincipalPolicy)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetPrincipalPolicy(System.Security.Principal.PrincipalPolicy)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetPrincipalPolicy(System.Security.Principal.PrincipalPolicy)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetPrincipalPolicy(System.Security.Principal.PrincipalPolicy)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -8415,21 +7698,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.SetShadowCopyPath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetShadowCopyPath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetShadowCopyPath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetShadowCopyPath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetShadowCopyPath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetShadowCopyPath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetShadowCopyPath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetShadowCopyPath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetShadowCopyPath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetShadowCopyPath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetShadowCopyPath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetShadowCopyPath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetShadowCopyPath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetShadowCopyPath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetShadowCopyPath(System.String)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetShadowCopyPath(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -8515,20 +7783,6 @@
       <MemberSignature Language="F#" Value="abstract member SetThreadPrincipal : System.Security.Principal.IPrincipal -&gt; unit&#xA;override this.SetThreadPrincipal : System.Security.Principal.IPrincipal -&gt; unit" Usage="appDomain.SetThreadPrincipal principal" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.SetThreadPrincipal(System.Security.Principal.IPrincipal)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetThreadPrincipal(System.Security.Principal.IPrincipal)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetThreadPrincipal(System.Security.Principal.IPrincipal)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetThreadPrincipal(System.Security.Principal.IPrincipal)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetThreadPrincipal(System.Security.Principal.IPrincipal)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetThreadPrincipal(System.Security.Principal.IPrincipal)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetThreadPrincipal(System.Security.Principal.IPrincipal)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetThreadPrincipal(System.Security.Principal.IPrincipal)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetThreadPrincipal(System.Security.Principal.IPrincipal)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetThreadPrincipal(System.Security.Principal.IPrincipal)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetThreadPrincipal(System.Security.Principal.IPrincipal)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetThreadPrincipal(System.Security.Principal.IPrincipal)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetThreadPrincipal(System.Security.Principal.IPrincipal)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.SetThreadPrincipal(System.Security.Principal.IPrincipal)</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.SetThreadPrincipal(System.Security.Principal.IPrincipal)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -8625,21 +7879,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System._AppDomain.ShadowCopyFiles</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.ShadowCopyFiles</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.ShadowCopyFiles</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.ShadowCopyFiles</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.ShadowCopyFiles</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.ShadowCopyFiles</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.ShadowCopyFiles</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.ShadowCopyFiles</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.ShadowCopyFiles</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.ShadowCopyFiles</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.ShadowCopyFiles</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.ShadowCopyFiles</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.ShadowCopyFiles</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.ShadowCopyFiles</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.ShadowCopyFiles</InterfaceMember>
-        <InterfaceMember>P:System._AppDomain.ShadowCopyFiles</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -8687,21 +7926,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System._AppDomain.GetIDsOfNames(Guid % riid, IntPtr rgszNames, System::UInt32 cNames, System::UInt32 lcid, IntPtr rgDispId) = _AppDomain::GetIDsOfNames;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.GetIDsOfNames(System.Guid@,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -8753,21 +7977,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfo(System.UInt32,System.UInt32,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -8814,21 +8023,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.GetTypeInfoCount(System.UInt32@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -8870,21 +8064,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System._AppDomain.Invoke(System::UInt32 dispIdMember, Guid % riid, System::UInt32 lcid, short wFlags, IntPtr pDispParams, IntPtr pVarResult, IntPtr pExcepInfo, IntPtr puArgErr) = _AppDomain::Invoke;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System._AppDomain.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
         <InterfaceMember>M:System._AppDomain.Invoke(System.UInt32,System.Guid@,System.UInt32,System.Int16,System.IntPtr,System.IntPtr,System.IntPtr,System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -8943,21 +8122,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System._AppDomain.ToString</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ToString</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ToString</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ToString</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ToString</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ToString</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ToString</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ToString</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ToString</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ToString</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ToString</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ToString</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ToString</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ToString</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ToString</InterfaceMember>
-        <InterfaceMember>M:System._AppDomain.ToString</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -9014,21 +8178,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual event ResolveEventHandler ^ TypeResolve;" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Event</MemberType>
       <Implements>
-        <InterfaceMember>E:System._AppDomain.TypeResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.TypeResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.TypeResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.TypeResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.TypeResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.TypeResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.TypeResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.TypeResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.TypeResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.TypeResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.TypeResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.TypeResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.TypeResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.TypeResolve</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.TypeResolve</InterfaceMember>
         <InterfaceMember>E:System._AppDomain.TypeResolve</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -9105,21 +8254,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual event UnhandledExceptionEventHandler ^ UnhandledException;" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinmac-3.0" />
       <MemberType>Event</MemberType>
       <Implements>
-        <InterfaceMember>E:System._AppDomain.UnhandledException</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.UnhandledException</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.UnhandledException</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.UnhandledException</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.UnhandledException</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.UnhandledException</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.UnhandledException</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.UnhandledException</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.UnhandledException</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.UnhandledException</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.UnhandledException</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.UnhandledException</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.UnhandledException</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.UnhandledException</InterfaceMember>
-        <InterfaceMember>E:System._AppDomain.UnhandledException</InterfaceMember>
         <InterfaceMember>E:System._AppDomain.UnhandledException</InterfaceMember>
       </Implements>
       <AssemblyInfo>

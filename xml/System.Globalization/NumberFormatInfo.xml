@@ -398,35 +398,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Globalization</AssemblyName>
@@ -1102,42 +1073,6 @@
       <MemberSignature Language="F#" Value="abstract member GetFormat : Type -&gt; obj&#xA;override this.GetFormat : Type -&gt; obj" Usage="numberFormatInfo.GetFormat formatType" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
         <InterfaceMember>M:System.IFormatProvider.GetFormat(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

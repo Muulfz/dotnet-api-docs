@@ -272,20 +272,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiverHook.AddHookChannelUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiverHook.AddHookChannelUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiverHook.AddHookChannelUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiverHook.AddHookChannelUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiverHook.AddHookChannelUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiverHook.AddHookChannelUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiverHook.AddHookChannelUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiverHook.AddHookChannelUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiverHook.AddHookChannelUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiverHook.AddHookChannelUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiverHook.AddHookChannelUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiverHook.AddHookChannelUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiverHook.AddHookChannelUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiverHook.AddHookChannelUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiverHook.AddHookChannelUri(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -314,20 +300,6 @@
       <MemberSignature Language="F#" Value="member this.ChannelData : obj" Usage="System.Runtime.Remoting.Channels.Http.HttpServerChannel.ChannelData" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -362,20 +334,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -409,20 +367,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -455,20 +399,6 @@
       <MemberSignature Language="F#" Value="member this.ChannelScheme : string" Usage="System.Runtime.Remoting.Channels.Http.HttpServerChannel.ChannelScheme" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelScheme</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelScheme</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelScheme</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelScheme</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelScheme</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelScheme</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelScheme</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelScheme</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelScheme</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelScheme</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelScheme</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelScheme</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelScheme</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelScheme</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelScheme</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -510,20 +440,6 @@
       <MemberSignature Language="F#" Value="member this.ChannelSinkChain : System.Runtime.Remoting.Channels.IServerChannelSink" Usage="System.Runtime.Remoting.Channels.Http.HttpServerChannel.ChannelSinkChain" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelSinkChain</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelSinkChain</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelSinkChain</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelSinkChain</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelSinkChain</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelSinkChain</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelSinkChain</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelSinkChain</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelSinkChain</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelSinkChain</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelSinkChain</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelSinkChain</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelSinkChain</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelSinkChain</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiverHook.ChannelSinkChain</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -594,20 +510,6 @@
       <MemberSignature Language="F#" Value="abstract member GetUrlsForUri : string -&gt; string[]&#xA;override this.GetUrlsForUri : string -&gt; string[]" Usage="httpServerChannel.GetUrlsForUri objectUri" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -713,20 +615,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -769,20 +657,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -822,20 +696,6 @@
       <MemberSignature Language="F#" Value="abstract member StopListening : obj -&gt; unit&#xA;override this.StopListening : obj -&gt; unit" Usage="httpServerChannel.StopListening data" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

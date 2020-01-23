@@ -110,20 +110,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -152,20 +138,6 @@
       <MemberSignature Language="F#" Value="abstract member Clear : unit -&gt; unit&#xA;override this.Clear : unit -&gt; unit" Usage="compositeCollection.Clear " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -200,20 +172,6 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -237,20 +195,6 @@
       <MemberSignature Language="F#" Value="abstract member Contains : obj -&gt; bool&#xA;override this.Contains : obj -&gt; bool" Usage="compositeCollection.Contains containItem" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Contains(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -281,20 +225,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -324,20 +254,6 @@
       <MemberSignature Language="F#" Value="member this.Count : int" Usage="System.Windows.Data.CompositeCollection.Count" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -371,20 +287,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.IndexOf(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -413,20 +315,6 @@
       <MemberSignature Language="F#" Value="abstract member Insert : int * obj -&gt; unit&#xA;override this.Insert : int * obj -&gt; unit" Usage="compositeCollection.Insert (insertIndex, insertItem)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Insert(System.Int32,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -459,20 +347,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.Item(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -502,20 +376,6 @@
       <MemberSignature Language="F#" Value="abstract member ReceiveWeakEvent : Type * obj * EventArgs -&gt; bool&#xA;override this.ReceiveWeakEvent : Type * obj * EventArgs -&gt; bool" Usage="compositeCollection.ReceiveWeakEvent (managerType, sender, e)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
         <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -552,20 +412,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -593,20 +439,6 @@
       <MemberSignature Language="F#" Value="abstract member RemoveAt : int -&gt; unit&#xA;override this.RemoveAt : int -&gt; unit" Usage="compositeCollection.RemoveAt removeIndex" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -637,20 +469,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -676,20 +494,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -713,20 +517,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -754,20 +544,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsFixedSize</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -794,20 +570,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IList.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -832,19 +594,6 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
-        <InterfaceMember>E:System.Collections.Specialized.INotifyCollectionChanged.CollectionChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -867,20 +616,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::ComponentModel::ICollectionView ^ System.ComponentModel.ICollectionViewFactory.CreateView() = System::ComponentModel::ICollectionViewFactory::CreateView;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.ICollectionViewFactory.CreateView</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICollectionViewFactory.CreateView</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICollectionViewFactory.CreateView</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICollectionViewFactory.CreateView</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICollectionViewFactory.CreateView</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICollectionViewFactory.CreateView</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICollectionViewFactory.CreateView</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICollectionViewFactory.CreateView</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICollectionViewFactory.CreateView</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICollectionViewFactory.CreateView</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICollectionViewFactory.CreateView</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICollectionViewFactory.CreateView</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICollectionViewFactory.CreateView</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICollectionViewFactory.CreateView</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.ICollectionViewFactory.CreateView</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -906,20 +641,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Windows.IWeakEventListener.ReceiveWeakEvent(Type ^ managerType, System::Object ^ sender, EventArgs ^ e) = System::Windows::IWeakEventListener::ReceiveWeakEvent;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
         <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

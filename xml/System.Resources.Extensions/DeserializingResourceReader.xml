@@ -82,7 +82,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Resources.Extensions</AssemblyName>
@@ -107,7 +106,6 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="deserializingResourceReader.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -134,7 +132,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Resources.Extensions</AssemblyName>
@@ -159,7 +156,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -70,20 +70,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Management.Instrumentation.IEvent.Fire</InterfaceMember>
-        <InterfaceMember>M:System.Management.Instrumentation.IEvent.Fire</InterfaceMember>
-        <InterfaceMember>M:System.Management.Instrumentation.IEvent.Fire</InterfaceMember>
-        <InterfaceMember>M:System.Management.Instrumentation.IEvent.Fire</InterfaceMember>
-        <InterfaceMember>M:System.Management.Instrumentation.IEvent.Fire</InterfaceMember>
-        <InterfaceMember>M:System.Management.Instrumentation.IEvent.Fire</InterfaceMember>
-        <InterfaceMember>M:System.Management.Instrumentation.IEvent.Fire</InterfaceMember>
-        <InterfaceMember>M:System.Management.Instrumentation.IEvent.Fire</InterfaceMember>
-        <InterfaceMember>M:System.Management.Instrumentation.IEvent.Fire</InterfaceMember>
-        <InterfaceMember>M:System.Management.Instrumentation.IEvent.Fire</InterfaceMember>
-        <InterfaceMember>M:System.Management.Instrumentation.IEvent.Fire</InterfaceMember>
-        <InterfaceMember>M:System.Management.Instrumentation.IEvent.Fire</InterfaceMember>
-        <InterfaceMember>M:System.Management.Instrumentation.IEvent.Fire</InterfaceMember>
-        <InterfaceMember>M:System.Management.Instrumentation.IEvent.Fire</InterfaceMember>
-        <InterfaceMember>M:System.Management.Instrumentation.IEvent.Fire</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Management</AssemblyName>

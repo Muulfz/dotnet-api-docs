@@ -1446,25 +1446,6 @@ driver-defined-attribute-keyword ::= identifier
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>

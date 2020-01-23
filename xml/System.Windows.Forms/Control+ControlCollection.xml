@@ -211,22 +211,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -566,22 +550,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -888,22 +856,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.RemoveAt(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -1033,22 +985,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual int System.Collections.IList.Add(System::Object ^ control) = System::Collections::IList::Add;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IList.Add(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1192,22 +1128,6 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IList.Remove(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -1243,22 +1163,6 @@ This member is an explicit interface member implementation. It can be used only 
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.ICloneable.Clone() = ICloneable::Clone;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
-        <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
         <InterfaceMember>M:System.ICloneable.Clone</InterfaceMember>
       </Implements>
       <AssemblyInfo>

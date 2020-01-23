@@ -65,10 +65,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.Clear</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Options</AssemblyName>
@@ -96,10 +92,6 @@
       <MemberSignature Language="F#" Value="abstract member GetOrAdd : string * Func&lt;'Options (requires 'Options : null)&gt; -&gt; 'Options&#xA;override this.GetOrAdd : string * Func&lt;'Options (requires 'Options : null)&gt; -&gt; 'Options" Usage="optionsCache.GetOrAdd (name, createOptions)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.GetOrAdd(System.String,System.Func{`0})</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.GetOrAdd(System.String,System.Func{`0})</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.GetOrAdd(System.String,System.Func{`0})</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.GetOrAdd(System.String,System.Func{`0})</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.GetOrAdd(System.String,System.Func{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -135,10 +127,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.TryAdd(System.String,`0)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.TryAdd(System.String,`0)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.TryAdd(System.String,`0)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.TryAdd(System.String,`0)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.TryAdd(System.String,`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Options</AssemblyName>
@@ -172,10 +160,6 @@
       <MemberSignature Language="F#" Value="abstract member TryRemove : string -&gt; bool&#xA;override this.TryRemove : string -&gt; bool" Usage="optionsCache.TryRemove name" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.TryRemove(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.TryRemove(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.TryRemove(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.TryRemove(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Options.IOptionsMonitorCache`1.TryRemove(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

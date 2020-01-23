@@ -75,20 +75,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.BooleanToString(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.BooleanToString(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.BooleanToString(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.BooleanToString(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.BooleanToString(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.BooleanToString(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.BooleanToString(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.BooleanToString(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.BooleanToString(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.BooleanToString(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.BooleanToString(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.BooleanToString(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.BooleanToString(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.BooleanToString(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.BooleanToString(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -121,20 +107,6 @@
       <MemberSignature Language="F#" Value="abstract member ByteToString : byte * int -&gt; string&#xA;override this.ByteToString : byte * int -&gt; string" Usage="debugConvert.ByteToString (value, radix)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ByteToString(System.Byte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ByteToString(System.Byte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ByteToString(System.Byte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ByteToString(System.Byte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ByteToString(System.Byte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ByteToString(System.Byte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ByteToString(System.Byte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ByteToString(System.Byte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ByteToString(System.Byte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ByteToString(System.Byte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ByteToString(System.Byte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ByteToString(System.Byte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ByteToString(System.Byte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ByteToString(System.Byte,System.Int32)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ByteToString(System.Byte,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -171,19 +143,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert2.DecimalToString(System.Decimal)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert2.DecimalToString(System.Decimal)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert2.DecimalToString(System.Decimal)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert2.DecimalToString(System.Decimal)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert2.DecimalToString(System.Decimal)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert2.DecimalToString(System.Decimal)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert2.DecimalToString(System.Decimal)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert2.DecimalToString(System.Decimal)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert2.DecimalToString(System.Decimal)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert2.DecimalToString(System.Decimal)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert2.DecimalToString(System.Decimal)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert2.DecimalToString(System.Decimal)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert2.DecimalToString(System.Decimal)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert2.DecimalToString(System.Decimal)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -215,20 +174,6 @@
       <MemberSignature Language="F#" Value="abstract member DoubleToDateString : double -&gt; string&#xA;override this.DoubleToDateString : double -&gt; string" Usage="debugConvert.DoubleToDateString value" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToDateString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToDateString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToDateString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToDateString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToDateString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToDateString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToDateString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToDateString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToDateString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToDateString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToDateString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToDateString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToDateString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToDateString(System.Double)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToDateString(System.Double)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -264,20 +209,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToString(System.Double)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.DoubleToString(System.Double)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -311,16 +242,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetErrorMessageForHR(System.Int32,Microsoft.JScript.Vsa.IJSVsaEngine)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetErrorMessageForHR(System.Int32,Microsoft.JScript.Vsa.IJSVsaEngine)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetErrorMessageForHR(System.Int32,Microsoft.JScript.Vsa.IJSVsaEngine)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetErrorMessageForHR(System.Int32,Microsoft.JScript.Vsa.IJSVsaEngine)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetErrorMessageForHR(System.Int32,Microsoft.JScript.Vsa.IJSVsaEngine)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetErrorMessageForHR(System.Int32,Microsoft.JScript.Vsa.IJSVsaEngine)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetErrorMessageForHR(System.Int32,Microsoft.JScript.Vsa.IJSVsaEngine)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetErrorMessageForHR(System.Int32,Microsoft.JScript.Vsa.IJSVsaEngine)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetErrorMessageForHR(System.Int32,Microsoft.JScript.Vsa.IJSVsaEngine)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetErrorMessageForHR(System.Int32,Microsoft.JScript.Vsa.IJSVsaEngine)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetErrorMessageForHR(System.Int32,Microsoft.JScript.Vsa.IJSVsaEngine)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -353,9 +274,6 @@
       <MemberSignature Language="F#" Value="abstract member GetErrorMessageForHR : int * Microsoft.Vsa.IVsaEngine -&gt; string&#xA;override this.GetErrorMessageForHR : int * Microsoft.Vsa.IVsaEngine -&gt; string" Usage="debugConvert.GetErrorMessageForHR (hr, engine)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetErrorMessageForHR(System.Int32,Microsoft.Vsa.IVsaEngine)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetErrorMessageForHR(System.Int32,Microsoft.Vsa.IVsaEngine)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetErrorMessageForHR(System.Int32,Microsoft.Vsa.IVsaEngine)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetErrorMessageForHR(System.Int32,Microsoft.Vsa.IVsaEngine)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -392,20 +310,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedCharObject(System.UInt16)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedCharObject(System.UInt16)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedCharObject(System.UInt16)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedCharObject(System.UInt16)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedCharObject(System.UInt16)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedCharObject(System.UInt16)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedCharObject(System.UInt16)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedCharObject(System.UInt16)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedCharObject(System.UInt16)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedCharObject(System.UInt16)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedCharObject(System.UInt16)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedCharObject(System.UInt16)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedCharObject(System.UInt16)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedCharObject(System.UInt16)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedCharObject(System.UInt16)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -439,20 +343,6 @@
       <MemberSignature Language="F#" Value="abstract member GetManagedInt64Object : int64 -&gt; obj&#xA;override this.GetManagedInt64Object : int64 -&gt; obj" Usage="debugConvert.GetManagedInt64Object i" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedInt64Object(System.Int64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedInt64Object(System.Int64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedInt64Object(System.Int64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedInt64Object(System.Int64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedInt64Object(System.Int64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedInt64Object(System.Int64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedInt64Object(System.Int64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedInt64Object(System.Int64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedInt64Object(System.Int64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedInt64Object(System.Int64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedInt64Object(System.Int64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedInt64Object(System.Int64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedInt64Object(System.Int64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedInt64Object(System.Int64)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedInt64Object(System.Int64)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -488,20 +378,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedObject(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedObject(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedObject(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedObject(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedObject(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedObject(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedObject(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedObject(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedObject(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedObject(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedObject(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedObject(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedObject(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedObject(System.Object)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedObject(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -536,20 +412,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedUInt64Object(System.UInt64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedUInt64Object(System.UInt64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedUInt64Object(System.UInt64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedUInt64Object(System.UInt64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedUInt64Object(System.UInt64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedUInt64Object(System.UInt64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedUInt64Object(System.UInt64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedUInt64Object(System.UInt64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedUInt64Object(System.UInt64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedUInt64Object(System.UInt64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedUInt64Object(System.UInt64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedUInt64Object(System.UInt64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedUInt64Object(System.UInt64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedUInt64Object(System.UInt64)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.GetManagedUInt64Object(System.UInt64)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -583,20 +445,6 @@
       <MemberSignature Language="F#" Value="abstract member Int16ToString : int16 * int -&gt; string&#xA;override this.Int16ToString : int16 * int -&gt; string" Usage="debugConvert.Int16ToString (value, radix)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int16ToString(System.Int16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int16ToString(System.Int16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int16ToString(System.Int16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int16ToString(System.Int16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int16ToString(System.Int16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int16ToString(System.Int16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int16ToString(System.Int16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int16ToString(System.Int16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int16ToString(System.Int16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int16ToString(System.Int16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int16ToString(System.Int16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int16ToString(System.Int16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int16ToString(System.Int16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int16ToString(System.Int16,System.Int32)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int16ToString(System.Int16,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -633,20 +481,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int32ToString(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int32ToString(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int32ToString(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int32ToString(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int32ToString(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int32ToString(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int32ToString(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int32ToString(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int32ToString(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int32ToString(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int32ToString(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int32ToString(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int32ToString(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int32ToString(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int32ToString(System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -682,20 +516,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int64ToString(System.Int64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int64ToString(System.Int64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int64ToString(System.Int64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int64ToString(System.Int64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int64ToString(System.Int64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int64ToString(System.Int64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int64ToString(System.Int64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int64ToString(System.Int64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int64ToString(System.Int64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int64ToString(System.Int64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int64ToString(System.Int64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int64ToString(System.Int64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int64ToString(System.Int64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int64ToString(System.Int64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.Int64ToString(System.Int64,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -730,20 +550,6 @@
       <MemberSignature Language="F#" Value="abstract member RegexpToString : string * bool * bool * bool -&gt; string&#xA;override this.RegexpToString : string * bool * bool * bool -&gt; string" Usage="debugConvert.RegexpToString (source, ignoreCase, global, multiline)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.RegexpToString(System.String,System.Boolean,System.Boolean,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.RegexpToString(System.String,System.Boolean,System.Boolean,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.RegexpToString(System.String,System.Boolean,System.Boolean,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.RegexpToString(System.String,System.Boolean,System.Boolean,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.RegexpToString(System.String,System.Boolean,System.Boolean,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.RegexpToString(System.String,System.Boolean,System.Boolean,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.RegexpToString(System.String,System.Boolean,System.Boolean,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.RegexpToString(System.String,System.Boolean,System.Boolean,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.RegexpToString(System.String,System.Boolean,System.Boolean,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.RegexpToString(System.String,System.Boolean,System.Boolean,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.RegexpToString(System.String,System.Boolean,System.Boolean,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.RegexpToString(System.String,System.Boolean,System.Boolean,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.RegexpToString(System.String,System.Boolean,System.Boolean,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.RegexpToString(System.String,System.Boolean,System.Boolean,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.RegexpToString(System.String,System.Boolean,System.Boolean,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -788,20 +594,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SByteToString(System.SByte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SByteToString(System.SByte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SByteToString(System.SByte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SByteToString(System.SByte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SByteToString(System.SByte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SByteToString(System.SByte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SByteToString(System.SByte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SByteToString(System.SByte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SByteToString(System.SByte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SByteToString(System.SByte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SByteToString(System.SByte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SByteToString(System.SByte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SByteToString(System.SByte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SByteToString(System.SByte,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SByteToString(System.SByte,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -837,20 +629,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SingleToString(System.Single)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SingleToString(System.Single)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SingleToString(System.Single)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SingleToString(System.Single)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SingleToString(System.Single)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SingleToString(System.Single)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SingleToString(System.Single)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SingleToString(System.Single)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SingleToString(System.Single)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SingleToString(System.Single)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SingleToString(System.Single)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SingleToString(System.Single)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SingleToString(System.Single)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SingleToString(System.Single)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.SingleToString(System.Single)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -884,20 +662,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.StringToPrintable(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.StringToPrintable(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.StringToPrintable(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.StringToPrintable(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.StringToPrintable(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.StringToPrintable(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.StringToPrintable(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.StringToPrintable(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.StringToPrintable(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.StringToPrintable(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.StringToPrintable(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.StringToPrintable(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.StringToPrintable(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.StringToPrintable(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.StringToPrintable(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -929,20 +693,6 @@
       <MemberSignature Language="F#" Value="abstract member ToPrimitive : obj * TypeCode * bool -&gt; obj&#xA;override this.ToPrimitive : obj * TypeCode * bool -&gt; obj" Usage="debugConvert.ToPrimitive (value, typeCode, truncationPermitted)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ToPrimitive(System.Object,System.TypeCode,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ToPrimitive(System.Object,System.TypeCode,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ToPrimitive(System.Object,System.TypeCode,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ToPrimitive(System.Object,System.TypeCode,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ToPrimitive(System.Object,System.TypeCode,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ToPrimitive(System.Object,System.TypeCode,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ToPrimitive(System.Object,System.TypeCode,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ToPrimitive(System.Object,System.TypeCode,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ToPrimitive(System.Object,System.TypeCode,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ToPrimitive(System.Object,System.TypeCode,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ToPrimitive(System.Object,System.TypeCode,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ToPrimitive(System.Object,System.TypeCode,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ToPrimitive(System.Object,System.TypeCode,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ToPrimitive(System.Object,System.TypeCode,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.ToPrimitive(System.Object,System.TypeCode,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -983,20 +733,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt16ToString(System.UInt16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt16ToString(System.UInt16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt16ToString(System.UInt16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt16ToString(System.UInt16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt16ToString(System.UInt16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt16ToString(System.UInt16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt16ToString(System.UInt16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt16ToString(System.UInt16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt16ToString(System.UInt16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt16ToString(System.UInt16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt16ToString(System.UInt16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt16ToString(System.UInt16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt16ToString(System.UInt16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt16ToString(System.UInt16,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt16ToString(System.UInt16,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -1032,20 +768,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt32ToString(System.UInt32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt32ToString(System.UInt32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt32ToString(System.UInt32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt32ToString(System.UInt32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt32ToString(System.UInt32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt32ToString(System.UInt32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt32ToString(System.UInt32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt32ToString(System.UInt32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt32ToString(System.UInt32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt32ToString(System.UInt32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt32ToString(System.UInt32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt32ToString(System.UInt32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt32ToString(System.UInt32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt32ToString(System.UInt32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt32ToString(System.UInt32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -1080,20 +802,6 @@
       <MemberSignature Language="F#" Value="abstract member UInt64ToString : uint64 * int -&gt; string&#xA;override this.UInt64ToString : uint64 * int -&gt; string" Usage="debugConvert.UInt64ToString (value, radix)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt64ToString(System.UInt64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt64ToString(System.UInt64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt64ToString(System.UInt64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt64ToString(System.UInt64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt64ToString(System.UInt64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt64ToString(System.UInt64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt64ToString(System.UInt64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt64ToString(System.UInt64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt64ToString(System.UInt64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt64ToString(System.UInt64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt64ToString(System.UInt64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt64ToString(System.UInt64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt64ToString(System.UInt64,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt64ToString(System.UInt64,System.Int32)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IDebugConvert.UInt64ToString(System.UInt64,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

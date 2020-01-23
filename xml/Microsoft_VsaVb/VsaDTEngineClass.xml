@@ -68,9 +68,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Vsa.IVsaDTEngine.AttachDebugger(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Vsa.IVsaDTEngine.AttachDebugger(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Vsa.IVsaDTEngine.AttachDebugger(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Vsa.IVsaDTEngine.AttachDebugger(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft_VsaVb</AssemblyName>
@@ -99,9 +96,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Vsa.IVsaDTEngine.GetIDE</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Vsa.IVsaDTEngine.GetIDE</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Vsa.IVsaDTEngine.GetIDE</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Vsa.IVsaDTEngine.GetIDE</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft_VsaVb</AssemblyName>
@@ -128,9 +122,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Vsa.IVsaDTEngine.InitCompleted</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Vsa.IVsaDTEngine.InitCompleted</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Vsa.IVsaDTEngine.InitCompleted</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Vsa.IVsaDTEngine.InitCompleted</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft_VsaVb</AssemblyName>
@@ -155,9 +146,6 @@
       <MemberSignature Language="F#" Value="member this.TargetURL : string with get, set" Usage="TargetURL" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.Vsa.IVsaDTEngine.TargetURL</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Vsa.IVsaDTEngine.TargetURL</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Vsa.IVsaDTEngine.TargetURL</InterfaceMember>
         <InterfaceMember>P:Microsoft.Vsa.IVsaDTEngine.TargetURL</InterfaceMember>
       </Implements>
       <AssemblyInfo>

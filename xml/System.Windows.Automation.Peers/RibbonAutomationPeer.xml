@@ -56,17 +56,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Collapse</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Controls.Ribbon</AssemblyName>
@@ -123,17 +112,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.IExpandCollapseProvider.Expand</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Controls.Ribbon</AssemblyName>
@@ -164,17 +142,6 @@
       <MemberSignature Language="F#" Value="member this.ExpandCollapseState : System.Windows.Automation.ExpandCollapseState" Usage="System.Windows.Automation.Peers.RibbonAutomationPeer.ExpandCollapseState" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.IExpandCollapseProvider.ExpandCollapseState</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -341,17 +308,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.CanSelectMultiple</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Controls.Ribbon</AssemblyName>
@@ -383,17 +339,6 @@
       <MemberSignature Language="F#" Usage="System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionProvider.IsSelectionRequired</InterfaceMember>
       </Implements>
       <AssemblyInfo>

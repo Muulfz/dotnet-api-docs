@@ -215,19 +215,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.GetParametersData(System.Web.UI.WebControls.WebParts.ParametersCallback)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.GetParametersData(System.Web.UI.WebControls.WebParts.ParametersCallback)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.GetParametersData(System.Web.UI.WebControls.WebParts.ParametersCallback)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.GetParametersData(System.Web.UI.WebControls.WebParts.ParametersCallback)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.GetParametersData(System.Web.UI.WebControls.WebParts.ParametersCallback)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.GetParametersData(System.Web.UI.WebControls.WebParts.ParametersCallback)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.GetParametersData(System.Web.UI.WebControls.WebParts.ParametersCallback)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.GetParametersData(System.Web.UI.WebControls.WebParts.ParametersCallback)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.GetParametersData(System.Web.UI.WebControls.WebParts.ParametersCallback)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.GetParametersData(System.Web.UI.WebControls.WebParts.ParametersCallback)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.GetParametersData(System.Web.UI.WebControls.WebParts.ParametersCallback)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.GetParametersData(System.Web.UI.WebControls.WebParts.ParametersCallback)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.GetParametersData(System.Web.UI.WebControls.WebParts.ParametersCallback)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.GetParametersData(System.Web.UI.WebControls.WebParts.ParametersCallback)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -265,19 +252,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPartParameters.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPartParameters.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPartParameters.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPartParameters.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPartParameters.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPartParameters.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPartParameters.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPartParameters.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPartParameters.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPartParameters.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPartParameters.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPartParameters.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPartParameters.Schema</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.WebControls.WebParts.IWebPartParameters.Schema</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web</AssemblyName>
@@ -308,19 +282,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.WebControls.WebParts.IWebPartParameters.SetConsumerSchema(System::ComponentModel::PropertyDescriptorCollection ^ schema) = System::Web::UI::WebControls::WebParts::IWebPartParameters::SetConsumerSchema;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.SetConsumerSchema(System.ComponentModel.PropertyDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.SetConsumerSchema(System.ComponentModel.PropertyDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.SetConsumerSchema(System.ComponentModel.PropertyDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.SetConsumerSchema(System.ComponentModel.PropertyDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.SetConsumerSchema(System.ComponentModel.PropertyDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.SetConsumerSchema(System.ComponentModel.PropertyDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.SetConsumerSchema(System.ComponentModel.PropertyDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.SetConsumerSchema(System.ComponentModel.PropertyDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.SetConsumerSchema(System.ComponentModel.PropertyDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.SetConsumerSchema(System.ComponentModel.PropertyDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.SetConsumerSchema(System.ComponentModel.PropertyDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.SetConsumerSchema(System.ComponentModel.PropertyDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.SetConsumerSchema(System.ComponentModel.PropertyDescriptorCollection)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.WebControls.WebParts.IWebPartParameters.SetConsumerSchema(System.ComponentModel.PropertyDescriptorCollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

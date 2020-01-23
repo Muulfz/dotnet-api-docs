@@ -130,34 +130,6 @@ False
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml.XDocument</AssemblyName>
@@ -259,34 +231,6 @@ False
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml.XDocument</AssemblyName>
@@ -362,34 +306,6 @@ HashCode: AD26516B
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml.XDocument</AssemblyName>
@@ -457,34 +373,6 @@ HashCode: AD26516B
       <MemberSignature Language="C++ CLI" Value=" virtual int System.Collections.IEqualityComparer.GetHashCode(System::Object ^ obj) = System::Collections::IEqualityComparer::GetHashCode;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -136,7 +136,6 @@ If a core assembly cannot be found or if the core assembly is missing types, thi
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Reflection.MetadataLoadContext</AssemblyName>

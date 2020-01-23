@@ -130,18 +130,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -179,18 +167,6 @@
       <MemberSignature Language="F#" Value="abstract member Add : System.ServiceModel.Dispatcher.MessageFilter * 'FilterData -&gt; unit&#xA;override this.Add : System.ServiceModel.Dispatcher.MessageFilter * 'FilterData -&gt; unit" Usage="xPathMessageFilterTable.Add (filter, data)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Add(`0,`1)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -276,18 +252,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -312,18 +276,6 @@
       <MemberSignature Language="F#" Value="abstract member Contains : System.Collections.Generic.KeyValuePair&lt;System.ServiceModel.Dispatcher.MessageFilter, 'FilterData&gt; -&gt; bool&#xA;override this.Contains : System.Collections.Generic.KeyValuePair&lt;System.ServiceModel.Dispatcher.MessageFilter, 'FilterData&gt; -&gt; bool" Usage="xPathMessageFilterTable.Contains item" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -361,18 +313,6 @@
       <MemberSignature Language="F#" Value="abstract member ContainsKey : System.ServiceModel.Dispatcher.MessageFilter -&gt; bool&#xA;override this.ContainsKey : System.ServiceModel.Dispatcher.MessageFilter -&gt; bool" Usage="xPathMessageFilterTable.ContainsKey filter" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IDictionary`2.ContainsKey(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -438,18 +378,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -474,18 +402,6 @@
       <MemberSignature Language="F#" Value="abstract member GetEnumerator : unit -&gt; System.Collections.Generic.IEnumerator&lt;System.Collections.Generic.KeyValuePair&lt;System.ServiceModel.Dispatcher.MessageFilter, 'FilterData&gt;&gt;&#xA;override this.GetEnumerator : unit -&gt; System.Collections.Generic.IEnumerator&lt;System.Collections.Generic.KeyValuePair&lt;System.ServiceModel.Dispatcher.MessageFilter, 'FilterData&gt;&gt;" Usage="xPathMessageFilterTable.GetEnumerator " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -536,18 +452,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.Message,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.Message,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.Message,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.Message,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.Message,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.Message,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.Message,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.Message,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.Message,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.Message,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.Message,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.Message,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.Message,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -594,18 +498,6 @@
       <MemberSignature Language="F#" Value="abstract member GetMatchingFilter : System.ServiceModel.Channels.MessageBuffer * MessageFilter -&gt; bool&#xA;override this.GetMatchingFilter : System.ServiceModel.Channels.MessageBuffer * MessageFilter -&gt; bool" Usage="xPathMessageFilterTable.GetMatchingFilter (messageBuffer, filter)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.MessageBuffer,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.MessageBuffer,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.MessageBuffer,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.MessageBuffer,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.MessageBuffer,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.MessageBuffer,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.MessageBuffer,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.MessageBuffer,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.MessageBuffer,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.MessageBuffer,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.MessageBuffer,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.MessageBuffer,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilter(System.ServiceModel.Channels.MessageBuffer,System.ServiceModel.Dispatcher.MessageFilter@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -750,18 +642,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -808,18 +688,6 @@
       <MemberSignature Language="F#" Value="abstract member GetMatchingFilters : System.ServiceModel.Channels.MessageBuffer * System.Collections.Generic.ICollection&lt;System.ServiceModel.Dispatcher.MessageFilter&gt; -&gt; bool&#xA;override this.GetMatchingFilters : System.ServiceModel.Channels.MessageBuffer * System.Collections.Generic.ICollection&lt;System.ServiceModel.Dispatcher.MessageFilter&gt; -&gt; bool" Usage="xPathMessageFilterTable.GetMatchingFilters (messageBuffer, results)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingFilters(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{System.ServiceModel.Dispatcher.MessageFilter})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -970,18 +838,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.Message,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.Message,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.Message,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.Message,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.Message,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.Message,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.Message,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.Message,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.Message,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.Message,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.Message,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.Message,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.Message,`0@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1024,18 +880,6 @@
       <MemberSignature Language="F#" Value="abstract member GetMatchingValue : System.ServiceModel.Channels.MessageBuffer * 'FilterData -&gt; bool&#xA;override this.GetMatchingValue : System.ServiceModel.Channels.MessageBuffer * 'FilterData -&gt; bool" Usage="xPathMessageFilterTable.GetMatchingValue (messageBuffer, data)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.MessageBuffer,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.MessageBuffer,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.MessageBuffer,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.MessageBuffer,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.MessageBuffer,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.MessageBuffer,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.MessageBuffer,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.MessageBuffer,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.MessageBuffer,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.MessageBuffer,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.MessageBuffer,`0@)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.MessageBuffer,`0@)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValue(System.ServiceModel.Channels.MessageBuffer,`0@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1177,18 +1021,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.Message,System.Collections.Generic.ICollection{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1233,18 +1065,6 @@
       <MemberSignature Language="F#" Value="abstract member GetMatchingValues : System.ServiceModel.Channels.MessageBuffer * System.Collections.Generic.ICollection&lt;'FilterData&gt; -&gt; bool&#xA;override this.GetMatchingValues : System.ServiceModel.Channels.MessageBuffer * System.Collections.Generic.ICollection&lt;'FilterData&gt; -&gt; bool" Usage="xPathMessageFilterTable.GetMatchingValues (messageBuffer, results)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{`0})</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{`0})</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Dispatcher.IMessageFilterTable`1.GetMatchingValues(System.ServiceModel.Channels.MessageBuffer,System.Collections.Generic.ICollection{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1371,18 +1191,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1407,18 +1215,6 @@
       <MemberSignature Language="F#" Value="member this.Item(System.ServiceModel.Dispatcher.MessageFilter) : 'FilterData with get, set" Usage="System.ServiceModel.Dispatcher.XPathMessageFilterTable&lt;'FilterData&gt;.Item" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Item(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1471,18 +1267,6 @@ myFilters(filter)
       <MemberSignature Language="F#" Value="member this.Keys : System.Collections.Generic.ICollection&lt;System.ServiceModel.Dispatcher.MessageFilter&gt;" Usage="System.ServiceModel.Dispatcher.XPathMessageFilterTable&lt;'FilterData&gt;.Keys" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Keys</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1561,18 +1345,6 @@ myFilters(filter)
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1609,18 +1381,6 @@ myFilters(filter)
       <MemberSignature Language="F#" Value="abstract member Remove : System.ServiceModel.Dispatcher.MessageFilter -&gt; bool&#xA;override this.Remove : System.ServiceModel.Dispatcher.MessageFilter -&gt; bool" Usage="xPathMessageFilterTable.Remove filter" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IDictionary`2.Remove(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1692,18 +1452,6 @@ myFilters(filter)
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1807,18 +1555,6 @@ myFilters(filter)
       <MemberSignature Language="F#" Value="member this.Values : System.Collections.Generic.ICollection&lt;'FilterData&gt;" Usage="System.ServiceModel.Dispatcher.XPathMessageFilterTable&lt;'FilterData&gt;.Values" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.IDictionary`2.Values</InterfaceMember>
       </Implements>
       <AssemblyInfo>

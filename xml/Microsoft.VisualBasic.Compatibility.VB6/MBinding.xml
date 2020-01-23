@@ -52,19 +52,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataChanged</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataChanged</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataChanged</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataChanged</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataChanged</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataChanged</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataChanged</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataChanged</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataChanged</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataChanged</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataChanged</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataChanged</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataChanged</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Compatibility.Data</AssemblyName>
@@ -107,19 +94,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataField</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataField</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataField</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataField</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataField</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataField</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataField</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataField</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataField</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataField</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataField</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataField</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataField</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataField</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Compatibility.Data</AssemblyName>
@@ -157,19 +131,6 @@
       <MemberSignature Language="F#" Value="member this.DataFormat : Microsoft.VisualBasic.Compatibility.VB6.IDataFormatDisp with get, set" Usage="DataFormat" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataFormat</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataFormat</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataFormat</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataFormat</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataFormat</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataFormat</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataFormat</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataFormat</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataFormat</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataFormat</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataFormat</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataFormat</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataFormat</InterfaceMember>
         <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.DataFormat</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -212,19 +173,6 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="mBinding.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -299,19 +247,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Key</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Key</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Key</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Key</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Key</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Key</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Key</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Key</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Key</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Key</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Key</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Key</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Key</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Key</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Compatibility.Data</AssemblyName>
@@ -350,19 +285,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Object</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Object</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Object</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Object</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Object</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Object</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Object</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Object</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Object</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Object</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Object</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Object</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Object</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.Object</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.VisualBasic.Compatibility.Data</AssemblyName>
@@ -400,19 +322,6 @@
       <MemberSignature Language="F#" Value="member this.PropertyName : string" Usage="PropertyName" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.PropertyName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.PropertyName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.PropertyName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.PropertyName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.PropertyName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.PropertyName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.PropertyName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.PropertyName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.PropertyName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.PropertyName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.PropertyName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.PropertyName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.PropertyName</InterfaceMember>
         <InterfaceMember>P:Microsoft.VisualBasic.Compatibility.VB6.DBinding.PropertyName</InterfaceMember>
       </Implements>
       <AssemblyInfo>

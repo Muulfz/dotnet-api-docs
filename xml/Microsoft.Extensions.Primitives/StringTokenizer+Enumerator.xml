@@ -106,12 +106,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Primitives</AssemblyName>
@@ -141,12 +135,6 @@
       <MemberSignature Language="F#" Value="abstract member MoveNext : unit -&gt; bool&#xA;override this.MoveNext : unit -&gt; bool" Usage="enumerator.MoveNext " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerator.MoveNext</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -179,12 +167,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerator.Reset</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Primitives</AssemblyName>
@@ -214,12 +196,6 @@
       <MemberSignature Language="F#" Usage="System.Collections.IEnumerator.Current" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
         <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>
       </Implements>
       <AssemblyInfo>

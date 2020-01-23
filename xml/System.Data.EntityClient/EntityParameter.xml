@@ -187,17 +187,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.DbType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -222,17 +211,6 @@
       <MemberSignature Language="F#" Value="member this.Direction : System.Data.ParameterDirection with get, set" Usage="System.Data.EntityClient.EntityParameter.Direction" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
         <InterfaceMember>P:System.Data.IDataParameter.Direction</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -322,17 +300,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.ParameterName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -362,17 +329,6 @@
       <MemberSignature Language="F#" Value="member this.Precision : byte with get, set" Usage="System.Data.EntityClient.EntityParameter.Precision" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbDataParameter.Precision</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -421,17 +377,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Scale</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -456,17 +401,6 @@
       <MemberSignature Language="F#" Value="member this.Size : int with get, set" Usage="System.Data.EntityClient.EntityParameter.Size" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
         <InterfaceMember>P:System.Data.IDbDataParameter.Size</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -500,17 +434,6 @@
       <MemberSignature Language="F#" Value="member this.SourceColumn : string with get, set" Usage="System.Data.EntityClient.EntityParameter.SourceColumn" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
         <InterfaceMember>P:System.Data.IDataParameter.SourceColumn</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -579,17 +502,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.SourceVersion</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -645,17 +557,6 @@
       <MemberSignature Language="F#" Value="member this.Value : obj with get, set" Usage="System.Data.EntityClient.EntityParameter.Value" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
         <InterfaceMember>P:System.Data.IDataParameter.Value</InterfaceMember>
       </Implements>
       <AssemblyInfo>

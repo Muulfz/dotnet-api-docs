@@ -154,30 +154,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Binder</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -226,30 +202,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.Context</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -297,30 +249,6 @@
       <MemberSignature Language="F#" Value="abstract member Deserialize : System.IO.Stream -&gt; obj" Usage="formatter.Deserialize serializationStream" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Deserialize(System.IO.Stream)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -546,30 +474,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatter.Serialize(System.IO.Stream,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -616,30 +520,6 @@
       <MemberSignature Language="F#" Value="member this.SurrogateSelector : System.Runtime.Serialization.ISurrogateSelector with get, set" Usage="System.Runtime.Serialization.Formatter.SurrogateSelector" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Serialization.IFormatter.SurrogateSelector</InterfaceMember>
       </Implements>
       <AssemblyInfo>

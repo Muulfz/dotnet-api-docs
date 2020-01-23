@@ -59,11 +59,7 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostingEnvironment.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostingEnvironment.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostingEnvironment.ApplicationName</InterfaceMember>
         <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostEnvironment.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostEnvironment.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostingEnvironment.ApplicationName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Hosting</AssemblyName>
@@ -91,11 +87,7 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostingEnvironment.ContentRootFileProvider</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostingEnvironment.ContentRootFileProvider</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostingEnvironment.ContentRootFileProvider</InterfaceMember>
         <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostEnvironment.ContentRootFileProvider</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostEnvironment.ContentRootFileProvider</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostingEnvironment.ContentRootFileProvider</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Hosting</AssemblyName>
@@ -123,11 +115,7 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostingEnvironment.ContentRootPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostingEnvironment.ContentRootPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostingEnvironment.ContentRootPath</InterfaceMember>
         <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostEnvironment.ContentRootPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostEnvironment.ContentRootPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostingEnvironment.ContentRootPath</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Hosting</AssemblyName>
@@ -155,11 +143,7 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostingEnvironment.EnvironmentName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostingEnvironment.EnvironmentName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostingEnvironment.EnvironmentName</InterfaceMember>
         <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostEnvironment.EnvironmentName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostEnvironment.EnvironmentName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Extensions.Hosting.IHostingEnvironment.EnvironmentName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Hosting</AssemblyName>

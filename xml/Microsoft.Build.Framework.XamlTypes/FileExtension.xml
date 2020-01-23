@@ -82,16 +82,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjects(System.Type)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjects(System.Type)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjects(System.Type)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjects(System.Type)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjects(System.Type)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjects(System.Type)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjects(System.Type)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjects(System.Type)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjects(System.Type)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjects(System.Type)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjects(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Framework</AssemblyName>
@@ -128,16 +118,6 @@
       <MemberSignature Language="VB.NET" Value="Public Iterator Overridable NotOverridable Function GetSchemaObjectTypes () As IEnumerable(Of Type)" FrameworkAlternate="netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjectTypes</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjectTypes</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjectTypes</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjectTypes</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjectTypes</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjectTypes</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjectTypes</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjectTypes</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjectTypes</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjectTypes</InterfaceMember>
         <InterfaceMember>M:Microsoft.Build.Framework.XamlTypes.IProjectSchemaNode.GetSchemaObjectTypes</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -65,12 +65,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Declare(System.Action{Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment,System.Boolean})</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Declare(System.Action{Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment,System.Boolean})</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Declare(System.Action{Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment,System.Boolean})</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Declare(System.Action{Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment,System.Boolean})</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Declare(System.Action{Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment,System.Boolean})</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Declare(System.Action{Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment,System.Boolean})</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Declare(System.Action{Microsoft.Extensions.FileSystemGlobbing.Internal.IPathSegment,System.Boolean})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.FileSystemGlobbing</AssemblyName>
@@ -158,12 +152,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.PopDirectory</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.PopDirectory</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.PopDirectory</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.PopDirectory</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.PopDirectory</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.PopDirectory</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.PopDirectory</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.FileSystemGlobbing</AssemblyName>
@@ -224,12 +212,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.PushDirectory(Microsoft.Extensions.FileSystemGlobbing.Abstractions.DirectoryInfoBase)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.PushDirectory(Microsoft.Extensions.FileSystemGlobbing.Abstractions.DirectoryInfoBase)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.PushDirectory(Microsoft.Extensions.FileSystemGlobbing.Abstractions.DirectoryInfoBase)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.PushDirectory(Microsoft.Extensions.FileSystemGlobbing.Abstractions.DirectoryInfoBase)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.PushDirectory(Microsoft.Extensions.FileSystemGlobbing.Abstractions.DirectoryInfoBase)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.PushDirectory(Microsoft.Extensions.FileSystemGlobbing.Abstractions.DirectoryInfoBase)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.PushDirectory(Microsoft.Extensions.FileSystemGlobbing.Abstractions.DirectoryInfoBase)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.FileSystemGlobbing</AssemblyName>
@@ -262,12 +244,6 @@
       <MemberSignature Language="F#" Value="abstract member Test : Microsoft.Extensions.FileSystemGlobbing.Abstractions.DirectoryInfoBase -&gt; bool" Usage="patternContext.Test directory" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Test(Microsoft.Extensions.FileSystemGlobbing.Abstractions.DirectoryInfoBase)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Test(Microsoft.Extensions.FileSystemGlobbing.Abstractions.DirectoryInfoBase)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Test(Microsoft.Extensions.FileSystemGlobbing.Abstractions.DirectoryInfoBase)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Test(Microsoft.Extensions.FileSystemGlobbing.Abstractions.DirectoryInfoBase)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Test(Microsoft.Extensions.FileSystemGlobbing.Abstractions.DirectoryInfoBase)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Test(Microsoft.Extensions.FileSystemGlobbing.Abstractions.DirectoryInfoBase)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Test(Microsoft.Extensions.FileSystemGlobbing.Abstractions.DirectoryInfoBase)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -302,12 +278,6 @@
       <MemberSignature Language="F#" Value="abstract member Test : Microsoft.Extensions.FileSystemGlobbing.Abstractions.FileInfoBase -&gt; Microsoft.Extensions.FileSystemGlobbing.Internal.PatternTestResult" Usage="patternContext.Test file" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Test(Microsoft.Extensions.FileSystemGlobbing.Abstractions.FileInfoBase)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Test(Microsoft.Extensions.FileSystemGlobbing.Abstractions.FileInfoBase)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Test(Microsoft.Extensions.FileSystemGlobbing.Abstractions.FileInfoBase)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Test(Microsoft.Extensions.FileSystemGlobbing.Abstractions.FileInfoBase)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Test(Microsoft.Extensions.FileSystemGlobbing.Abstractions.FileInfoBase)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Test(Microsoft.Extensions.FileSystemGlobbing.Abstractions.FileInfoBase)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.FileSystemGlobbing.Internal.IPatternContext.Test(Microsoft.Extensions.FileSystemGlobbing.Abstractions.FileInfoBase)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -1033,20 +1033,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1200,20 +1186,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.BeginInit</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1238,20 +1210,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ISupportInitialize.EndInit</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1275,20 +1233,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Windows.IWeakEventListener.ReceiveWeakEvent(Type ^ managerType, System::Object ^ sender, EventArgs ^ e) = System::Windows::IWeakEventListener::ReceiveWeakEvent;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
         <InterfaceMember>M:System.Windows.IWeakEventListener.ReceiveWeakEvent(System.Type,System.Object,System.EventArgs)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

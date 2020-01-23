@@ -73,23 +73,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.AsyncProcessResponse(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders,System.IO.Stream)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -138,23 +121,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerResponseChannelSinkStack.GetResponseStream(System.Runtime.Remoting.Messaging.IMessage,System.Runtime.Remoting.Channels.ITransportHeaders)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -202,23 +168,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Pop(System.Runtime.Remoting.Channels.IServerChannelSink)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -256,23 +205,6 @@
       <MemberSignature Language="F#" Value="abstract member Push : System.Runtime.Remoting.Channels.IServerChannelSink * obj -&gt; unit&#xA;override this.Push : System.Runtime.Remoting.Channels.IServerChannelSink * obj -&gt; unit" Usage="serverChannelSinkStack.Push (sink, state)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Push(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -319,23 +251,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.ServerCallback(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -380,23 +295,6 @@
       <MemberSignature Language="F#" Value="abstract member Store : System.Runtime.Remoting.Channels.IServerChannelSink * obj -&gt; unit&#xA;override this.Store : System.Runtime.Remoting.Channels.IServerChannelSink * obj -&gt; unit" Usage="serverChannelSinkStack.Store (sink, state)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.Store(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -447,23 +345,6 @@
       <MemberSignature Language="F#" Value="abstract member StoreAndDispatch : System.Runtime.Remoting.Channels.IServerChannelSink * obj -&gt; unit&#xA;override this.StoreAndDispatch : System.Runtime.Remoting.Channels.IServerChannelSink * obj -&gt; unit" Usage="serverChannelSinkStack.StoreAndDispatch (sink, state)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IServerChannelSinkStack.StoreAndDispatch(System.Runtime.Remoting.Channels.IServerChannelSink,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

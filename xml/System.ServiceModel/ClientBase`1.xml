@@ -623,32 +623,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Abort</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -844,28 +818,6 @@
       <MemberSignature Language="F#" Value="abstract member Close : unit -&gt; unit&#xA;override this.Close : unit -&gt; unit" Usage="clientBase.Close " FrameworkAlternate="netframework-3.0;netframework-3.5;netframework-4.0;netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8;xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1156,21 +1108,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1206,32 +1143,6 @@
       <MemberSignature Language="F#" Value="member this.State : System.ServiceModel.CommunicationState" Usage="System.ServiceModel.ClientBase&lt;'Channel (requires 'Channel : null)&gt;.State" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
         <InterfaceMember>P:System.ServiceModel.ICommunicationObject.State</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1275,28 +1186,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.IDisposable.Dispose() = IDisposable::Dispose;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1352,32 +1241,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1426,32 +1289,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual IAsyncResult ^ System.ServiceModel.ICommunicationObject.BeginClose(TimeSpan timeout, AsyncCallback ^ callback, System::Object ^ state) = System::ServiceModel::ICommunicationObject::BeginClose;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginClose(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1514,32 +1351,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1588,32 +1399,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual IAsyncResult ^ System.ServiceModel.ICommunicationObject.BeginOpen(TimeSpan timeout, AsyncCallback ^ callback, System::Object ^ state) = System::ServiceModel::ICommunicationObject::BeginOpen;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.BeginOpen(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1666,16 +1451,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Primitives</AssemblyName>
@@ -1708,32 +1483,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout) = System::ServiceModel::ICommunicationObject::Close;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Close(System.TimeSpan)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1780,31 +1529,6 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closed</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Primitives</AssemblyName>
@@ -1845,31 +1569,6 @@ For more information, see <xref:System.ServiceModel.Channels.CommunicationObject
       <MemberSignature Language="VB.NET" Value="Custom Event Closing As EventHandler Implements System.ServiceModel.ICommunicationObject" />
       <MemberType>Event</MemberType>
       <Implements>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
         <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Closing</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1912,32 +1611,6 @@ For more information, see <xref:System.ServiceModel.Channels.CommunicationObject
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.ICommunicationObject.EndClose(IAsyncResult ^ result) = System::ServiceModel::ICommunicationObject::EndClose;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndClose(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1985,32 +1658,6 @@ For more information, see <xref:System.ServiceModel.Channels.CommunicationObject
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.EndOpen(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -2056,31 +1703,6 @@ For more information, see <xref:System.ServiceModel.Channels.CommunicationObject
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Faulted</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Primitives</AssemblyName>
@@ -2123,16 +1745,6 @@ For more information, see <xref:System.ServiceModel.Channels.CommunicationObject
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Primitives</AssemblyName>
@@ -2165,32 +1777,6 @@ For more information, see <xref:System.ServiceModel.Channels.CommunicationObject
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.ICommunicationObject.Open(TimeSpan timeout) = System::ServiceModel::ICommunicationObject::Open;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.ICommunicationObject.Open(System.TimeSpan)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2237,31 +1823,6 @@ For more information, see <xref:System.ServiceModel.Channels.CommunicationObject
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opened</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Primitives</AssemblyName>
@@ -2302,31 +1863,6 @@ For more information, see <xref:System.ServiceModel.Channels.CommunicationObject
       <MemberSignature Language="VB.NET" Value="Custom Event Opening As EventHandler Implements System.ServiceModel.ICommunicationObject" />
       <MemberType>Event</MemberType>
       <Implements>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
-        <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
         <InterfaceMember>E:System.ServiceModel.ICommunicationObject.Opening</InterfaceMember>
       </Implements>
       <AssemblyInfo>

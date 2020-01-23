@@ -391,18 +391,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Xaml.IXamlLineInfoConsumer.SetLineInfo(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlLineInfoConsumer.SetLineInfo(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlLineInfoConsumer.SetLineInfo(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlLineInfoConsumer.SetLineInfo(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlLineInfoConsumer.SetLineInfo(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlLineInfoConsumer.SetLineInfo(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlLineInfoConsumer.SetLineInfo(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlLineInfoConsumer.SetLineInfo(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlLineInfoConsumer.SetLineInfo(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlLineInfoConsumer.SetLineInfo(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlLineInfoConsumer.SetLineInfo(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlLineInfoConsumer.SetLineInfo(System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlLineInfoConsumer.SetLineInfo(System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xaml</AssemblyName>
@@ -438,18 +426,6 @@
       <MemberSignature Language="F#" Value="member this.ShouldProvideLineInfo : bool" Usage="System.Xaml.XamlObjectWriter.ShouldProvideLineInfo" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfoConsumer.ShouldProvideLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfoConsumer.ShouldProvideLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfoConsumer.ShouldProvideLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfoConsumer.ShouldProvideLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfoConsumer.ShouldProvideLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfoConsumer.ShouldProvideLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfoConsumer.ShouldProvideLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfoConsumer.ShouldProvideLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfoConsumer.ShouldProvideLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfoConsumer.ShouldProvideLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfoConsumer.ShouldProvideLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfoConsumer.ShouldProvideLineInfo</InterfaceMember>
         <InterfaceMember>P:System.Xaml.IXamlLineInfoConsumer.ShouldProvideLineInfo</InterfaceMember>
       </Implements>
       <AssemblyInfo>

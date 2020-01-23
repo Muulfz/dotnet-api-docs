@@ -65,20 +65,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.GetComponentInfo(System.String,System.String@,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.GetComponentInfo(System.String,System.String@,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.GetComponentInfo(System.String,System.String@,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.GetComponentInfo(System.String,System.String@,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.GetComponentInfo(System.String,System.String@,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.GetComponentInfo(System.String,System.String@,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.GetComponentInfo(System.String,System.String@,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.GetComponentInfo(System.String,System.String@,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.GetComponentInfo(System.String,System.String@,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.GetComponentInfo(System.String,System.String@,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.GetComponentInfo(System.String,System.String@,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.GetComponentInfo(System.String,System.String@,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.GetComponentInfo(System.String,System.String@,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.GetComponentInfo(System.String,System.String@,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.GetComponentInfo(System.String,System.String@,System.String@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.EnterpriseServices</AssemblyName>
@@ -131,20 +117,6 @@
       <MemberSignature Language="F#" Value="abstract member InstallAssembly : string * string * string -&gt; unit&#xA;override this.InstallAssembly : string * string * string -&gt; unit" Usage="comManagedImportUtil.InstallAssembly (asmpath, parname, appname)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.InstallAssembly(System.String,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.InstallAssembly(System.String,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.InstallAssembly(System.String,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.InstallAssembly(System.String,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.InstallAssembly(System.String,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.InstallAssembly(System.String,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.InstallAssembly(System.String,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.InstallAssembly(System.String,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.InstallAssembly(System.String,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.InstallAssembly(System.String,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.InstallAssembly(System.String,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.InstallAssembly(System.String,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.InstallAssembly(System.String,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.InstallAssembly(System.String,System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:System.EnterpriseServices.Internal.IComManagedImportUtil.InstallAssembly(System.String,System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

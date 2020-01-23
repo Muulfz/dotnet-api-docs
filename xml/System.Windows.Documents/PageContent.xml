@@ -445,20 +445,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddChild(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -492,20 +478,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Markup.IAddChild.AddText(System::String ^ text) = System::Windows::Markup::IAddChild::AddText;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Markup.IAddChild.AddText(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -541,20 +513,6 @@
       <MemberSignature Language="F#" Usage="System.Windows.Markup.IUriContext.BaseUri" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
         <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
       </Implements>
       <AssemblyInfo>

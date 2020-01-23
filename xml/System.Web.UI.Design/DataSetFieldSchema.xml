@@ -87,19 +87,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.DataType</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.DataType</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.DataType</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.DataType</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.DataType</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.DataType</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.DataType</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.DataType</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.DataType</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.DataType</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.DataType</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.DataType</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.DataType</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.DataType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -126,19 +113,6 @@
       <MemberSignature Language="F#" Value="member this.Identity : bool" Usage="System.Web.UI.Design.DataSetFieldSchema.Identity" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Identity</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Identity</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Identity</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Identity</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Identity</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Identity</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Identity</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Identity</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Identity</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Identity</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Identity</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Identity</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Identity</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Identity</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -176,19 +150,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -216,19 +177,6 @@
       <MemberSignature Language="F#" Value="member this.IsUnique : bool" Usage="System.Web.UI.Design.DataSetFieldSchema.IsUnique" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsUnique</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsUnique</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsUnique</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsUnique</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsUnique</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsUnique</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsUnique</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsUnique</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsUnique</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsUnique</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsUnique</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsUnique</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsUnique</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.IsUnique</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -266,19 +214,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Length</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Length</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Length</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Length</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Length</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Length</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Length</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Length</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Length</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Length</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Length</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Length</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Length</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Length</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -314,19 +249,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Name</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -361,19 +283,6 @@
       <MemberSignature Language="F#" Value="member this.Nullable : bool" Usage="System.Web.UI.Design.DataSetFieldSchema.Nullable" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Nullable</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Nullable</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Nullable</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Nullable</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Nullable</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Nullable</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Nullable</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Nullable</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Nullable</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Nullable</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Nullable</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Nullable</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Nullable</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Nullable</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -411,19 +320,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Precision</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Precision</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -459,19 +355,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.PrimaryKey</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.PrimaryKey</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.PrimaryKey</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.PrimaryKey</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.PrimaryKey</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.PrimaryKey</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.PrimaryKey</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.PrimaryKey</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.PrimaryKey</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.PrimaryKey</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.PrimaryKey</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.PrimaryKey</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.PrimaryKey</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.PrimaryKey</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -500,19 +383,6 @@
       <MemberSignature Language="F#" Value="member this.Scale : int" Usage="System.Web.UI.Design.DataSetFieldSchema.Scale" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Scale</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Scale</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.Design.IDataSourceFieldSchema.Scale</InterfaceMember>
       </Implements>
       <AssemblyInfo>

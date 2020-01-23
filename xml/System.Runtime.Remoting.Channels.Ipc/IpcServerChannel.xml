@@ -282,19 +282,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannelReceiver.ChannelData</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -335,19 +322,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -387,19 +361,6 @@
       <MemberSignature Language="F#" Value="member this.ChannelPriority : int" Usage="System.Runtime.Remoting.Channels.Ipc.IpcServerChannel.ChannelPriority" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
         <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -479,19 +440,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.GetUrlsForUri(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -536,19 +484,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -573,19 +508,6 @@
       <MemberSignature Language="F#" Value="abstract member Parse : string * string -&gt; string&#xA;override this.Parse : string * string -&gt; string" Usage="ipcServerChannel.Parse (url, objectURI)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -633,19 +555,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StartListening(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -685,19 +594,6 @@
       <MemberSignature Language="F#" Value="abstract member StopListening : obj -&gt; unit&#xA;override this.StopListening : obj -&gt; unit" Usage="ipcServerChannel.StopListening data" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelReceiver.StopListening(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

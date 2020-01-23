@@ -62,7 +62,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Configuration</AssemblyName>
@@ -88,9 +87,6 @@
       <MemberSignature Language="F#" Value="abstract member GetChildKeys : seq&lt;string&gt; * string -&gt; seq&lt;string&gt;&#xA;override this.GetChildKeys : seq&lt;string&gt; * string -&gt; seq&lt;string&gt;" Usage="chainedConfigurationProvider.GetChildKeys (earlierKeys, parentPath)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetChildKeys(System.Collections.Generic.IEnumerable{System.String},System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetChildKeys(System.Collections.Generic.IEnumerable{System.String},System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetChildKeys(System.Collections.Generic.IEnumerable{System.String},System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetChildKeys(System.Collections.Generic.IEnumerable{System.String},System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -127,9 +123,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetReloadToken</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetReloadToken</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetReloadToken</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.GetReloadToken</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Configuration</AssemblyName>
@@ -158,9 +151,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Load</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Load</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Load</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Load</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Configuration</AssemblyName>
@@ -187,9 +177,6 @@
       <MemberSignature Language="F#" Value="abstract member Set : string * string -&gt; unit&#xA;override this.Set : string * string -&gt; unit" Usage="chainedConfigurationProvider.Set (key, value)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Set(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Set(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Set(System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.Set(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -222,9 +209,6 @@
       <MemberSignature Language="F#" Value="abstract member TryGet : string * string -&gt; bool&#xA;override this.TryGet : string * string -&gt; bool" Usage="chainedConfigurationProvider.TryGet (key, value)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.TryGet(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.TryGet(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.TryGet(System.String,System.String@)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Configuration.IConfigurationProvider.TryGet(System.String,System.String@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

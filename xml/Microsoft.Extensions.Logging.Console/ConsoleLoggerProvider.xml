@@ -167,12 +167,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerProvider.CreateLogger(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerProvider.CreateLogger(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerProvider.CreateLogger(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerProvider.CreateLogger(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerProvider.CreateLogger(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerProvider.CreateLogger(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Logging.ILoggerProvider.CreateLogger(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Logging.Console</AssemblyName>
@@ -208,12 +202,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Logging.Console</AssemblyName>
@@ -244,9 +232,6 @@
       <MemberSignature Language="F#" Value="abstract member SetScopeProvider : Microsoft.Extensions.Logging.IExternalScopeProvider -&gt; unit&#xA;override this.SetScopeProvider : Microsoft.Extensions.Logging.IExternalScopeProvider -&gt; unit" Usage="consoleLoggerProvider.SetScopeProvider scopeProvider" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Extensions.Logging.ISupportExternalScope.SetScopeProvider(Microsoft.Extensions.Logging.IExternalScopeProvider)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Logging.ISupportExternalScope.SetScopeProvider(Microsoft.Extensions.Logging.IExternalScopeProvider)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Logging.ISupportExternalScope.SetScopeProvider(Microsoft.Extensions.Logging.IExternalScopeProvider)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Logging.ISupportExternalScope.SetScopeProvider(Microsoft.Extensions.Logging.IExternalScopeProvider)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -520,18 +520,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Channels.ITransportTokenAssertionProvider.GetTransportTokenAssertion</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.ITransportTokenAssertionProvider.GetTransportTokenAssertion</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.ITransportTokenAssertionProvider.GetTransportTokenAssertion</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.ITransportTokenAssertionProvider.GetTransportTokenAssertion</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.ITransportTokenAssertionProvider.GetTransportTokenAssertion</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.ITransportTokenAssertionProvider.GetTransportTokenAssertion</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.ITransportTokenAssertionProvider.GetTransportTokenAssertion</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.ITransportTokenAssertionProvider.GetTransportTokenAssertion</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.ITransportTokenAssertionProvider.GetTransportTokenAssertion</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.ITransportTokenAssertionProvider.GetTransportTokenAssertion</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.ITransportTokenAssertionProvider.GetTransportTokenAssertion</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.ITransportTokenAssertionProvider.GetTransportTokenAssertion</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.ITransportTokenAssertionProvider.GetTransportTokenAssertion</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -602,8 +590,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.Channels.ISecurityCapabilities.SupportedRequestProtectionLevel</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.Channels.ISecurityCapabilities.SupportedRequestProtectionLevel</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.Channels.ISecurityCapabilities.SupportedRequestProtectionLevel</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -631,8 +617,6 @@
       <MemberSignature Language="F#" Usage="System.ServiceModel.Channels.ISecurityCapabilities.SupportedResponseProtectionLevel" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.ServiceModel.Channels.ISecurityCapabilities.SupportedResponseProtectionLevel</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.Channels.ISecurityCapabilities.SupportedResponseProtectionLevel</InterfaceMember>
         <InterfaceMember>P:System.ServiceModel.Channels.ISecurityCapabilities.SupportedResponseProtectionLevel</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -662,8 +646,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.Channels.ISecurityCapabilities.SupportsClientAuthentication</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.Channels.ISecurityCapabilities.SupportsClientAuthentication</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.Channels.ISecurityCapabilities.SupportsClientAuthentication</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -691,8 +673,6 @@
       <MemberSignature Language="F#" Usage="System.ServiceModel.Channels.ISecurityCapabilities.SupportsClientWindowsIdentity" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.ServiceModel.Channels.ISecurityCapabilities.SupportsClientWindowsIdentity</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.Channels.ISecurityCapabilities.SupportsClientWindowsIdentity</InterfaceMember>
         <InterfaceMember>P:System.ServiceModel.Channels.ISecurityCapabilities.SupportsClientWindowsIdentity</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -722,8 +702,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ServiceModel.Channels.ISecurityCapabilities.SupportsServerAuthentication</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.Channels.ISecurityCapabilities.SupportsServerAuthentication</InterfaceMember>
-        <InterfaceMember>P:System.ServiceModel.Channels.ISecurityCapabilities.SupportsServerAuthentication</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -750,18 +728,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.Description.IPolicyExportExtension.ExportPolicy(System::ServiceModel::Description::MetadataExporter ^ exporter, System::ServiceModel::Description::PolicyConversionContext ^ context) = System::ServiceModel::Description::IPolicyExportExtension::ExportPolicy;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Description.IPolicyExportExtension.ExportPolicy(System.ServiceModel.Description.MetadataExporter,System.ServiceModel.Description.PolicyConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IPolicyExportExtension.ExportPolicy(System.ServiceModel.Description.MetadataExporter,System.ServiceModel.Description.PolicyConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IPolicyExportExtension.ExportPolicy(System.ServiceModel.Description.MetadataExporter,System.ServiceModel.Description.PolicyConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IPolicyExportExtension.ExportPolicy(System.ServiceModel.Description.MetadataExporter,System.ServiceModel.Description.PolicyConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IPolicyExportExtension.ExportPolicy(System.ServiceModel.Description.MetadataExporter,System.ServiceModel.Description.PolicyConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IPolicyExportExtension.ExportPolicy(System.ServiceModel.Description.MetadataExporter,System.ServiceModel.Description.PolicyConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IPolicyExportExtension.ExportPolicy(System.ServiceModel.Description.MetadataExporter,System.ServiceModel.Description.PolicyConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IPolicyExportExtension.ExportPolicy(System.ServiceModel.Description.MetadataExporter,System.ServiceModel.Description.PolicyConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IPolicyExportExtension.ExportPolicy(System.ServiceModel.Description.MetadataExporter,System.ServiceModel.Description.PolicyConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IPolicyExportExtension.ExportPolicy(System.ServiceModel.Description.MetadataExporter,System.ServiceModel.Description.PolicyConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IPolicyExportExtension.ExportPolicy(System.ServiceModel.Description.MetadataExporter,System.ServiceModel.Description.PolicyConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IPolicyExportExtension.ExportPolicy(System.ServiceModel.Description.MetadataExporter,System.ServiceModel.Description.PolicyConversionContext)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Description.IPolicyExportExtension.ExportPolicy(System.ServiceModel.Description.MetadataExporter,System.ServiceModel.Description.PolicyConversionContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

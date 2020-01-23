@@ -63,16 +63,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.CheckTypes</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.CheckTypes</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.CheckTypes</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.CheckTypes</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.CheckTypes</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.CheckTypes</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.CheckTypes</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.CheckTypes</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.CheckTypes</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.CheckTypes</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.CheckTypes</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -105,16 +95,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.Language</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.Language</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.Language</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.Language</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.Language</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.Language</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.Language</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.Language</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.Language</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.Language</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.Language</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.ComponentModel</AssemblyName>
@@ -145,16 +125,6 @@
       <MemberSignature Language="F#" Value="member this.RootNamespace : string" Usage="System.Workflow.ComponentModel.Compiler.WorkflowCompilerOptionsService.RootNamespace" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.RootNamespace</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.RootNamespace</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.RootNamespace</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.RootNamespace</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.RootNamespace</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.RootNamespace</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.RootNamespace</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.RootNamespace</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.RootNamespace</InterfaceMember>
-        <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.RootNamespace</InterfaceMember>
         <InterfaceMember>P:System.Workflow.ComponentModel.Compiler.IWorkflowCompilerOptionsService.RootNamespace</InterfaceMember>
       </Implements>
       <AssemblyInfo>

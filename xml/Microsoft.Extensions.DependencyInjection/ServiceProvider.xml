@@ -76,7 +76,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IAsyncDisposable.DisposeAsync</InterfaceMember>
-        <InterfaceMember>M:System.IAsyncDisposable.DisposeAsync</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.DependencyInjection</AssemblyName>

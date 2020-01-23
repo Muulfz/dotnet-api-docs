@@ -1338,39 +1338,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable`1.CompareTo(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>
@@ -1741,39 +1708,6 @@
       <MemberSignature Language="F#" Value="override this.Equals : DateTimeOffset -&gt; bool" Usage="dateTimeOffset.Equals other" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
-        <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
         <InterfaceMember>M:System.IEquatable`1.Equals(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4514,39 +4448,6 @@ Strings that do not specify a UTC offset are assumed to have the offset of the l
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.IComparable.CompareTo(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime</AssemblyName>
@@ -4609,29 +4510,6 @@ Strings that do not specify a UTC offset are assumed to have the offset of the l
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IDeserializationCallback.OnDeserialization(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -4670,29 +4548,6 @@ Strings that do not specify a UTC offset are assumed to have the offset of the l
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Runtime.Serialization.ISerializable.GetObjectData(System::Runtime::Serialization::SerializationInfo ^ info, System::Runtime::Serialization::StreamingContext context) = System::Runtime::Serialization::ISerializable::GetObjectData;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -5292,39 +5147,6 @@ Me.ToUtcDateTime().ToFileTime()
       <MemberSignature Language="F#" Value="override this.ToString : string * IFormatProvider -&gt; string" Usage="dateTimeOffset.ToString (format, formatProvider)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
-        <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
         <InterfaceMember>M:System.IFormattable.ToString(System.String,System.IFormatProvider)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

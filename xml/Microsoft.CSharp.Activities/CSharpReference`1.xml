@@ -164,15 +164,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities</AssemblyName>
@@ -197,15 +188,6 @@
       <MemberSignature Language="F#" Value="member this.Language : string" Usage="Microsoft.CSharp.Activities.CSharpReference&lt;'Result&gt;.Language" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
         <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -235,15 +217,6 @@
       <MemberSignature Language="F#" Value="member this.RequiresCompilation : bool" Usage="Microsoft.CSharp.Activities.CSharpReference&lt;'Result&gt;.RequiresCompilation" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
         <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -276,20 +276,6 @@
       <MemberSignature Language="VB.NET" Value="Sub FillInstance (wmiInstance As IWmiInstance) Implements IWmiInstanceProvider.FillInstance" />
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System::ServiceModel::Administration::IWmiInstance ^ wmiInstance) = System::ServiceModel::Administration::IWmiInstanceProvider::FillInstance;" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Web</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -314,20 +300,6 @@
       <MemberSignature Language="VB.NET" Value="Function GetInstanceType () As String Implements IWmiInstanceProvider.GetInstanceType" />
       <MemberSignature Language="C++ CLI" Value=" virtual System::String ^ System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType() = System::ServiceModel::Administration::IWmiInstanceProvider::GetInstanceType;" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Web</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -354,20 +326,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.Description.IOperationBehavior.AddBindingParameters(System::ServiceModel::Description::OperationDescription ^ operation, System::ServiceModel::Channels::BindingParameterCollection ^ parameters) = System::ServiceModel::Description::IOperationBehavior::AddBindingParameters;" FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.AddBindingParameters(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.AddBindingParameters(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.AddBindingParameters(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.AddBindingParameters(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.AddBindingParameters(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.AddBindingParameters(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.AddBindingParameters(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.AddBindingParameters(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.AddBindingParameters(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.AddBindingParameters(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.AddBindingParameters(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.AddBindingParameters(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.AddBindingParameters(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.AddBindingParameters(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.AddBindingParameters(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -413,20 +371,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyClientBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.ClientOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyClientBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.ClientOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyClientBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.ClientOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyClientBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.ClientOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyClientBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.ClientOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyClientBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.ClientOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyClientBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.ClientOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyClientBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.ClientOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyClientBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.ClientOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyClientBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.ClientOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyClientBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.ClientOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyClientBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.ClientOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyClientBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.ClientOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyClientBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.ClientOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyClientBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.ClientOperation)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Web</AssemblyName>
@@ -470,20 +414,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.Description.IOperationBehavior.ApplyDispatchBehavior(System::ServiceModel::Description::OperationDescription ^ operation, System::ServiceModel::Dispatcher::DispatchOperation ^ service) = System::ServiceModel::Description::IOperationBehavior::ApplyDispatchBehavior;" FrameworkAlternate="xamarinandroid-7.1;xamarinios-10.8;xamarinmac-3.0" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.DispatchOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.DispatchOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.DispatchOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.DispatchOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.DispatchOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.DispatchOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.DispatchOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.DispatchOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.DispatchOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.DispatchOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.DispatchOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.DispatchOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.DispatchOperation)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.DispatchOperation)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.OperationDescription,System.ServiceModel.Dispatcher.DispatchOperation)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -529,20 +459,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.Validate(System.ServiceModel.Description.OperationDescription)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.Validate(System.ServiceModel.Description.OperationDescription)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.Validate(System.ServiceModel.Description.OperationDescription)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.Validate(System.ServiceModel.Description.OperationDescription)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.Validate(System.ServiceModel.Description.OperationDescription)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.Validate(System.ServiceModel.Description.OperationDescription)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.Validate(System.ServiceModel.Description.OperationDescription)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.Validate(System.ServiceModel.Description.OperationDescription)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.Validate(System.ServiceModel.Description.OperationDescription)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.Validate(System.ServiceModel.Description.OperationDescription)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.Validate(System.ServiceModel.Description.OperationDescription)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.Validate(System.ServiceModel.Description.OperationDescription)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.Validate(System.ServiceModel.Description.OperationDescription)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.Validate(System.ServiceModel.Description.OperationDescription)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IOperationBehavior.Validate(System.ServiceModel.Description.OperationDescription)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Web</AssemblyName>
@@ -578,19 +494,6 @@
       <MemberSignature Language="VB.NET" Value="Function GetOperationContractAttribute () As OperationContractAttribute Implements IOperationContractAttributeProvider.GetOperationContractAttribute" />
       <MemberSignature Language="C++ CLI" Value=" virtual System::ServiceModel::OperationContractAttribute ^ System.ServiceModel.IOperationContractAttributeProvider.GetOperationContractAttribute() = System::ServiceModel::IOperationContractAttributeProvider::GetOperationContractAttribute;" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.ServiceModel.IOperationContractAttributeProvider.GetOperationContractAttribute</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.IOperationContractAttributeProvider.GetOperationContractAttribute</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.IOperationContractAttributeProvider.GetOperationContractAttribute</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.IOperationContractAttributeProvider.GetOperationContractAttribute</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.IOperationContractAttributeProvider.GetOperationContractAttribute</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.IOperationContractAttributeProvider.GetOperationContractAttribute</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.IOperationContractAttributeProvider.GetOperationContractAttribute</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.IOperationContractAttributeProvider.GetOperationContractAttribute</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.IOperationContractAttributeProvider.GetOperationContractAttribute</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.IOperationContractAttributeProvider.GetOperationContractAttribute</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.IOperationContractAttributeProvider.GetOperationContractAttribute</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Web</AssemblyName>
         <AssemblyVersion>4.0.0.0</AssemblyVersion>

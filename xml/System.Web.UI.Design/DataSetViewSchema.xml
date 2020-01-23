@@ -79,19 +79,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetChildren</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetChildren</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetChildren</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetChildren</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetChildren</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetChildren</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetChildren</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetChildren</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetChildren</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetChildren</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetChildren</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetChildren</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetChildren</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetChildren</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -129,19 +116,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetFields</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetFields</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetFields</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetFields</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetFields</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetFields</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetFields</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetFields</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetFields</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetFields</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetFields</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetFields</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetFields</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.Design.IDataSourceViewSchema.GetFields</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -177,19 +151,6 @@
       <MemberSignature Language="F#" Value="member this.Name : string" Usage="System.Web.UI.Design.DataSetViewSchema.Name" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceViewSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceViewSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceViewSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceViewSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceViewSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceViewSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceViewSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceViewSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceViewSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceViewSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceViewSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceViewSchema.Name</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.Design.IDataSourceViewSchema.Name</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.Design.IDataSourceViewSchema.Name</InterfaceMember>
       </Implements>
       <AssemblyInfo>

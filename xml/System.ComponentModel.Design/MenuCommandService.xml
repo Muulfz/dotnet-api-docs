@@ -89,19 +89,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -143,19 +130,6 @@
       <MemberSignature Language="F#" Value="abstract member AddVerb : System.ComponentModel.Design.DesignerVerb -&gt; unit&#xA;override this.AddVerb : System.ComponentModel.Design.DesignerVerb -&gt; unit" Usage="menuCommandService.AddVerb verb" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.AddVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -206,19 +180,6 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="menuCommandService.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -341,19 +302,6 @@
       <MemberSignature Language="F#" Value="abstract member FindCommand : System.ComponentModel.Design.CommandID -&gt; System.ComponentModel.Design.MenuCommand&#xA;override this.FindCommand : System.ComponentModel.Design.CommandID -&gt; System.ComponentModel.Design.MenuCommand" Usage="menuCommandService.FindCommand commandID" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.FindCommand(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.FindCommand(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.FindCommand(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.FindCommand(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.FindCommand(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.FindCommand(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.FindCommand(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.FindCommand(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.FindCommand(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.FindCommand(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.FindCommand(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.FindCommand(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.FindCommand(System.ComponentModel.Design.CommandID)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.FindCommand(System.ComponentModel.Design.CommandID)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -487,19 +435,6 @@
       <MemberSignature Language="F#" Value="abstract member GlobalInvoke : System.ComponentModel.Design.CommandID -&gt; bool&#xA;override this.GlobalInvoke : System.ComponentModel.Design.CommandID -&gt; bool" Usage="menuCommandService.GlobalInvoke commandID" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.GlobalInvoke(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.GlobalInvoke(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.GlobalInvoke(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.GlobalInvoke(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.GlobalInvoke(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.GlobalInvoke(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.GlobalInvoke(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.GlobalInvoke(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.GlobalInvoke(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.GlobalInvoke(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.GlobalInvoke(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.GlobalInvoke(System.ComponentModel.Design.CommandID)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.GlobalInvoke(System.ComponentModel.Design.CommandID)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.GlobalInvoke(System.ComponentModel.Design.CommandID)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -652,19 +587,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveCommand(System.ComponentModel.Design.MenuCommand)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -706,19 +628,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.RemoveVerb(System.ComponentModel.Design.DesignerVerb)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -752,19 +661,6 @@
       <MemberSignature Language="F#" Value="abstract member ShowContextMenu : System.ComponentModel.Design.CommandID * int * int -&gt; unit&#xA;override this.ShowContextMenu : System.ComponentModel.Design.CommandID * int * int -&gt; unit" Usage="menuCommandService.ShowContextMenu (menuID, x, y)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.ShowContextMenu(System.ComponentModel.Design.CommandID,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.ShowContextMenu(System.ComponentModel.Design.CommandID,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.ShowContextMenu(System.ComponentModel.Design.CommandID,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.ShowContextMenu(System.ComponentModel.Design.CommandID,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.ShowContextMenu(System.ComponentModel.Design.CommandID,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.ShowContextMenu(System.ComponentModel.Design.CommandID,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.ShowContextMenu(System.ComponentModel.Design.CommandID,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.ShowContextMenu(System.ComponentModel.Design.CommandID,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.ShowContextMenu(System.ComponentModel.Design.CommandID,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.ShowContextMenu(System.ComponentModel.Design.CommandID,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.ShowContextMenu(System.ComponentModel.Design.CommandID,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.ShowContextMenu(System.ComponentModel.Design.CommandID,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.ShowContextMenu(System.ComponentModel.Design.CommandID,System.Int32,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IMenuCommandService.ShowContextMenu(System.ComponentModel.Design.CommandID,System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -808,19 +704,6 @@
       <MemberSignature Language="F#" Value="member this.Verbs : System.ComponentModel.Design.DesignerVerbCollection" Usage="System.ComponentModel.Design.MenuCommandService.Verbs" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.ComponentModel.Design.IMenuCommandService.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IMenuCommandService.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IMenuCommandService.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IMenuCommandService.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IMenuCommandService.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IMenuCommandService.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IMenuCommandService.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IMenuCommandService.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IMenuCommandService.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IMenuCommandService.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IMenuCommandService.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IMenuCommandService.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IMenuCommandService.Verbs</InterfaceMember>
         <InterfaceMember>P:System.ComponentModel.Design.IMenuCommandService.Verbs</InterfaceMember>
       </Implements>
       <AssemblyInfo>

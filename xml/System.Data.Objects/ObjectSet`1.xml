@@ -65,16 +65,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Objects.IObjectSet`1.AddObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.AddObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.AddObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.AddObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.AddObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.AddObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.AddObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.AddObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.AddObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.AddObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.AddObject(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -178,16 +168,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Attach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Attach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Attach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Attach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Attach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Attach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Attach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Attach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Attach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Attach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Attach(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -276,16 +256,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.Objects.IObjectSet`1.DeleteObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.DeleteObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.DeleteObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.DeleteObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.DeleteObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.DeleteObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.DeleteObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.DeleteObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.DeleteObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.DeleteObject(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.DeleteObject(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data.Entity</AssemblyName>
@@ -320,16 +290,6 @@
       <MemberSignature Language="F#" Value="abstract member Detach : 'Entity -&gt; unit&#xA;override this.Detach : 'Entity -&gt; unit" Usage="objectSet.Detach entity" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Detach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Detach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Detach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Detach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Detach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Detach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Detach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Detach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Detach(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Detach(`0)</InterfaceMember>
         <InterfaceMember>M:System.Data.Objects.IObjectSet`1.Detach(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

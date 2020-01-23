@@ -67,13 +67,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.Add(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -109,11 +102,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -144,11 +132,6 @@
       <MemberSignature Language="F#" Value="abstract member Contains : 'T -&gt; bool&#xA;override this.Contains : 'T -&gt; bool" Usage="builder.Contains item" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Contains(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -186,16 +169,6 @@
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -225,13 +198,6 @@
       <MemberSignature Language="F#" Value="abstract member ExceptWith : seq&lt;'T&gt; -&gt; unit&#xA;override this.ExceptWith : seq&lt;'T&gt; -&gt; unit" Usage="builder.ExceptWith other" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.ExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.ExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.ExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.ExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.ExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.ExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.ExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.ExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -294,13 +260,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.IntersectWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IntersectWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IntersectWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IntersectWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IntersectWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IntersectWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IntersectWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IntersectWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -333,13 +292,6 @@
       <MemberSignature Language="F#" Value="abstract member IsProperSubsetOf : seq&lt;'T&gt; -&gt; bool&#xA;override this.IsProperSubsetOf : seq&lt;'T&gt; -&gt; bool" Usage="builder.IsProperSubsetOf other" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -376,13 +328,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsProperSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -418,13 +363,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSubsetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -459,13 +397,6 @@
       <MemberSignature Language="F#" Value="abstract member IsSupersetOf : seq&lt;'T&gt; -&gt; bool&#xA;override this.IsSupersetOf : seq&lt;'T&gt; -&gt; bool" Usage="builder.IsSupersetOf other" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.IsSupersetOf(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -529,13 +460,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.Overlaps(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -570,11 +494,6 @@
       <MemberSignature Language="F#" Value="abstract member Remove : 'T -&gt; bool&#xA;override this.Remove : 'T -&gt; bool" Usage="builder.Remove item" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Remove(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -612,13 +531,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.SetEquals(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -654,13 +566,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.SymmetricExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.SymmetricExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.SymmetricExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.SymmetricExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.SymmetricExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.SymmetricExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.SymmetricExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.SymmetricExceptWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -692,11 +597,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.Generic.ICollection&lt;T&gt;.Add(T item) = System::Collections::Generic::ICollection&lt;T&gt;::Add;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.Add(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -737,11 +637,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.Generic.ICollection&lt;T&gt;.CopyTo(cli::array &lt;T&gt; ^ array, int arrayIndex) = System::Collections::Generic::ICollection&lt;T&gt;::CopyTo;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ICollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -785,11 +680,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.ICollection`1.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -819,11 +709,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Generic::IEnumerator&lt;T&gt; ^ System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator() = System::Collections::Generic::IEnumerable&lt;T&gt;::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -861,11 +746,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -939,13 +819,6 @@
       <MemberSignature Language="F#" Value="abstract member UnionWith : seq&lt;'T&gt; -&gt; unit&#xA;override this.UnionWith : seq&lt;'T&gt; -&gt; unit" Usage="builder.UnionWith other" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.UnionWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.UnionWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.UnionWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.UnionWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.UnionWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.UnionWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.ISet`1.UnionWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.ISet`1.UnionWith(System.Collections.Generic.IEnumerable{`0})</InterfaceMember>
       </Implements>
       <AssemblyInfo>

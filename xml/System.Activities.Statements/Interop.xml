@@ -243,16 +243,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetAttributes</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetAttributes</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetAttributes</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetAttributes</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetAttributes</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetAttributes</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetAttributes</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetAttributes</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetAttributes</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetAttributes</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetAttributes</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.Runtime</AssemblyName>
@@ -283,16 +273,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::String ^ System.ComponentModel.ICustomTypeDescriptor.GetClassName() = System::ComponentModel::ICustomTypeDescriptor::GetClassName;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetClassName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetClassName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetClassName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetClassName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetClassName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetClassName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetClassName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetClassName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetClassName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetClassName</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetClassName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -325,16 +305,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetComponentName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetComponentName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetComponentName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetComponentName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetComponentName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetComponentName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetComponentName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetComponentName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetComponentName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetComponentName</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetComponentName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.Runtime</AssemblyName>
@@ -365,16 +335,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::ComponentModel::TypeConverter ^ System.ComponentModel.ICustomTypeDescriptor.GetConverter() = System::ComponentModel::ICustomTypeDescriptor::GetConverter;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetConverter</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetConverter</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetConverter</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetConverter</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetConverter</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetConverter</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetConverter</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetConverter</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetConverter</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetConverter</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetConverter</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -407,16 +367,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultEvent</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultEvent</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultEvent</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultEvent</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultEvent</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultEvent</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultEvent</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultEvent</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultEvent</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultEvent</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultEvent</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.Runtime</AssemblyName>
@@ -448,16 +398,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultProperty</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultProperty</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultProperty</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultProperty</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultProperty</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultProperty</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultProperty</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultProperty</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultProperty</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultProperty</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetDefaultProperty</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.Runtime</AssemblyName>
@@ -488,16 +428,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.ComponentModel.ICustomTypeDescriptor.GetEditor(Type ^ editorBaseType) = System::ComponentModel::ICustomTypeDescriptor::GetEditor;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEditor(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEditor(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEditor(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEditor(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEditor(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEditor(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEditor(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEditor(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEditor(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEditor(System.Type)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEditor(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -542,16 +472,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.Runtime</AssemblyName>
@@ -582,16 +502,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::ComponentModel::EventDescriptorCollection ^ System.ComponentModel.ICustomTypeDescriptor.GetEvents(cli::array &lt;Attribute ^&gt; ^ attributes) = System::ComponentModel::ICustomTypeDescriptor::GetEvents;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents(System.Attribute[])</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetEvents(System.Attribute[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -636,16 +546,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Workflow.Runtime</AssemblyName>
@@ -676,16 +576,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::ComponentModel::PropertyDescriptorCollection ^ System.ComponentModel.ICustomTypeDescriptor.GetProperties(cli::array &lt;Attribute ^&gt; ^ attributes) = System::ComponentModel::ICustomTypeDescriptor::GetProperties;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties(System.Attribute[])</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties(System.Attribute[])</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetProperties(System.Attribute[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -720,16 +610,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.ComponentModel.ICustomTypeDescriptor.GetPropertyOwner(System::ComponentModel::PropertyDescriptor ^ pd) = System::ComponentModel::ICustomTypeDescriptor::GetPropertyOwner;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetPropertyOwner(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetPropertyOwner(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetPropertyOwner(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetPropertyOwner(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetPropertyOwner(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetPropertyOwner(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetPropertyOwner(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetPropertyOwner(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetPropertyOwner(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetPropertyOwner(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.ICustomTypeDescriptor.GetPropertyOwner(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

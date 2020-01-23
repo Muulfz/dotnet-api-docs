@@ -65,12 +65,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Get(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Get(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Get(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Get(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Get(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Get(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Get(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.SqlServer</AssemblyName>
@@ -105,7 +99,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.GetAsync(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.GetAsync(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.SqlServer</AssemblyName>
@@ -133,10 +126,6 @@
       <MemberSignature Language="F#" Value="abstract member GetAsync : string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;byte[]&gt;&#xA;override this.GetAsync : string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;byte[]&gt;" Usage="sqlServerCache.GetAsync (key, token)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.GetAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.GetAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.GetAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.GetAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.GetAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -172,12 +161,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Refresh(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Refresh(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Refresh(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Refresh(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Refresh(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Refresh(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Refresh(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.SqlServer</AssemblyName>
@@ -211,7 +194,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RefreshAsync(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RefreshAsync(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.SqlServer</AssemblyName>
@@ -239,10 +221,6 @@
       <MemberSignature Language="F#" Value="abstract member RefreshAsync : string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&#xA;override this.RefreshAsync : string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="sqlServerCache.RefreshAsync (key, token)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RefreshAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RefreshAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RefreshAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RefreshAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RefreshAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -278,12 +256,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Remove(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Remove(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Remove(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Remove(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Remove(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Remove(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Remove(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.SqlServer</AssemblyName>
@@ -317,7 +289,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RemoveAsync(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RemoveAsync(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.SqlServer</AssemblyName>
@@ -345,10 +316,6 @@
       <MemberSignature Language="F#" Value="abstract member RemoveAsync : string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&#xA;override this.RemoveAsync : string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="sqlServerCache.RemoveAsync (key, token)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RemoveAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RemoveAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RemoveAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RemoveAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.RemoveAsync(System.String,System.Threading.CancellationToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -383,12 +350,6 @@
       <MemberSignature Language="F#" Value="abstract member Set : string * byte[] * Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions -&gt; unit&#xA;override this.Set : string * byte[] * Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions -&gt; unit" Usage="sqlServerCache.Set (key, value, options)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Set(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Set(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Set(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Set(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Set(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Set(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.Set(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -427,7 +388,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.SetAsync(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.SetAsync(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Extensions.Caching.SqlServer</AssemblyName>
@@ -459,10 +419,6 @@
       <MemberSignature Language="F#" Value="abstract member SetAsync : string * byte[] * Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&#xA;override this.SetAsync : string * byte[] * Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="sqlServerCache.SetAsync (key, value, options, token)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.SetAsync(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions,System.Threading.CancellationToken)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.SetAsync(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions,System.Threading.CancellationToken)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.SetAsync(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions,System.Threading.CancellationToken)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.SetAsync(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions,System.Threading.CancellationToken)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Extensions.Caching.Distributed.IDistributedCache.SetAsync(System.String,System.Byte[],Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions,System.Threading.CancellationToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

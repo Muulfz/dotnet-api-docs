@@ -82,20 +82,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -186,20 +172,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -284,20 +256,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -335,20 +293,6 @@
       <MemberSignature Language="F#" Value="abstract member ShowCode : int -&gt; bool" Usage="eventBindingService.ShowCode lineNumber" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -435,20 +379,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.CreateUniqueMethodName(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -484,20 +414,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::ICollection ^ System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System::ComponentModel::EventDescriptor ^ e) = System::ComponentModel::Design::IEventBindingService::GetCompatibleMethods;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetCompatibleMethods(System.ComponentModel.EventDescriptor)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -542,20 +458,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEvent(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEvent(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEvent(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEvent(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEvent(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEvent(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEvent(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEvent(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEvent(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEvent(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEvent(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEvent(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEvent(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEvent(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEvent(System.ComponentModel.PropertyDescriptor)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -587,20 +489,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::ComponentModel::PropertyDescriptorCollection ^ System.ComponentModel.Design.IEventBindingService.GetEventProperties(System::ComponentModel::EventDescriptorCollection ^ events) = System::ComponentModel::Design::IEventBindingService::GetEventProperties;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperties(System.ComponentModel.EventDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperties(System.ComponentModel.EventDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperties(System.ComponentModel.EventDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperties(System.ComponentModel.EventDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperties(System.ComponentModel.EventDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperties(System.ComponentModel.EventDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperties(System.ComponentModel.EventDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperties(System.ComponentModel.EventDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperties(System.ComponentModel.EventDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperties(System.ComponentModel.EventDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperties(System.ComponentModel.EventDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperties(System.ComponentModel.EventDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperties(System.ComponentModel.EventDescriptorCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperties(System.ComponentModel.EventDescriptorCollection)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperties(System.ComponentModel.EventDescriptorCollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -635,20 +523,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::ComponentModel::PropertyDescriptor ^ System.ComponentModel.Design.IEventBindingService.GetEventProperty(System::ComponentModel::EventDescriptor ^ e) = System::ComponentModel::Design::IEventBindingService::GetEventProperty;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperty(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperty(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperty(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperty(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperty(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperty(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperty(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperty(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperty(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperty(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperty(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperty(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperty(System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperty(System.ComponentModel.EventDescriptor)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.GetEventProperty(System.ComponentModel.EventDescriptor)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -693,20 +567,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -741,20 +601,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.ComponentModel.Design.IEventBindingService.ShowCode(int lineNumber) = System::ComponentModel::Design::IEventBindingService::ShowCode;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -793,20 +639,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.ComponentModel.Design.IEventBindingService.ShowCode(System::ComponentModel::IComponent ^ component, System::ComponentModel::EventDescriptor ^ e) = System::ComponentModel::Design::IEventBindingService::ShowCode;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IEventBindingService.ShowCode(System.ComponentModel.IComponent,System.ComponentModel.EventDescriptor)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

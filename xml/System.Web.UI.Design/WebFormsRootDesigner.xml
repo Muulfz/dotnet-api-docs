@@ -527,19 +527,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -571,19 +558,6 @@
       <MemberSignature Language="F#" Value="abstract member Initialize : System.ComponentModel.IComponent -&gt; unit&#xA;override this.Initialize : System.ComponentModel.IComponent -&gt; unit" Usage="webFormsRootDesigner.Initialize component" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesigner.Initialize(System.ComponentModel.IComponent)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -721,19 +695,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -764,19 +725,6 @@
       <MemberSignature Language="F#" Value="abstract member PostFilterEvents : System.Collections.IDictionary -&gt; unit&#xA;override this.PostFilterEvents : System.Collections.IDictionary -&gt; unit" Usage="webFormsRootDesigner.PostFilterEvents events" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -809,19 +757,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -852,19 +787,6 @@
       <MemberSignature Language="F#" Value="abstract member PreFilterAttributes : System.Collections.IDictionary -&gt; unit&#xA;override this.PreFilterAttributes : System.Collections.IDictionary -&gt; unit" Usage="webFormsRootDesigner.PreFilterAttributes attributes" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -897,19 +819,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -940,19 +849,6 @@
       <MemberSignature Language="F#" Value="abstract member PreFilterProperties : System.Collections.IDictionary -&gt; unit&#xA;override this.PreFilterProperties : System.Collections.IDictionary -&gt; unit" Usage="webFormsRootDesigner.PreFilterProperties properties" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1126,19 +1022,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -1165,19 +1048,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.Design.IDesigner.DoDefaultAction() = System::ComponentModel::Design::IDesigner::DoDefaultAction;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesigner.DoDefaultAction</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1212,19 +1082,6 @@
       <MemberSignature Language="F#" Usage="System.ComponentModel.Design.IDesigner.Verbs" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
         <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1263,19 +1120,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System::Collections::IDictionary ^ attributes) = System::ComponentModel::Design::IDesignerFilter::PostFilterAttributes;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1319,19 +1163,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterEvents(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -1373,19 +1204,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System::Collections::IDictionary ^ properties) = System::ComponentModel::Design::IDesignerFilter::PostFilterProperties;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PostFilterProperties(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1429,19 +1247,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterAttributes(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -1483,19 +1288,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System::Collections::IDictionary ^ events) = System::ComponentModel::Design::IDesignerFilter::PreFilterEvents;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterEvents(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1539,19 +1331,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IDesignerFilter.PreFilterProperties(System.Collections.IDictionary)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -1592,19 +1371,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.ComponentModel.Design.IRootDesigner.GetView(System::ComponentModel::Design::ViewTechnology viewTechnology) = System::ComponentModel::Design::IRootDesigner::GetView;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.IRootDesigner.GetView(System.ComponentModel.Design.ViewTechnology)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1650,19 +1416,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IRootDesigner.SupportedTechnologies</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -1701,19 +1454,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -1748,19 +1488,6 @@
       <MemberSignature Language="F#" Value="member this.Verbs : System.ComponentModel.Design.DesignerVerbCollection" Usage="System.Web.UI.Design.WebFormsRootDesigner.Verbs" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
         <InterfaceMember>P:System.ComponentModel.Design.IDesigner.Verbs</InterfaceMember>
       </Implements>
       <AssemblyInfo>

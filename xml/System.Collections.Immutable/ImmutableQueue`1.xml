@@ -234,13 +234,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.Immutable.IImmutableQueue`1.IsEmpty</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Immutable.IImmutableQueue`1.IsEmpty</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Immutable.IImmutableQueue`1.IsEmpty</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Immutable.IImmutableQueue`1.IsEmpty</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Immutable.IImmutableQueue`1.IsEmpty</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Immutable.IImmutableQueue`1.IsEmpty</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Immutable.IImmutableQueue`1.IsEmpty</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Immutable.IImmutableQueue`1.IsEmpty</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -273,13 +266,6 @@
       <MemberSignature Language="F#" Value="abstract member Peek : unit -&gt; 'T&#xA;override this.Peek : unit -&gt; 'T" Usage="immutableQueue.Peek " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Peek</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Peek</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Peek</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Peek</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Peek</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Peek</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Peek</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Peek</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -342,11 +328,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -383,11 +364,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -426,13 +402,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -470,13 +439,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Dequeue</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Dequeue</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Dequeue</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Dequeue</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Dequeue</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Dequeue</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Dequeue</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Dequeue</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Immutable</AssemblyName>
@@ -513,13 +475,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::Immutable::IImmutableQueue&lt;T&gt; ^ System.Collections.Immutable.IImmutableQueue&lt;T&gt;.Enqueue(T value) = System::Collections::Immutable::IImmutableQueue&lt;T&gt;::Enqueue;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Enqueue(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Enqueue(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Enqueue(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Enqueue(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Enqueue(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Enqueue(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Enqueue(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Immutable.IImmutableQueue`1.Enqueue(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

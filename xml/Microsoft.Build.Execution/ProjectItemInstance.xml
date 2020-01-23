@@ -95,19 +95,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual Microsoft::Build::Execution::ProjectMetadataInstance ^ GetMetadata(System::String ^ name);" />
       <MemberSignature Language="F#" Value="abstract member GetMetadata : string -&gt; Microsoft.Build.Execution.ProjectMetadataInstance&#xA;override this.GetMetadata : string -&gt; Microsoft.Build.Execution.ProjectMetadataInstance" Usage="projectItemInstance.GetMetadata name" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem`1.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem`1.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem`1.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem`1.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem`1.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem`1.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem`1.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem`1.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem`1.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem`1.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem`1.GetMetadata(System.String)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build</AssemblyName>
         <AssemblyVersion>4.0.0.0</AssemblyVersion>
@@ -140,19 +127,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual System::String ^ GetMetadataValue(System::String ^ name);" />
       <MemberSignature Language="F#" Value="abstract member GetMetadataValue : string -&gt; string&#xA;override this.GetMetadataValue : string -&gt; string" Usage="projectItemInstance.GetMetadataValue name" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem.GetMetadataValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem.GetMetadataValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem.GetMetadataValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem.GetMetadataValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem.GetMetadataValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem.GetMetadataValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem.GetMetadataValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem.GetMetadataValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem.GetMetadataValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem.GetMetadataValue(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Evaluation.IItem.GetMetadataValue(System.String)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build</AssemblyName>
         <AssemblyVersion>4.0.0.0</AssemblyVersion>
@@ -291,16 +265,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataCount</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataCount</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataCount</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataCount</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataCount</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataCount</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataCount</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataCount</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataCount</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataCount</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataCount</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build</AssemblyName>
@@ -359,16 +323,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CloneCustomMetadata</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CloneCustomMetadata</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CloneCustomMetadata</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CloneCustomMetadata</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CloneCustomMetadata</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CloneCustomMetadata</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CloneCustomMetadata</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CloneCustomMetadata</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CloneCustomMetadata</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CloneCustomMetadata</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CloneCustomMetadata</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build</AssemblyName>
@@ -404,16 +358,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void Microsoft.Build.Framework.ITaskItem.CopyMetadataTo(Microsoft::Build::Framework::ITaskItem ^ destinationItem) = Microsoft::Build::Framework::ITaskItem::CopyMetadataTo;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CopyMetadataTo(Microsoft.Build.Framework.ITaskItem)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CopyMetadataTo(Microsoft.Build.Framework.ITaskItem)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CopyMetadataTo(Microsoft.Build.Framework.ITaskItem)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CopyMetadataTo(Microsoft.Build.Framework.ITaskItem)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CopyMetadataTo(Microsoft.Build.Framework.ITaskItem)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CopyMetadataTo(Microsoft.Build.Framework.ITaskItem)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CopyMetadataTo(Microsoft.Build.Framework.ITaskItem)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CopyMetadataTo(Microsoft.Build.Framework.ITaskItem)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CopyMetadataTo(Microsoft.Build.Framework.ITaskItem)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CopyMetadataTo(Microsoft.Build.Framework.ITaskItem)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.CopyMetadataTo(Microsoft.Build.Framework.ITaskItem)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -454,16 +398,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.GetMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.GetMetadata(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build</AssemblyName>
@@ -503,16 +437,6 @@
       <MemberSignature Language="F#" Usage="Microsoft.Build.Framework.ITaskItem.ItemSpec" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.ItemSpec</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.ItemSpec</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.ItemSpec</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.ItemSpec</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.ItemSpec</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.ItemSpec</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.ItemSpec</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.ItemSpec</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.ItemSpec</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.ItemSpec</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.ItemSpec</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -568,16 +492,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataNames</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataNames</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataNames</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataNames</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataNames</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataNames</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataNames</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataNames</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataNames</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataNames</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem.MetadataNames</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build</AssemblyName>
@@ -600,16 +514,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void Microsoft.Build.Framework.ITaskItem.SetMetadata(System::String ^ metadataName, System::String ^ metadataValue) = Microsoft::Build::Framework::ITaskItem::SetMetadata;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.SetMetadata(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.SetMetadata(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.SetMetadata(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.SetMetadata(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.SetMetadata(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.SetMetadata(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.SetMetadata(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.SetMetadata(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.SetMetadata(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.SetMetadata(System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.SetMetadata(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -639,16 +543,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.CloneCustomMetadataEscaped</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.CloneCustomMetadataEscaped</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.CloneCustomMetadataEscaped</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.CloneCustomMetadataEscaped</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.CloneCustomMetadataEscaped</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.CloneCustomMetadataEscaped</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.CloneCustomMetadataEscaped</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.CloneCustomMetadataEscaped</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.CloneCustomMetadataEscaped</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.CloneCustomMetadataEscaped</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.CloneCustomMetadataEscaped</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build</AssemblyName>
@@ -673,16 +567,6 @@
       <MemberSignature Language="F#" Usage="Microsoft.Build.Framework.ITaskItem2.EvaluatedIncludeEscaped" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem2.EvaluatedIncludeEscaped</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem2.EvaluatedIncludeEscaped</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem2.EvaluatedIncludeEscaped</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem2.EvaluatedIncludeEscaped</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem2.EvaluatedIncludeEscaped</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem2.EvaluatedIncludeEscaped</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem2.EvaluatedIncludeEscaped</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem2.EvaluatedIncludeEscaped</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem2.EvaluatedIncludeEscaped</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem2.EvaluatedIncludeEscaped</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Framework.ITaskItem2.EvaluatedIncludeEscaped</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -719,16 +603,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.GetMetadataValueEscaped(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.GetMetadataValueEscaped(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.GetMetadataValueEscaped(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.GetMetadataValueEscaped(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.GetMetadataValueEscaped(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.GetMetadataValueEscaped(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.GetMetadataValueEscaped(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.GetMetadataValueEscaped(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.GetMetadataValueEscaped(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.GetMetadataValueEscaped(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.GetMetadataValueEscaped(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build</AssemblyName>
@@ -762,16 +636,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void Microsoft.Build.Framework.ITaskItem2.SetMetadataValueLiteral(System::String ^ metadataName, System::String ^ metadataValue) = Microsoft::Build::Framework::ITaskItem2::SetMetadataValueLiteral;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.SetMetadataValueLiteral(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.SetMetadataValueLiteral(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.SetMetadataValueLiteral(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.SetMetadataValueLiteral(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.SetMetadataValueLiteral(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.SetMetadataValueLiteral(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.SetMetadataValueLiteral(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.SetMetadataValueLiteral(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.SetMetadataValueLiteral(System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.SetMetadataValueLiteral(System.String,System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem2.SetMetadataValueLiteral(System.String,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -837,16 +701,6 @@
       <MemberSignature Language="F#" Value="abstract member RemoveMetadata : string -&gt; unit&#xA;override this.RemoveMetadata : string -&gt; unit" Usage="projectItemInstance.RemoveMetadata metadataName" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.RemoveMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.RemoveMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.RemoveMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.RemoveMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.RemoveMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.RemoveMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.RemoveMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.RemoveMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.RemoveMetadata(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.RemoveMetadata(System.String)</InterfaceMember>
         <InterfaceMember>M:Microsoft.Build.Framework.ITaskItem.RemoveMetadata(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

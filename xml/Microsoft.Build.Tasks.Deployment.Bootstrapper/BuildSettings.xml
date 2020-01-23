@@ -78,20 +78,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationFile</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationFile</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationFile</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationFile</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationFile</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationFile</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationFile</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationFile</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationFile</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationFile</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationFile</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationFile</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationFile</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationFile</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationFile</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Tasks.v4.0</AssemblyName>
@@ -139,20 +125,6 @@
       <MemberSignature Language="F#" Value="member this.ApplicationName : string with get, set" Usage="Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings.ApplicationName" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationName</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationName</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -202,17 +174,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationRequiresElevation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationRequiresElevation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationRequiresElevation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationRequiresElevation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationRequiresElevation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationRequiresElevation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationRequiresElevation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationRequiresElevation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationRequiresElevation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationRequiresElevation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationRequiresElevation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationRequiresElevation</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Tasks.v4.0</AssemblyName>
@@ -260,20 +221,6 @@
       <MemberSignature Language="F#" Value="member this.ApplicationUrl : string with get, set" Usage="Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings.ApplicationUrl" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationUrl</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ApplicationUrl</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -327,20 +274,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsLocation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsLocation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsLocation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsLocation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsLocation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsLocation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsLocation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsLocation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsLocation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsLocation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsLocation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsLocation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsLocation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsLocation</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsLocation</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Tasks.v4.0</AssemblyName>
@@ -382,20 +315,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ComponentsUrl</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Tasks.v4.0</AssemblyName>
@@ -436,20 +355,6 @@
       <MemberSignature Language="F#" Value="member this.CopyComponents : bool with get, set" Usage="Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings.CopyComponents" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.CopyComponents</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.CopyComponents</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.CopyComponents</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.CopyComponents</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.CopyComponents</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.CopyComponents</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.CopyComponents</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.CopyComponents</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.CopyComponents</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.CopyComponents</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.CopyComponents</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.CopyComponents</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.CopyComponents</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.CopyComponents</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.CopyComponents</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -500,20 +405,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.FallbackLCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.FallbackLCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.FallbackLCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.FallbackLCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.FallbackLCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.FallbackLCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.FallbackLCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.FallbackLCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.FallbackLCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.FallbackLCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.FallbackLCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.FallbackLCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.FallbackLCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.FallbackLCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.FallbackLCID</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Tasks.v4.0</AssemblyName>
@@ -554,20 +445,6 @@
       <MemberSignature Language="F#" Value="member this.LCID : int with get, set" Usage="Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings.LCID" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.LCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.LCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.LCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.LCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.LCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.LCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.LCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.LCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.LCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.LCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.LCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.LCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.LCID</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.LCID</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.LCID</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -610,20 +487,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.OutputPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.OutputPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.OutputPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.OutputPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.OutputPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.OutputPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.OutputPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.OutputPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.OutputPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.OutputPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.OutputPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.OutputPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.OutputPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.OutputPath</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.OutputPath</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Tasks.v4.0</AssemblyName>
@@ -665,20 +528,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ProductBuilders</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ProductBuilders</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ProductBuilders</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ProductBuilders</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ProductBuilders</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ProductBuilders</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ProductBuilders</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ProductBuilders</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ProductBuilders</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ProductBuilders</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ProductBuilders</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ProductBuilders</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ProductBuilders</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ProductBuilders</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.ProductBuilders</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Build.Tasks.v4.0</AssemblyName>
@@ -716,20 +565,6 @@
       <MemberSignature Language="F#" Value="member this.SupportUrl : string with get, set" Usage="Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings.SupportUrl" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.SupportUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.SupportUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.SupportUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.SupportUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.SupportUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.SupportUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.SupportUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.SupportUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.SupportUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.SupportUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.SupportUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.SupportUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.SupportUrl</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.SupportUrl</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.SupportUrl</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -771,20 +606,6 @@
       <MemberSignature Language="F#" Value="member this.Validate : bool with get, set" Usage="Microsoft.Build.Tasks.Deployment.Bootstrapper.BuildSettings.Validate" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.Validate</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.Validate</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.Validate</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.Validate</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.Validate</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.Validate</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.Validate</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.Validate</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.Validate</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.Validate</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.Validate</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.Validate</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.Validate</InterfaceMember>
-        <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.Validate</InterfaceMember>
         <InterfaceMember>P:Microsoft.Build.Tasks.Deployment.Bootstrapper.IBuildSettings.Validate</InterfaceMember>
       </Implements>
       <AssemblyInfo>

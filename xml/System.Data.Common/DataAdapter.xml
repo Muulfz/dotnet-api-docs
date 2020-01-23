@@ -502,30 +502,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Fill(System.Data.DataSet)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -841,30 +817,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.FillSchema(System.Data.DataSet,System.Data.SchemaType)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -1042,30 +994,6 @@ If a unique clustered index is defined on a column or columns in a SQL Server ta
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.GetFillParameters</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -1148,30 +1076,6 @@ If a unique clustered index is defined on a column or columns in a SQL Server ta
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingMappingAction</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -1235,30 +1139,6 @@ If a unique clustered index is defined on a column or columns in a SQL Server ta
       <MemberSignature Language="F#" Value="member this.MissingSchemaAction : System.Data.MissingSchemaAction with get, set" Usage="System.Data.Common.DataAdapter.MissingSchemaAction" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
         <InterfaceMember>P:System.Data.IDataAdapter.MissingSchemaAction</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1567,29 +1447,6 @@ If a unique clustered index is defined on a column or columns in a SQL Server ta
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
-        <InterfaceMember>P:System.Data.IDataAdapter.TableMappings</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Data</AssemblyName>
@@ -1697,30 +1554,6 @@ If a unique clustered index is defined on a column or columns in a SQL Server ta
       <MemberSignature Language="F#" Value="abstract member Update : System.Data.DataSet -&gt; int" Usage="dataAdapter.Update dataSet" FrameworkAlternate="netframework-1.1" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
-        <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
         <InterfaceMember>M:System.Data.IDataAdapter.Update(System.Data.DataSet)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -225,22 +225,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -394,22 +378,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -456,22 +424,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -511,22 +463,6 @@
       <MemberSignature Language="F#" Value="override this.GetType : string -&gt; Type" Usage="designerSerializationManager.GetType typeName" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -875,22 +811,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.AddSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -932,22 +852,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Context</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -984,22 +888,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(Type ^ type, System::Collections::ICollection ^ arguments, System::String ^ name, bool addToContainer) = System::ComponentModel::Design::Serialization::IDesignerSerializationManager::CreateInstance;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.CreateInstance(System.Type,System.Collections.ICollection,System.String,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1040,22 +928,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetInstance(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -1092,22 +964,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::String ^ System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System::Object ^ value) = System::ComponentModel::Design::Serialization::IDesignerSerializationManager::GetName;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetName(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1155,22 +1011,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetSerializer(System.Type,System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -1210,22 +1050,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.GetType(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -1260,22 +1084,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
-        <InterfaceMember>P:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.Properties</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -1303,22 +1111,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System::ComponentModel::Design::Serialization::IDesignerSerializationProvider ^ provider) = System::ComponentModel::Design::Serialization::IDesignerSerializationManager::RemoveSerializationProvider;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.RemoveSerializationProvider(System.ComponentModel.Design.Serialization.IDesignerSerializationProvider)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1359,22 +1151,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System::Object ^ errorInformation) = System::ComponentModel::Design::Serialization::IDesignerSerializationManager::ReportError;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ReportError(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1418,21 +1194,6 @@
       <MemberType>Event</MemberType>
       <Implements>
         <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ResolveName</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ResolveName</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ResolveName</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ResolveName</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ResolveName</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ResolveName</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ResolveName</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ResolveName</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ResolveName</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ResolveName</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ResolveName</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ResolveName</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ResolveName</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ResolveName</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ResolveName</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.ResolveName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Design</AssemblyName>
@@ -1470,21 +1231,6 @@ This event provides a way for a serializer to demand-create an object so the ser
       <MemberSignature Language="VB.NET" Value="Custom Event SerializationComplete As EventHandler Implements System.ComponentModel.Design.Serialization.IDesignerSerializationManager" />
       <MemberType>Event</MemberType>
       <Implements>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SerializationComplete</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SerializationComplete</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SerializationComplete</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SerializationComplete</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SerializationComplete</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SerializationComplete</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SerializationComplete</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SerializationComplete</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SerializationComplete</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SerializationComplete</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SerializationComplete</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SerializationComplete</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SerializationComplete</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SerializationComplete</InterfaceMember>
-        <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SerializationComplete</InterfaceMember>
         <InterfaceMember>E:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SerializationComplete</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1525,22 +1271,6 @@ In a related use, this event can be used to remove a temporary service installed
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System::Object ^ instance, System::String ^ name) = System::ComponentModel::Design::Serialization::IDesignerSerializationManager::SetName;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
         <InterfaceMember>M:System.ComponentModel.Design.Serialization.IDesignerSerializationManager.SetName(System.Object,System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1587,22 +1317,6 @@ In a related use, this event can be used to remove a temporary service installed
       <MemberSignature Language="C++ CLI" Value=" virtual System::Object ^ System.IServiceProvider.GetService(Type ^ serviceType) = IServiceProvider::GetService;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
         <InterfaceMember>M:System.IServiceProvider.GetService(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

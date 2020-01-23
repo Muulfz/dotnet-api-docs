@@ -88,21 +88,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.ApplyCellStyleToEditingControl(System.Windows.Forms.DataGridViewCellStyle)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.ApplyCellStyleToEditingControl(System.Windows.Forms.DataGridViewCellStyle)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.ApplyCellStyleToEditingControl(System.Windows.Forms.DataGridViewCellStyle)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.ApplyCellStyleToEditingControl(System.Windows.Forms.DataGridViewCellStyle)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.ApplyCellStyleToEditingControl(System.Windows.Forms.DataGridViewCellStyle)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.ApplyCellStyleToEditingControl(System.Windows.Forms.DataGridViewCellStyle)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.ApplyCellStyleToEditingControl(System.Windows.Forms.DataGridViewCellStyle)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.ApplyCellStyleToEditingControl(System.Windows.Forms.DataGridViewCellStyle)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.ApplyCellStyleToEditingControl(System.Windows.Forms.DataGridViewCellStyle)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.ApplyCellStyleToEditingControl(System.Windows.Forms.DataGridViewCellStyle)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.ApplyCellStyleToEditingControl(System.Windows.Forms.DataGridViewCellStyle)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.ApplyCellStyleToEditingControl(System.Windows.Forms.DataGridViewCellStyle)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.ApplyCellStyleToEditingControl(System.Windows.Forms.DataGridViewCellStyle)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.ApplyCellStyleToEditingControl(System.Windows.Forms.DataGridViewCellStyle)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.ApplyCellStyleToEditingControl(System.Windows.Forms.DataGridViewCellStyle)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.ApplyCellStyleToEditingControl(System.Windows.Forms.DataGridViewCellStyle)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -163,21 +148,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlDataGridView</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlDataGridView</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlDataGridView</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlDataGridView</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlDataGridView</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlDataGridView</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlDataGridView</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlDataGridView</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlDataGridView</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlDataGridView</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlDataGridView</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlDataGridView</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlDataGridView</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlDataGridView</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlDataGridView</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlDataGridView</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -221,21 +191,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlFormattedValue</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlFormattedValue</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlFormattedValue</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlFormattedValue</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlFormattedValue</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlFormattedValue</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlFormattedValue</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlFormattedValue</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlFormattedValue</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlFormattedValue</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlFormattedValue</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlFormattedValue</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlFormattedValue</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlFormattedValue</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlFormattedValue</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlFormattedValue</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -275,21 +230,6 @@
       <MemberSignature Language="F#" Value="member this.EditingControlRowIndex : int with get, set" Usage="System.Windows.Forms.DataGridViewTextBoxEditingControl.EditingControlRowIndex" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlRowIndex</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlRowIndex</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlRowIndex</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlRowIndex</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlRowIndex</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlRowIndex</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlRowIndex</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlRowIndex</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlRowIndex</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlRowIndex</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlRowIndex</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlRowIndex</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlRowIndex</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlRowIndex</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlRowIndex</InterfaceMember>
         <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlRowIndex</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -334,21 +274,6 @@
       <MemberSignature Language="F#" Value="member this.EditingControlValueChanged : bool with get, set" Usage="System.Windows.Forms.DataGridViewTextBoxEditingControl.EditingControlValueChanged" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlValueChanged</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlValueChanged</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlValueChanged</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlValueChanged</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlValueChanged</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlValueChanged</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlValueChanged</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlValueChanged</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlValueChanged</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlValueChanged</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlValueChanged</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlValueChanged</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlValueChanged</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlValueChanged</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlValueChanged</InterfaceMember>
         <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingControlValueChanged</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -397,21 +322,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.EditingControlWantsInputKey(System.Windows.Forms.Keys,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.EditingControlWantsInputKey(System.Windows.Forms.Keys,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.EditingControlWantsInputKey(System.Windows.Forms.Keys,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.EditingControlWantsInputKey(System.Windows.Forms.Keys,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.EditingControlWantsInputKey(System.Windows.Forms.Keys,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.EditingControlWantsInputKey(System.Windows.Forms.Keys,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.EditingControlWantsInputKey(System.Windows.Forms.Keys,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.EditingControlWantsInputKey(System.Windows.Forms.Keys,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.EditingControlWantsInputKey(System.Windows.Forms.Keys,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.EditingControlWantsInputKey(System.Windows.Forms.Keys,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.EditingControlWantsInputKey(System.Windows.Forms.Keys,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.EditingControlWantsInputKey(System.Windows.Forms.Keys,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.EditingControlWantsInputKey(System.Windows.Forms.Keys,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.EditingControlWantsInputKey(System.Windows.Forms.Keys,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.EditingControlWantsInputKey(System.Windows.Forms.Keys,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.EditingControlWantsInputKey(System.Windows.Forms.Keys,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -448,21 +358,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingPanelCursor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingPanelCursor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingPanelCursor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingPanelCursor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingPanelCursor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingPanelCursor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingPanelCursor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingPanelCursor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingPanelCursor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingPanelCursor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingPanelCursor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingPanelCursor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingPanelCursor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingPanelCursor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingPanelCursor</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.EditingPanelCursor</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -491,21 +386,6 @@
       <MemberSignature Language="F#" Value="abstract member GetEditingControlFormattedValue : System.Windows.Forms.DataGridViewDataErrorContexts -&gt; obj&#xA;override this.GetEditingControlFormattedValue : System.Windows.Forms.DataGridViewDataErrorContexts -&gt; obj" Usage="dataGridViewTextBoxEditingControl.GetEditingControlFormattedValue context" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.GetEditingControlFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.GetEditingControlFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.GetEditingControlFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.GetEditingControlFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.GetEditingControlFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.GetEditingControlFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.GetEditingControlFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.GetEditingControlFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.GetEditingControlFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.GetEditingControlFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.GetEditingControlFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.GetEditingControlFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.GetEditingControlFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.GetEditingControlFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.GetEditingControlFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
         <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.GetEditingControlFormattedValue(System.Windows.Forms.DataGridViewDataErrorContexts)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -639,21 +519,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.PrepareEditingControlForEdit(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.PrepareEditingControlForEdit(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.PrepareEditingControlForEdit(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.PrepareEditingControlForEdit(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.PrepareEditingControlForEdit(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.PrepareEditingControlForEdit(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.PrepareEditingControlForEdit(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.PrepareEditingControlForEdit(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.PrepareEditingControlForEdit(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.PrepareEditingControlForEdit(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.PrepareEditingControlForEdit(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.PrepareEditingControlForEdit(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.PrepareEditingControlForEdit(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.PrepareEditingControlForEdit(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.PrepareEditingControlForEdit(System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Forms.IDataGridViewEditingControl.PrepareEditingControlForEdit(System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -722,21 +587,6 @@
       <MemberSignature Language="F#" Value="member this.RepositionEditingControlOnValueChange : bool" Usage="System.Windows.Forms.DataGridViewTextBoxEditingControl.RepositionEditingControlOnValueChange" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.RepositionEditingControlOnValueChange</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.RepositionEditingControlOnValueChange</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.RepositionEditingControlOnValueChange</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.RepositionEditingControlOnValueChange</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.RepositionEditingControlOnValueChange</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.RepositionEditingControlOnValueChange</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.RepositionEditingControlOnValueChange</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.RepositionEditingControlOnValueChange</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.RepositionEditingControlOnValueChange</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.RepositionEditingControlOnValueChange</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.RepositionEditingControlOnValueChange</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.RepositionEditingControlOnValueChange</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.RepositionEditingControlOnValueChange</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.RepositionEditingControlOnValueChange</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.RepositionEditingControlOnValueChange</InterfaceMember>
         <InterfaceMember>P:System.Windows.Forms.IDataGridViewEditingControl.RepositionEditingControlOnValueChange</InterfaceMember>
       </Implements>
       <AssemblyInfo>

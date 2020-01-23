@@ -145,18 +145,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -182,18 +170,6 @@
       <MemberSignature Language="F#" Value="abstract member AcceptChannel : TimeSpan -&gt; 'Channel&#xA;override this.AcceptChannel : TimeSpan -&gt; 'Channel" Usage="channelListenerBase.AcceptChannel timeout" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel(System.TimeSpan)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel(System.TimeSpan)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.AcceptChannel(System.TimeSpan)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -233,18 +209,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -275,18 +239,6 @@
       <MemberSignature Language="F#" Value="abstract member BeginAcceptChannel : TimeSpan * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginAcceptChannel : TimeSpan * AsyncCallback * obj -&gt; IAsyncResult" Usage="channelListenerBase.BeginAcceptChannel (timeout, callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.BeginAcceptChannel(System.TimeSpan,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -320,18 +272,6 @@
       <MemberSignature Language="F#" Value="abstract member EndAcceptChannel : IAsyncResult -&gt; 'Channel&#xA;override this.EndAcceptChannel : IAsyncResult -&gt; 'Channel" Usage="channelListenerBase.EndAcceptChannel result" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.EndAcceptChannel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.EndAcceptChannel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.EndAcceptChannel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.EndAcceptChannel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.EndAcceptChannel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.EndAcceptChannel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.EndAcceptChannel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.EndAcceptChannel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.EndAcceptChannel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.EndAcceptChannel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.EndAcceptChannel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.EndAcceptChannel(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Channels.IChannelListener`1.EndAcceptChannel(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

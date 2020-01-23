@@ -49,15 +49,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetReflectionAssembly(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetReflectionAssembly(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetReflectionAssembly(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetReflectionAssembly(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetReflectionAssembly(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetReflectionAssembly(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetReflectionAssembly(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetReflectionAssembly(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetReflectionAssembly(System.Reflection.AssemblyName)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetReflectionAssembly(System.Reflection.AssemblyName)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Presentation</AssemblyName>
@@ -111,15 +102,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetRuntimeType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetRuntimeType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetRuntimeType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetRuntimeType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetRuntimeType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetRuntimeType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetRuntimeType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetRuntimeType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetRuntimeType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.GetRuntimeType(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities.Presentation</AssemblyName>
@@ -146,15 +128,6 @@
       <MemberSignature Language="F#" Value="abstract member IsSupportedType : Type -&gt; bool" Usage="multiTargetingSupportService.IsSupportedType type" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.IsSupportedType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.IsSupportedType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.IsSupportedType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.IsSupportedType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.IsSupportedType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.IsSupportedType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.IsSupportedType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.IsSupportedType(System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.IsSupportedType(System.Type)</InterfaceMember>
         <InterfaceMember>M:System.Activities.Presentation.Hosting.IMultiTargetingSupportService.IsSupportedType(System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -89,20 +89,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.AddToSelection</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -127,20 +113,6 @@
       <MemberSignature Language="F#" Usage="System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.IsSelected</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -167,20 +139,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.RemoveFromSelection</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -204,20 +162,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Windows.Automation.Provider.ISelectionItemProvider.Select() = System::Windows::Automation::Provider::ISelectionItemProvider::Select;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
-        <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
         <InterfaceMember>M:System.Windows.Automation.Provider.ISelectionItemProvider.Select</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -243,20 +187,6 @@
       <MemberSignature Language="F#" Usage="System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
         <InterfaceMember>P:System.Windows.Automation.Provider.ISelectionItemProvider.SelectionContainer</InterfaceMember>
       </Implements>
       <AssemblyInfo>

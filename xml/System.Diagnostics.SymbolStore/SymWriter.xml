@@ -160,20 +160,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Close</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Close</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Close</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Close</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Close</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Close</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Close</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Close</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Close</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Close</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Close</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Close</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Close</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Close</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Close</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -210,20 +196,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void CloseMethod();" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseMethod</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseMethod</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseMethod</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseMethod</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseMethod</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseMethod</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseMethod</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseMethod</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseMethod</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseMethod</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseMethod</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseMethod</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseMethod</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseMethod</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseMethod</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -262,20 +234,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseNamespace</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseNamespace</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseNamespace</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseNamespace</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseNamespace</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseNamespace</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseNamespace</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseNamespace</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseNamespace</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseNamespace</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseNamespace</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseNamespace</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseNamespace</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseNamespace</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseNamespace</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -305,20 +263,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void CloseScope(int endOffset);" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseScope(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.CloseScope(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -360,20 +304,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineDocument(System.String,System.Guid,System.Guid,System.Guid)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -413,20 +343,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void DefineField(System::Diagnostics::SymbolStore::SymbolToken parent, System::String ^ name, System::Reflection::FieldAttributes attributes, cli::array &lt;System::Byte&gt; ^ signature, System::Diagnostics::SymbolStore::SymAddressKind addrKind, int addr1, int addr2, int addr3);" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineField(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineField(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineField(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineField(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineField(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineField(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineField(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineField(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineField(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineField(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineField(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineField(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineField(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineField(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineField(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -476,20 +392,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineGlobalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineGlobalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineGlobalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineGlobalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineGlobalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineGlobalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineGlobalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineGlobalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineGlobalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineGlobalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineGlobalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineGlobalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineGlobalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineGlobalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineGlobalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -535,20 +437,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void DefineLocalVariable(System::String ^ name, System::Reflection::FieldAttributes attributes, cli::array &lt;System::Byte&gt; ^ signature, System::Diagnostics::SymbolStore::SymAddressKind addrKind, int addr1, int addr2, int addr3, int startOffset, int endOffset);" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineLocalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineLocalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineLocalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineLocalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineLocalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineLocalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineLocalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineLocalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineLocalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineLocalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineLocalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineLocalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineLocalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineLocalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineLocalVariable(System.String,System.Reflection.FieldAttributes,System.Byte[],System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -608,20 +496,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineParameter(System.String,System.Reflection.ParameterAttributes,System.Int32,System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineParameter(System.String,System.Reflection.ParameterAttributes,System.Int32,System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineParameter(System.String,System.Reflection.ParameterAttributes,System.Int32,System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineParameter(System.String,System.Reflection.ParameterAttributes,System.Int32,System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineParameter(System.String,System.Reflection.ParameterAttributes,System.Int32,System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineParameter(System.String,System.Reflection.ParameterAttributes,System.Int32,System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineParameter(System.String,System.Reflection.ParameterAttributes,System.Int32,System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineParameter(System.String,System.Reflection.ParameterAttributes,System.Int32,System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineParameter(System.String,System.Reflection.ParameterAttributes,System.Int32,System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineParameter(System.String,System.Reflection.ParameterAttributes,System.Int32,System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineParameter(System.String,System.Reflection.ParameterAttributes,System.Int32,System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineParameter(System.String,System.Reflection.ParameterAttributes,System.Int32,System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineParameter(System.String,System.Reflection.ParameterAttributes,System.Int32,System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineParameter(System.String,System.Reflection.ParameterAttributes,System.Int32,System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineParameter(System.String,System.Reflection.ParameterAttributes,System.Int32,System.Diagnostics.SymbolStore.SymAddressKind,System.Int32,System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -668,20 +542,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineSequencePoints(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32[],System.Int32[],System.Int32[],System.Int32[],System.Int32[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineSequencePoints(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32[],System.Int32[],System.Int32[],System.Int32[],System.Int32[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineSequencePoints(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32[],System.Int32[],System.Int32[],System.Int32[],System.Int32[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineSequencePoints(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32[],System.Int32[],System.Int32[],System.Int32[],System.Int32[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineSequencePoints(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32[],System.Int32[],System.Int32[],System.Int32[],System.Int32[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineSequencePoints(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32[],System.Int32[],System.Int32[],System.Int32[],System.Int32[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineSequencePoints(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32[],System.Int32[],System.Int32[],System.Int32[],System.Int32[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineSequencePoints(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32[],System.Int32[],System.Int32[],System.Int32[],System.Int32[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineSequencePoints(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32[],System.Int32[],System.Int32[],System.Int32[],System.Int32[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineSequencePoints(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32[],System.Int32[],System.Int32[],System.Int32[],System.Int32[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineSequencePoints(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32[],System.Int32[],System.Int32[],System.Int32[],System.Int32[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineSequencePoints(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32[],System.Int32[],System.Int32[],System.Int32[],System.Int32[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineSequencePoints(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32[],System.Int32[],System.Int32[],System.Int32[],System.Int32[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineSequencePoints(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32[],System.Int32[],System.Int32[],System.Int32[],System.Int32[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.DefineSequencePoints(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32[],System.Int32[],System.Int32[],System.Int32[],System.Int32[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -727,15 +587,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit&#xA;override this.Dispose : unit -&gt; unit" Usage="symWriter.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -854,20 +705,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Initialize(System.IntPtr,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Initialize(System.IntPtr,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Initialize(System.IntPtr,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Initialize(System.IntPtr,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Initialize(System.IntPtr,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Initialize(System.IntPtr,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Initialize(System.IntPtr,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Initialize(System.IntPtr,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Initialize(System.IntPtr,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Initialize(System.IntPtr,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Initialize(System.IntPtr,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Initialize(System.IntPtr,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Initialize(System.IntPtr,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Initialize(System.IntPtr,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.Initialize(System.IntPtr,System.String,System.Boolean)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -943,20 +780,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenMethod(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -997,20 +820,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenNamespace(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -1050,20 +859,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual int OpenScope(int startOffset);" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenScope(System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenScope(System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.OpenScope(System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1107,20 +902,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void SetMethodSourceRange(System::Diagnostics::SymbolStore::ISymbolDocumentWriter ^ startDoc, int startLine, int startColumn, System::Diagnostics::SymbolStore::ISymbolDocumentWriter ^ endDoc, int endLine, int endColumn);" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetMethodSourceRange(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32,System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetMethodSourceRange(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32,System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetMethodSourceRange(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32,System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetMethodSourceRange(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32,System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetMethodSourceRange(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32,System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetMethodSourceRange(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32,System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetMethodSourceRange(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32,System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetMethodSourceRange(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32,System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetMethodSourceRange(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32,System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetMethodSourceRange(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32,System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetMethodSourceRange(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32,System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetMethodSourceRange(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32,System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetMethodSourceRange(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32,System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetMethodSourceRange(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32,System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetMethodSourceRange(System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32,System.Diagnostics.SymbolStore.ISymbolDocumentWriter,System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1166,20 +947,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetScopeRange(System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetScopeRange(System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetScopeRange(System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetScopeRange(System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetScopeRange(System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetScopeRange(System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetScopeRange(System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetScopeRange(System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetScopeRange(System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetScopeRange(System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetScopeRange(System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetScopeRange(System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetScopeRange(System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetScopeRange(System.Int32,System.Int32,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetScopeRange(System.Int32,System.Int32,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -1216,20 +983,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void SetSymAttribute(System::Diagnostics::SymbolStore::SymbolToken parent, System::String ^ name, cli::array &lt;System::Byte&gt; ^ data);" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Byte[])</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Byte[])</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetSymAttribute(System.Diagnostics.SymbolStore.SymbolToken,System.String,System.Byte[])</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1275,20 +1028,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUnderlyingWriter(System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUnderlyingWriter(System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUnderlyingWriter(System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUnderlyingWriter(System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUnderlyingWriter(System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUnderlyingWriter(System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUnderlyingWriter(System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUnderlyingWriter(System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUnderlyingWriter(System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUnderlyingWriter(System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUnderlyingWriter(System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUnderlyingWriter(System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUnderlyingWriter(System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUnderlyingWriter(System.IntPtr)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUnderlyingWriter(System.IntPtr)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -1330,20 +1069,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUserEntryPoint(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUserEntryPoint(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUserEntryPoint(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUserEntryPoint(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUserEntryPoint(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUserEntryPoint(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUserEntryPoint(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUserEntryPoint(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUserEntryPoint(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUserEntryPoint(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUserEntryPoint(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUserEntryPoint(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUserEntryPoint(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUserEntryPoint(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.SetUserEntryPoint(System.Diagnostics.SymbolStore.SymbolToken)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>ISymWrapper</AssemblyName>
@@ -1383,20 +1108,6 @@ Use the <xref:System.Diagnostics.SymbolStore.SymWriter.Finalize> method to relea
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void UsingNamespace(System::String ^ fullName);" FrameworkAlternate="netframework-4.5;netframework-4.5.1;netframework-4.5.2;netframework-4.6;netframework-4.6.1;netframework-4.6.2;netframework-4.7;netframework-4.7.1;netframework-4.7.2;netframework-4.8" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.UsingNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.UsingNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.UsingNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.UsingNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.UsingNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.UsingNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.UsingNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.UsingNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.UsingNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.UsingNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.UsingNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.UsingNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.UsingNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.UsingNamespace(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Diagnostics.SymbolStore.ISymbolWriter.UsingNamespace(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -118,20 +118,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Add(System.Object,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -209,20 +195,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Clear</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -248,20 +220,6 @@
       <MemberSignature Language="F#" Value="abstract member Contains : obj -&gt; bool&#xA;override this.Contains : obj -&gt; bool" Usage="xmlnsDictionary.Contains key" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IDictionary.Contains(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -300,20 +258,6 @@
       <MemberSignature Language="F#" Value="abstract member CopyTo : Array * int -&gt; unit&#xA;override this.CopyTo : Array * int -&gt; unit" Usage="xmlnsDictionary.CopyTo (array, index)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -376,20 +320,6 @@
       <MemberSignature Language="F#" Value="member this.Count : int" Usage="System.Windows.Markup.XmlnsDictionary.Count" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -481,20 +411,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -527,18 +443,6 @@
       <MemberSignature Language="F#" Value="abstract member GetNamespace : string -&gt; string&#xA;override this.GetNamespace : string -&gt; string" Usage="xmlnsDictionary.GetNamespace prefix" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespace(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespace(System.String)</InterfaceMember>
         <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespace(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -574,18 +478,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespacePrefixes</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespacePrefixes</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespacePrefixes</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespacePrefixes</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespacePrefixes</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespacePrefixes</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespacePrefixes</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespacePrefixes</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespacePrefixes</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespacePrefixes</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespacePrefixes</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespacePrefixes</InterfaceMember>
-        <InterfaceMember>M:System.Xaml.IXamlNamespaceResolver.GetNamespacePrefixes</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -619,20 +511,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsFixedSize</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -665,20 +543,6 @@
       <MemberSignature Language="F#" Value="member this.IsReadOnly : bool" Usage="System.Windows.Markup.XmlnsDictionary.IsReadOnly" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
         <InterfaceMember>P:System.Collections.IDictionary.IsReadOnly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -718,20 +582,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -766,20 +616,6 @@
       <MemberSignature Language="F#" Value="member this.Item(obj) : obj with get, set" Usage="System.Windows.Markup.XmlnsDictionary.Item" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
         <InterfaceMember>P:System.Collections.IDictionary.Item(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -861,20 +697,6 @@
       <MemberSignature Language="F#" Value="member this.Keys : System.Collections.ICollection" Usage="System.Windows.Markup.XmlnsDictionary.Keys" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
         <InterfaceMember>P:System.Collections.IDictionary.Keys</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1033,20 +855,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.Remove(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1173,20 +981,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationFramework</AssemblyName>
@@ -1210,20 +1004,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IDictionaryEnumerator ^ System.Collections.IDictionary.GetEnumerator() = System::Collections::IDictionary::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IDictionary.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1250,20 +1030,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1295,20 +1061,6 @@
       <MemberSignature Language="F#" Value="member this.Values : System.Collections.ICollection" Usage="System.Windows.Markup.XmlnsDictionary.Values" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
-        <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
         <InterfaceMember>P:System.Collections.IDictionary.Values</InterfaceMember>
       </Implements>
       <AssemblyInfo>

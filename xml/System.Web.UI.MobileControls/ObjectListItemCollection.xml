@@ -191,19 +191,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Mobile</AssemblyName>
@@ -261,19 +248,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Mobile</AssemblyName>
@@ -302,19 +276,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Mobile</AssemblyName>
@@ -340,19 +301,6 @@
       <MemberSignature Language="F#" Usage="System.Web.UI.IStateManager.IsTrackingViewState" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
         <InterfaceMember>P:System.Web.UI.IStateManager.IsTrackingViewState</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -387,20 +335,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IStateManager.LoadViewState(System::Object ^ state) = System::Web::UI::IStateManager::LoadViewState;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IStateManager.LoadViewState(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -441,20 +375,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.SaveViewState</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Mobile</AssemblyName>
@@ -492,20 +412,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Mobile</AssemblyName>
@@ -542,19 +448,6 @@
       <MemberSignature Language="F#" Value="member this.TrackViewState : unit -&gt; unit" Usage="objectListItemCollection.TrackViewState " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IStateManager.TrackViewState</InterfaceMember>
       </Implements>
       <AssemblyInfo>

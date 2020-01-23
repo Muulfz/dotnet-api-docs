@@ -670,20 +670,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::String ^ AsyncPostBackSourceElementID { System::String ^ get(); };" />
       <MemberSignature Language="F#" Value="member this.AsyncPostBackSourceElementID : string" Usage="System.Web.UI.ScriptManager.AsyncPostBackSourceElementID" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.AsyncPostBackSourceElementID</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.AsyncPostBackSourceElementID</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.AsyncPostBackSourceElementID</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.AsyncPostBackSourceElementID</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.AsyncPostBackSourceElementID</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.AsyncPostBackSourceElementID</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.AsyncPostBackSourceElementID</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.AsyncPostBackSourceElementID</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.AsyncPostBackSourceElementID</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.AsyncPostBackSourceElementID</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.AsyncPostBackSourceElementID</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.AsyncPostBackSourceElementID</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -1560,19 +1546,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property bool IsDebuggingEnabled { bool get(); };" />
       <MemberSignature Language="F#" Value="member this.IsDebuggingEnabled : bool" Usage="System.Web.UI.ScriptManager.IsDebuggingEnabled" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsDebuggingEnabled</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsDebuggingEnabled</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsDebuggingEnabled</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsDebuggingEnabled</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsDebuggingEnabled</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsDebuggingEnabled</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsDebuggingEnabled</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsDebuggingEnabled</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsDebuggingEnabled</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsDebuggingEnabled</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsDebuggingEnabled</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -1620,32 +1593,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property bool IsInAsyncPostBack { bool get(); };" />
       <MemberSignature Language="F#" Value="member this.IsInAsyncPostBack : bool" Usage="System.Web.UI.ScriptManager.IsInAsyncPostBack" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsInAsyncPostBack</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManagerInternal.IsInAsyncPostBack</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -1724,17 +1671,6 @@
       <MemberSignature Language="F#" Value="abstract member LoadPostData : string * System.Collections.Specialized.NameValueCollection -&gt; bool&#xA;override this.LoadPostData : string * System.Collections.Specialized.NameValueCollection -&gt; bool" Usage="scriptManager.LoadPostData (postDataKey, postCollection)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2088,17 +2024,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
@@ -2131,17 +2056,6 @@
       <MemberSignature Language="F#" Value="abstract member RaisePostDataChangedEvent : unit -&gt; unit&#xA;override this.RaisePostDataChangedEvent : unit -&gt; unit" Usage="scriptManager.RaisePostDataChangedEvent " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
         <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2182,20 +2096,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static void RegisterArrayDeclaration(System::Web::UI::Control ^ control, System::String ^ arrayName, System::String ^ arrayValue);" />
       <MemberSignature Language="F#" Value="static member RegisterArrayDeclaration : System.Web.UI.Control * string * string -&gt; unit" Usage="System.Web.UI.ScriptManager.RegisterArrayDeclaration (control, arrayName, arrayValue)" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -2282,20 +2182,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void RegisterAsyncPostBackControl(System::Web::UI::Control ^ control);" />
       <MemberSignature Language="F#" Value="abstract member RegisterAsyncPostBackControl : System.Web.UI.Control -&gt; unit&#xA;override this.RegisterAsyncPostBackControl : System.Web.UI.Control -&gt; unit" Usage="scriptManager.RegisterAsyncPostBackControl control" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterAsyncPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterAsyncPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterAsyncPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterAsyncPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterAsyncPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterAsyncPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterAsyncPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterAsyncPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterAsyncPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterAsyncPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterAsyncPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterAsyncPostBackControl(System.Web.UI.Control)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -2364,20 +2250,6 @@ The registered control does not implement the <see cref="T:System.Web.UI.INaming
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static void RegisterClientScriptBlock(System::Web::UI::Control ^ control, Type ^ type, System::String ^ key, System::String ^ script, bool addScriptTags);" />
       <MemberSignature Language="F#" Value="static member RegisterClientScriptBlock : System.Web.UI.Control * Type * string * string * bool -&gt; unit" Usage="System.Web.UI.ScriptManager.RegisterClientScriptBlock (control, type, key, script, addScriptTags)" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -2496,20 +2368,6 @@ The registered control does not implement the <see cref="T:System.Web.UI.INaming
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static void RegisterClientScriptInclude(System::Web::UI::Control ^ control, Type ^ type, System::String ^ key, System::String ^ url);" />
       <MemberSignature Language="F#" Value="static member RegisterClientScriptInclude : System.Web.UI.Control * Type * string * string -&gt; unit" Usage="System.Web.UI.ScriptManager.RegisterClientScriptInclude (control, type, key, url)" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -2635,20 +2493,6 @@ The registered control does not implement the <see cref="T:System.Web.UI.INaming
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static void RegisterClientScriptResource(System::Web::UI::Control ^ control, Type ^ type, System::String ^ resourceName);" />
       <MemberSignature Language="F#" Value="static member RegisterClientScriptResource : System.Web.UI.Control * Type * string -&gt; unit" Usage="System.Web.UI.ScriptManager.RegisterClientScriptResource (control, type, resourceName)" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -2869,20 +2713,6 @@ The registered control does not implement the <see cref="T:System.Web.UI.INaming
       <MemberSignature Language="C++ CLI" Value="public:&#xA; void RegisterDispose(System::Web::UI::Control ^ control, System::String ^ disposeScript);" />
       <MemberSignature Language="F#" Value="member this.RegisterDispose : System.Web.UI.Control * string -&gt; unit" Usage="scriptManager.RegisterDispose (control, disposeScript)" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -2935,20 +2765,6 @@ The registered control does not implement the <see cref="T:System.Web.UI.INaming
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static void RegisterExpandoAttribute(System::Web::UI::Control ^ control, System::String ^ controlId, System::String ^ attributeName, System::String ^ attributeValue, bool encode);" />
       <MemberSignature Language="F#" Value="static member RegisterExpandoAttribute : System.Web.UI.Control * string * string * string * bool -&gt; unit" Usage="System.Web.UI.ScriptManager.RegisterExpandoAttribute (control, controlId, attributeName, attributeValue, encode)" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -3019,20 +2835,6 @@ The registered control does not implement the <see cref="T:System.Web.UI.INaming
       <MemberSignature Language="C++ CLI" Value="public:&#xA;generic &lt;typename TExtenderControl&gt;&#xA; where TExtenderControl : System::Web::UI::Control, System::Web::UI::IExtenderControl virtual void RegisterExtenderControl(TExtenderControl extenderControl, System::Web::UI::Control ^ targetControl);" />
       <MemberSignature Language="F#" Value="abstract member RegisterExtenderControl : 'ExtenderControl * System.Web.UI.Control -&gt; unit (requires 'ExtenderControl :&gt; System.Web.UI.Control and 'ExtenderControl :&gt; System.Web.UI.IExtenderControl)&#xA;override this.RegisterExtenderControl : 'ExtenderControl * System.Web.UI.Control -&gt; unit (requires 'ExtenderControl :&gt; System.Web.UI.Control and 'ExtenderControl :&gt; System.Web.UI.IExtenderControl)" Usage="scriptManager.RegisterExtenderControl (extenderControl, targetControl)" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterExtenderControl``1(``0,System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterExtenderControl``1(``0,System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterExtenderControl``1(``0,System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterExtenderControl``1(``0,System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterExtenderControl``1(``0,System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterExtenderControl``1(``0,System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterExtenderControl``1(``0,System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterExtenderControl``1(``0,System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterExtenderControl``1(``0,System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterExtenderControl``1(``0,System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterExtenderControl``1(``0,System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterExtenderControl``1(``0,System.Web.UI.Control)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -3092,20 +2894,6 @@ The registered control does not implement the <see cref="T:System.Web.UI.INaming
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static void RegisterHiddenField(System::Web::UI::Control ^ control, System::String ^ hiddenFieldName, System::String ^ hiddenFieldInitialValue);" />
       <MemberSignature Language="F#" Value="static member RegisterHiddenField : System.Web.UI.Control * string * string -&gt; unit" Usage="System.Web.UI.ScriptManager.RegisterHiddenField (control, hiddenFieldName, hiddenFieldInitialValue)" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -3266,20 +3054,6 @@ The registered control does not implement the <see cref="T:System.Web.UI.INaming
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static void RegisterOnSubmitStatement(System::Web::UI::Control ^ control, Type ^ type, System::String ^ key, System::String ^ script);" />
       <MemberSignature Language="F#" Value="static member RegisterOnSubmitStatement : System.Web.UI.Control * Type * string * string -&gt; unit" Usage="System.Web.UI.ScriptManager.RegisterOnSubmitStatement (control, type, key, script)" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -3385,32 +3159,6 @@ The registered control does not implement the <see cref="T:System.Web.UI.INaming
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void RegisterPostBackControl(System::Web::UI::Control ^ control);" />
       <MemberSignature Language="F#" Value="abstract member RegisterPostBackControl : System.Web.UI.Control -&gt; unit&#xA;override this.RegisterPostBackControl : System.Web.UI.Control -&gt; unit" Usage="scriptManager.RegisterPostBackControl control" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -3446,20 +3194,6 @@ The registered control does not implement the <see cref="T:System.Web.UI.INaming
       <MemberSignature Language="C++ CLI" Value="public:&#xA;generic &lt;typename TScriptControl&gt;&#xA; where TScriptControl : System::Web::UI::Control, System::Web::UI::IScriptControl virtual void RegisterScriptControl(TScriptControl scriptControl);" />
       <MemberSignature Language="F#" Value="abstract member RegisterScriptControl : 'ScriptControl -&gt; unit (requires 'ScriptControl :&gt; System.Web.UI.Control and 'ScriptControl :&gt; System.Web.UI.IScriptControl)&#xA;override this.RegisterScriptControl : 'ScriptControl -&gt; unit (requires 'ScriptControl :&gt; System.Web.UI.Control and 'ScriptControl :&gt; System.Web.UI.IScriptControl)" Usage="scriptManager.RegisterScriptControl scriptControl" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptControl``1(``0)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptControl``1(``0)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptControl``1(``0)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptControl``1(``0)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptControl``1(``0)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptControl``1(``0)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptControl``1(``0)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptControl``1(``0)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptControl``1(``0)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptControl``1(``0)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptControl``1(``0)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptControl``1(``0)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -3514,20 +3248,6 @@ The registered control does not implement the <see cref="T:System.Web.UI.INaming
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void RegisterScriptDescriptors(System::Web::UI::IExtenderControl ^ extenderControl);" />
       <MemberSignature Language="F#" Value="abstract member RegisterScriptDescriptors : System.Web.UI.IExtenderControl -&gt; unit&#xA;override this.RegisterScriptDescriptors : System.Web.UI.IExtenderControl -&gt; unit" Usage="scriptManager.RegisterScriptDescriptors extenderControl" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IExtenderControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IExtenderControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IExtenderControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IExtenderControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IExtenderControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IExtenderControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IExtenderControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IExtenderControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IExtenderControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IExtenderControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IExtenderControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IExtenderControl)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -3565,20 +3285,6 @@ The registered control does not implement the <see cref="T:System.Web.UI.INaming
       <MemberSignature Language="C++ CLI" Value="public:&#xA; virtual void RegisterScriptDescriptors(System::Web::UI::IScriptControl ^ scriptControl);" />
       <MemberSignature Language="F#" Value="abstract member RegisterScriptDescriptors : System.Web.UI.IScriptControl -&gt; unit&#xA;override this.RegisterScriptDescriptors : System.Web.UI.IScriptControl -&gt; unit" Usage="scriptManager.RegisterScriptDescriptors scriptControl" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IScriptControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IScriptControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IScriptControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IScriptControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IScriptControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IScriptControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IScriptControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IScriptControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IScriptControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IScriptControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IScriptControl)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManagerInternal.RegisterScriptDescriptors(System.Web.UI.IScriptControl)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -3624,20 +3330,6 @@ The registered control does not implement the <see cref="T:System.Web.UI.INaming
       <MemberSignature Language="C++ CLI" Value="public:&#xA; static void RegisterStartupScript(System::Web::UI::Control ^ control, Type ^ type, System::String ^ key, System::String ^ script, bool addScriptTags);" />
       <MemberSignature Language="F#" Value="static member RegisterStartupScript : System.Web.UI.Control * Type * string * string * bool -&gt; unit" Usage="System.Web.UI.ScriptManager.RegisterStartupScript (control, type, key, script, addScriptTags)" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -4316,17 +4008,6 @@ ScriptManager.ScriptResourceMapping.AddDefinition("jquery", Nothing, myScriptRes
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.LoadPostData(System.String,System.Collections.Specialized.NameValueCollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
@@ -4372,17 +4053,6 @@ ScriptManager.ScriptResourceMapping.AddDefinition("jquery", Nothing, myScriptRes
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackDataHandler.RaisePostDataChangedEvent</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
@@ -4421,17 +4091,6 @@ ScriptManager.ScriptResourceMapping.AddDefinition("jquery", Nothing, myScriptRes
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
@@ -4463,19 +4122,6 @@ ScriptManager.ScriptResourceMapping.AddDefinition("jquery", Nothing, myScriptRes
       <MemberSignature Language="C++ CLI" Value="property bool System::Web::UI::IScriptManager::IsSecureConnection { bool get(); };" />
       <MemberSignature Language="F#" Usage="System.Web.UI.IScriptManager.IsSecureConnection" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsSecureConnection</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsSecureConnection</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsSecureConnection</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsSecureConnection</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsSecureConnection</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsSecureConnection</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsSecureConnection</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsSecureConnection</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsSecureConnection</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsSecureConnection</InterfaceMember>
-        <InterfaceMember>P:System.Web.UI.IScriptManager.IsSecureConnection</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>4.0.0.0</AssemblyVersion>
@@ -4500,20 +4146,6 @@ ScriptManager.ScriptResourceMapping.AddDefinition("jquery", Nothing, myScriptRes
       <MemberSignature Language="DocId" Value="M:System.Web.UI.ScriptManager.System#Web#UI#IScriptManager#RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)" />
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IScriptManager.RegisterArrayDeclaration(System::Web::UI::Control ^ control, System::String ^ arrayName, System::String ^ arrayValue) = System::Web::UI::IScriptManager::RegisterArrayDeclaration;" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterArrayDeclaration(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -4546,20 +4178,6 @@ ScriptManager.ScriptResourceMapping.AddDefinition("jquery", Nothing, myScriptRes
       <MemberSignature Language="DocId" Value="M:System.Web.UI.ScriptManager.System#Web#UI#IScriptManager#RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)" />
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IScriptManager.RegisterClientScriptBlock(System::Web::UI::Control ^ control, Type ^ type, System::String ^ key, System::String ^ script, bool addScriptTags) = System::Web::UI::IScriptManager::RegisterClientScriptBlock;" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptBlock(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -4596,20 +4214,6 @@ ScriptManager.ScriptResourceMapping.AddDefinition("jquery", Nothing, myScriptRes
       <MemberSignature Language="DocId" Value="M:System.Web.UI.ScriptManager.System#Web#UI#IScriptManager#RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)" />
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IScriptManager.RegisterClientScriptInclude(System::Web::UI::Control ^ control, Type ^ type, System::String ^ key, System::String ^ url) = System::Web::UI::IScriptManager::RegisterClientScriptInclude;" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptInclude(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -4644,20 +4248,6 @@ ScriptManager.ScriptResourceMapping.AddDefinition("jquery", Nothing, myScriptRes
       <MemberSignature Language="DocId" Value="M:System.Web.UI.ScriptManager.System#Web#UI#IScriptManager#RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)" />
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IScriptManager.RegisterClientScriptResource(System::Web::UI::Control ^ control, Type ^ type, System::String ^ resourceName) = System::Web::UI::IScriptManager::RegisterClientScriptResource;" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterClientScriptResource(System.Web.UI.Control,System.Type,System.String)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -4690,20 +4280,6 @@ ScriptManager.ScriptResourceMapping.AddDefinition("jquery", Nothing, myScriptRes
       <MemberSignature Language="DocId" Value="M:System.Web.UI.ScriptManager.System#Web#UI#IScriptManager#RegisterDispose(System.Web.UI.Control,System.String)" />
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IScriptManager.RegisterDispose(System::Web::UI::Control ^ control, System::String ^ disposeScript) = System::Web::UI::IScriptManager::RegisterDispose;" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterDispose(System.Web.UI.Control,System.String)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -4734,20 +4310,6 @@ ScriptManager.ScriptResourceMapping.AddDefinition("jquery", Nothing, myScriptRes
       <MemberSignature Language="DocId" Value="M:System.Web.UI.ScriptManager.System#Web#UI#IScriptManager#RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)" />
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IScriptManager.RegisterExpandoAttribute(System::Web::UI::Control ^ control, System::String ^ controlId, System::String ^ attributeName, System::String ^ attributeValue, bool encode) = System::Web::UI::IScriptManager::RegisterExpandoAttribute;" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterExpandoAttribute(System.Web.UI.Control,System.String,System.String,System.String,System.Boolean)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -4784,20 +4346,6 @@ ScriptManager.ScriptResourceMapping.AddDefinition("jquery", Nothing, myScriptRes
       <MemberSignature Language="DocId" Value="M:System.Web.UI.ScriptManager.System#Web#UI#IScriptManager#RegisterHiddenField(System.Web.UI.Control,System.String,System.String)" />
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IScriptManager.RegisterHiddenField(System::Web::UI::Control ^ control, System::String ^ hiddenFieldName, System::String ^ hiddenFieldValue) = System::Web::UI::IScriptManager::RegisterHiddenField;" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterHiddenField(System.Web.UI.Control,System.String,System.String)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -4830,20 +4378,6 @@ ScriptManager.ScriptResourceMapping.AddDefinition("jquery", Nothing, myScriptRes
       <MemberSignature Language="DocId" Value="M:System.Web.UI.ScriptManager.System#Web#UI#IScriptManager#RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)" />
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System::Web::UI::Control ^ control, Type ^ type, System::String ^ key, System::String ^ script) = System::Web::UI::IScriptManager::RegisterOnSubmitStatement;" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterOnSubmitStatement(System.Web.UI.Control,System.Type,System.String,System.String)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -4878,20 +4412,6 @@ ScriptManager.ScriptResourceMapping.AddDefinition("jquery", Nothing, myScriptRes
       <MemberSignature Language="DocId" Value="M:System.Web.UI.ScriptManager.System#Web#UI#IScriptManager#RegisterPostBackControl(System.Web.UI.Control)" />
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IScriptManager.RegisterPostBackControl(System::Web::UI::Control ^ control) = System::Web::UI::IScriptManager::RegisterPostBackControl;" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterPostBackControl(System.Web.UI.Control)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -4920,20 +4440,6 @@ ScriptManager.ScriptResourceMapping.AddDefinition("jquery", Nothing, myScriptRes
       <MemberSignature Language="DocId" Value="M:System.Web.UI.ScriptManager.System#Web#UI#IScriptManager#RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)" />
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IScriptManager.RegisterStartupScript(System::Web::UI::Control ^ control, Type ^ type, System::String ^ key, System::String ^ script, bool addScriptTags) = System::Web::UI::IScriptManager::RegisterStartupScript;" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.RegisterStartupScript(System.Web.UI.Control,System.Type,System.String,System.String,System.Boolean)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -4971,20 +4477,6 @@ ScriptManager.ScriptResourceMapping.AddDefinition("jquery", Nothing, myScriptRes
       <MemberSignature Language="VB.NET" Value="Sub SetFocusInternal (clientID As String) Implements IScriptManager.SetFocusInternal" />
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.UI.IScriptManager.SetFocusInternal(System::String ^ clientID) = System::Web::UI::IScriptManager::SetFocusInternal;" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.SetFocusInternal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.SetFocusInternal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.SetFocusInternal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.SetFocusInternal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.SetFocusInternal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.SetFocusInternal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.SetFocusInternal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.SetFocusInternal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.SetFocusInternal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.SetFocusInternal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.SetFocusInternal(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.Web.UI.IScriptManager.SetFocusInternal(System.String)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.Extensions</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>

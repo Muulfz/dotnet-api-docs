@@ -438,22 +438,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.Close</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -663,22 +647,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Resources.IResourceReader.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -759,22 +727,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Windows.Forms</AssemblyName>
@@ -812,22 +764,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.IDisposable.Dispose() = IDisposable::Dispose;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>

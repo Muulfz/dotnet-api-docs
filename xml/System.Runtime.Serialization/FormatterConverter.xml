@@ -91,30 +91,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.Type)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -158,30 +134,6 @@
       <MemberSignature Language="F#" Value="abstract member Convert : obj * TypeCode -&gt; obj&#xA;override this.Convert : obj * TypeCode -&gt; obj" Usage="formatterConverter.Convert (value, typeCode)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.Convert(System.Object,System.TypeCode)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -227,30 +179,6 @@
       <MemberSignature Language="F#" Value="abstract member ToBoolean : obj -&gt; bool&#xA;override this.ToBoolean : obj -&gt; bool" Usage="formatterConverter.ToBoolean value" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToBoolean(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -302,30 +230,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToByte(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -375,30 +279,6 @@
       <MemberSignature Language="F#" Value="abstract member ToChar : obj -&gt; char&#xA;override this.ToChar : obj -&gt; char" Usage="formatterConverter.ToChar value" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToChar(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -450,30 +330,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDateTime(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -523,30 +379,6 @@
       <MemberSignature Language="F#" Value="abstract member ToDecimal : obj -&gt; decimal&#xA;override this.ToDecimal : obj -&gt; decimal" Usage="formatterConverter.ToDecimal value" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDecimal(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -598,30 +430,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToDouble(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -671,30 +479,6 @@
       <MemberSignature Language="F#" Value="abstract member ToInt16 : obj -&gt; int16&#xA;override this.ToInt16 : obj -&gt; int16" Usage="formatterConverter.ToInt16 value" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt16(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -746,30 +530,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt32(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -820,30 +580,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToInt64(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -893,30 +629,6 @@
       <MemberSignature Language="F#" Value="abstract member ToSByte : obj -&gt; sbyte&#xA;override this.ToSByte : obj -&gt; sbyte" Usage="formatterConverter.ToSByte value" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSByte(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -973,30 +685,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToSingle(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1047,30 +735,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToString(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1120,30 +784,6 @@
       <MemberSignature Language="F#" Value="abstract member ToUInt16 : obj -&gt; uint16&#xA;override this.ToUInt16 : obj -&gt; uint16" Usage="formatterConverter.ToUInt16 value" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt16(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1200,30 +840,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt32(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -1278,30 +894,6 @@
       <MemberSignature Language="F#" Value="abstract member ToUInt64 : obj -&gt; uint64&#xA;override this.ToUInt64 : obj -&gt; uint64" Usage="formatterConverter.ToUInt64 value" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Serialization.IFormatterConverter.ToUInt64(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

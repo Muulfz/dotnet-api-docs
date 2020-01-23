@@ -84,21 +84,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; abstract property double Baseline { double get(); };" />
       <MemberSignature Language="F#" Value="member this.Baseline : double" Usage="System.Windows.Media.TextFormatting.TextLine.Baseline" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Baseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Baseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Baseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Baseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Baseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Baseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Baseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Baseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Baseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Baseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Baseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Baseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Baseline</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
@@ -153,21 +138,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; abstract property int DependentLength { int get(); };" />
       <MemberSignature Language="F#" Value="member this.DependentLength : int" Usage="System.Windows.Media.TextFormatting.TextLine.DependentLength" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.DependentLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.DependentLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.DependentLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.DependentLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.DependentLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.DependentLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.DependentLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.DependentLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.DependentLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.DependentLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.DependentLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.DependentLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.DependentLength</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
@@ -191,20 +161,6 @@
       <MemberSignature Language="F#" Value="abstract member Dispose : unit -&gt; unit" Usage="textLine.Dispose " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
-        <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
         <InterfaceMember>M:System.IDisposable.Dispose</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -601,21 +557,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; abstract property double Height { double get(); };" />
       <MemberSignature Language="F#" Value="member this.Height : double" Usage="System.Windows.Media.TextFormatting.TextLine.Height" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Height</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Height</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Height</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Height</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Height</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Height</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Height</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Height</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Height</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Height</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Height</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Height</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Height</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
@@ -668,21 +609,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; abstract property int Length { int get(); };" />
       <MemberSignature Language="F#" Value="member this.Length : int" Usage="System.Windows.Media.TextFormatting.TextLine.Length" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Length</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Length</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Length</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Length</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Length</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Length</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Length</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Length</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Length</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Length</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Length</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Length</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Length</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
@@ -705,21 +631,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; abstract property double MarkerBaseline { double get(); };" />
       <MemberSignature Language="F#" Value="member this.MarkerBaseline : double" Usage="System.Windows.Media.TextFormatting.TextLine.MarkerBaseline" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerBaseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerBaseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerBaseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerBaseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerBaseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerBaseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerBaseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerBaseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerBaseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerBaseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerBaseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerBaseline</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerBaseline</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
@@ -742,21 +653,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; abstract property double MarkerHeight { double get(); };" />
       <MemberSignature Language="F#" Value="member this.MarkerHeight : double" Usage="System.Windows.Media.TextFormatting.TextLine.MarkerHeight" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerHeight</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerHeight</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerHeight</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerHeight</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerHeight</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerHeight</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerHeight</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerHeight</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerHeight</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerHeight</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerHeight</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerHeight</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.MarkerHeight</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
@@ -779,21 +675,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; abstract property int NewlineLength { int get(); };" />
       <MemberSignature Language="F#" Value="member this.NewlineLength : int" Usage="System.Windows.Media.TextFormatting.TextLine.NewlineLength" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.NewlineLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.NewlineLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.NewlineLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.NewlineLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.NewlineLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.NewlineLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.NewlineLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.NewlineLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.NewlineLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.NewlineLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.NewlineLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.NewlineLength</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.NewlineLength</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
@@ -903,21 +784,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; abstract property double Start { double get(); };" />
       <MemberSignature Language="F#" Value="member this.Start : double" Usage="System.Windows.Media.TextFormatting.TextLine.Start" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Start</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Start</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Start</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Start</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Start</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Start</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Start</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Start</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Start</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Start</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Start</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Start</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Start</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
@@ -1013,21 +879,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; abstract property double Width { double get(); };" />
       <MemberSignature Language="F#" Value="member this.Width : double" Usage="System.Windows.Media.TextFormatting.TextLine.Width" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Width</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Width</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Width</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Width</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Width</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Width</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Width</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Width</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Width</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Width</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Width</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Width</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.Width</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
@@ -1050,21 +901,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; abstract property double WidthIncludingTrailingWhitespace { double get(); };" />
       <MemberSignature Language="F#" Value="member this.WidthIncludingTrailingWhitespace : double" Usage="System.Windows.Media.TextFormatting.TextLine.WidthIncludingTrailingWhitespace" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.WidthIncludingTrailingWhitespace</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.WidthIncludingTrailingWhitespace</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.WidthIncludingTrailingWhitespace</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.WidthIncludingTrailingWhitespace</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.WidthIncludingTrailingWhitespace</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.WidthIncludingTrailingWhitespace</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.WidthIncludingTrailingWhitespace</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.WidthIncludingTrailingWhitespace</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.WidthIncludingTrailingWhitespace</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.WidthIncludingTrailingWhitespace</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.WidthIncludingTrailingWhitespace</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.WidthIncludingTrailingWhitespace</InterfaceMember>
-        <InterfaceMember>P:MS.Internal.TextFormatting.ITextMetrics.WidthIncludingTrailingWhitespace</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>

@@ -203,23 +203,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeClientContextSink.GetClientContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -297,23 +280,6 @@
       <MemberSignature Language="F#" Value="abstract member GetServerContextSink : System.Runtime.Remoting.Messaging.IMessageSink -&gt; System.Runtime.Remoting.Messaging.IMessageSink&#xA;override this.GetServerContextSink : System.Runtime.Remoting.Messaging.IMessageSink -&gt; System.Runtime.Remoting.Messaging.IMessageSink" Usage="synchronizationAttribute.GetServerContextSink nextSink" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Contexts.IContributeServerContextSink.GetServerContextSink(System.Runtime.Remoting.Messaging.IMessageSink)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

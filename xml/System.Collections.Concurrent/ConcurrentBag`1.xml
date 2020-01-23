@@ -231,34 +231,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.CopyTo(`0[],System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Concurrent</AssemblyName>
@@ -309,49 +281,6 @@
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
         <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
-        <InterfaceMember>P:System.Collections.Generic.IReadOnlyCollection`1.Count</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Concurrent</AssemblyName>
@@ -396,32 +325,6 @@
       <MemberSignature Language="F#" Value="abstract member GetEnumerator : unit -&gt; System.Collections.Generic.IEnumerator&lt;'T&gt;&#xA;override this.GetEnumerator : unit -&gt; System.Collections.Generic.IEnumerator&lt;'T&gt;" Usage="concurrentBag.GetEnumerator " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IEnumerable`1.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -504,34 +407,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryAdd(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Concurrent</AssemblyName>
@@ -571,32 +446,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Collections.ICollection.CopyTo(Array ^ array, int index) = System::Collections::ICollection::CopyTo;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
         <InterfaceMember>M:System.Collections.ICollection.CopyTo(System.Array,System.Int32)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -647,32 +496,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.IsSynchronized</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Concurrent</AssemblyName>
@@ -711,32 +534,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
-        <InterfaceMember>P:System.Collections.ICollection.SyncRoot</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Collections.Concurrent</AssemblyName>
@@ -774,32 +571,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::Collections::IEnumerator ^ System.Collections.IEnumerable.GetEnumerator() = System::Collections::IEnumerable::GetEnumerator;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEnumerable.GetEnumerator</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -850,34 +621,6 @@
       <MemberSignature Language="F#" Value="abstract member ToArray : unit -&gt; 'T[]&#xA;override this.ToArray : unit -&gt; 'T[]" Usage="concurrentBag.ToArray " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
         <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.ToArray</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -962,34 +705,6 @@
       <MemberSignature Language="F#" Value="abstract member TryTake : 'T -&gt; bool&#xA;override this.TryTake : 'T -&gt; bool" Usage="concurrentBag.TryTake result" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Concurrent.IProducerConsumerCollection`1.TryTake(`0@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

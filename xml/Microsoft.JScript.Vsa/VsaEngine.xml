@@ -145,20 +145,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IEngine2.CompileEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.CompileEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.CompileEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.CompileEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.CompileEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.CompileEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.CompileEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.CompileEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.CompileEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.CompileEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.CompileEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.CompileEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.CompileEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.CompileEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.CompileEmpty</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -187,20 +173,6 @@
       <MemberSignature Language="F#" Value="abstract member ConnectEvents : unit -&gt; unit&#xA;override this.ConnectEvents : unit -&gt; unit" Usage="vsaEngine.ConnectEvents " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.ConnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.ConnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.ConnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.ConnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.ConnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.ConnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.ConnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.ConnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.ConnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.ConnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.ConnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.ConnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.ConnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.ConnectEvents</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IEngine2.ConnectEvents</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -379,20 +351,6 @@
       <MemberSignature Language="F#" Value="abstract member DisconnectEvents : unit -&gt; unit&#xA;override this.DisconnectEvents : unit -&gt; unit" Usage="vsaEngine.DisconnectEvents " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.DisconnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.DisconnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.DisconnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.DisconnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.DisconnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.DisconnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.DisconnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.DisconnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.DisconnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.DisconnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.DisconnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.DisconnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.DisconnectEvents</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.DisconnectEvents</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IEngine2.DisconnectEvents</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -593,20 +551,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IEngine2.GetAssembly</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetAssembly</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetAssembly</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetAssembly</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetAssembly</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetAssembly</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetAssembly</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetAssembly</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetAssembly</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetAssembly</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetAssembly</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetAssembly</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetAssembly</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetAssembly</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetAssembly</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -661,20 +605,6 @@
       <MemberSignature Language="F#" Value="abstract member GetGlobalScope : unit -&gt; Microsoft.JScript.IVsaScriptScope&#xA;override this.GetGlobalScope : unit -&gt; Microsoft.JScript.IVsaScriptScope" Usage="vsaEngine.GetGlobalScope " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetGlobalScope</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetGlobalScope</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetGlobalScope</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetGlobalScope</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetGlobalScope</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetGlobalScope</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetGlobalScope</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetGlobalScope</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetGlobalScope</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetGlobalScope</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetGlobalScope</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetGlobalScope</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetGlobalScope</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetGlobalScope</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IEngine2.GetGlobalScope</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -806,20 +736,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IEngine2.GetModule</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetModule</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetModule</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetModule</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetModule</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetModule</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetModule</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetModule</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetModule</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetModule</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetModule</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetModule</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetModule</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetModule</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.GetModule</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -923,16 +839,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IEngine2.InitVsaEngine(System.String,Microsoft.JScript.Vsa.IJSVsaSite)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.InitVsaEngine(System.String,Microsoft.JScript.Vsa.IJSVsaSite)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.InitVsaEngine(System.String,Microsoft.JScript.Vsa.IJSVsaSite)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.InitVsaEngine(System.String,Microsoft.JScript.Vsa.IJSVsaSite)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.InitVsaEngine(System.String,Microsoft.JScript.Vsa.IJSVsaSite)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.InitVsaEngine(System.String,Microsoft.JScript.Vsa.IJSVsaSite)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.InitVsaEngine(System.String,Microsoft.JScript.Vsa.IJSVsaSite)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.InitVsaEngine(System.String,Microsoft.JScript.Vsa.IJSVsaSite)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.InitVsaEngine(System.String,Microsoft.JScript.Vsa.IJSVsaSite)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.InitVsaEngine(System.String,Microsoft.JScript.Vsa.IJSVsaSite)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.InitVsaEngine(System.String,Microsoft.JScript.Vsa.IJSVsaSite)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -962,9 +868,6 @@
       <MemberSignature Language="F#" Value="abstract member InitVsaEngine : string * Microsoft.Vsa.IVsaSite -&gt; unit&#xA;override this.InitVsaEngine : string * Microsoft.Vsa.IVsaSite -&gt; unit" Usage="vsaEngine.InitVsaEngine (rootMoniker, site)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.InitVsaEngine(System.String,Microsoft.Vsa.IVsaSite)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.InitVsaEngine(System.String,Microsoft.Vsa.IVsaSite)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.InitVsaEngine(System.String,Microsoft.Vsa.IVsaSite)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IEngine2.InitVsaEngine(System.String,Microsoft.Vsa.IVsaSite)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -996,20 +899,6 @@
       <MemberSignature Language="F#" Value="abstract member Interrupt : unit -&gt; unit&#xA;override this.Interrupt : unit -&gt; unit" Usage="vsaEngine.Interrupt " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Interrupt</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Interrupt</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Interrupt</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Interrupt</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Interrupt</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Interrupt</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Interrupt</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Interrupt</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Interrupt</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Interrupt</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Interrupt</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Interrupt</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Interrupt</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Interrupt</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IEngine2.Interrupt</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1191,20 +1080,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IEngine2.RegisterEventSource(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RegisterEventSource(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RegisterEventSource(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RegisterEventSource(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RegisterEventSource(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RegisterEventSource(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RegisterEventSource(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RegisterEventSource(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RegisterEventSource(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RegisterEventSource(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RegisterEventSource(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RegisterEventSource(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RegisterEventSource(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RegisterEventSource(System.String)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RegisterEventSource(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -1281,20 +1156,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:Microsoft.JScript.IEngine2.Restart</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Restart</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Restart</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Restart</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Restart</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Restart</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Restart</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Restart</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Restart</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Restart</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Restart</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Restart</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Restart</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Restart</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Restart</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.JScript</AssemblyName>
@@ -1320,20 +1181,6 @@
       <MemberSignature Language="F#" Value="override this.Run : AppDomain -&gt; unit" Usage="vsaEngine.Run domain" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Run(System.AppDomain)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Run(System.AppDomain)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Run(System.AppDomain)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Run(System.AppDomain)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Run(System.AppDomain)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Run(System.AppDomain)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Run(System.AppDomain)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Run(System.AppDomain)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Run(System.AppDomain)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Run(System.AppDomain)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Run(System.AppDomain)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Run(System.AppDomain)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Run(System.AppDomain)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.Run(System.AppDomain)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IEngine2.Run(System.AppDomain)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1364,20 +1211,6 @@
       <MemberSignature Language="F#" Value="abstract member RunEmpty : unit -&gt; unit&#xA;override this.RunEmpty : unit -&gt; unit" Usage="vsaEngine.RunEmpty " />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RunEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RunEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RunEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RunEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RunEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RunEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RunEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RunEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RunEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RunEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RunEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RunEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RunEmpty</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IEngine2.RunEmpty</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IEngine2.RunEmpty</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1457,20 +1290,6 @@
       <MemberSignature Language="F#" Value="abstract member SetOutputStream : Microsoft.JScript.IMessageReceiver -&gt; unit&#xA;override this.SetOutputStream : Microsoft.JScript.IMessageReceiver -&gt; unit" Usage="vsaEngine.SetOutputStream output" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:Microsoft.JScript.IRedirectOutput.SetOutputStream(Microsoft.JScript.IMessageReceiver)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IRedirectOutput.SetOutputStream(Microsoft.JScript.IMessageReceiver)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IRedirectOutput.SetOutputStream(Microsoft.JScript.IMessageReceiver)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IRedirectOutput.SetOutputStream(Microsoft.JScript.IMessageReceiver)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IRedirectOutput.SetOutputStream(Microsoft.JScript.IMessageReceiver)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IRedirectOutput.SetOutputStream(Microsoft.JScript.IMessageReceiver)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IRedirectOutput.SetOutputStream(Microsoft.JScript.IMessageReceiver)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IRedirectOutput.SetOutputStream(Microsoft.JScript.IMessageReceiver)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IRedirectOutput.SetOutputStream(Microsoft.JScript.IMessageReceiver)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IRedirectOutput.SetOutputStream(Microsoft.JScript.IMessageReceiver)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IRedirectOutput.SetOutputStream(Microsoft.JScript.IMessageReceiver)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IRedirectOutput.SetOutputStream(Microsoft.JScript.IMessageReceiver)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IRedirectOutput.SetOutputStream(Microsoft.JScript.IMessageReceiver)</InterfaceMember>
-        <InterfaceMember>M:Microsoft.JScript.IRedirectOutput.SetOutputStream(Microsoft.JScript.IMessageReceiver)</InterfaceMember>
         <InterfaceMember>M:Microsoft.JScript.IRedirectOutput.SetOutputStream(Microsoft.JScript.IMessageReceiver)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

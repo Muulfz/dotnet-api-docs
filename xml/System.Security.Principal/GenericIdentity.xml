@@ -231,10 +231,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.AuthenticationType</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Security.Claims</AssemblyName>
@@ -359,10 +355,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.IsAuthenticated</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Security.Claims</AssemblyName>
@@ -405,10 +397,6 @@
       <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property Name As String" FrameworkAlternate="netframework-1.1;netframework-2.0;netframework-3.0;netframework-3.5;netframework-4.0" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
-        <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
         <InterfaceMember>P:System.Security.Principal.IIdentity.Name</InterfaceMember>
       </Implements>
       <AssemblyInfo>

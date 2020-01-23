@@ -60,20 +60,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.AddBindingParameters(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Web</AssemblyName>
@@ -157,20 +143,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyClientBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyClientBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyClientBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyClientBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyClientBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyClientBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyClientBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyClientBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyClientBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyClientBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyClientBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyClientBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyClientBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyClientBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyClientBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Web</AssemblyName>
@@ -207,20 +179,6 @@
       <MemberSignature Language="F#" Value="abstract member ApplyDispatchBehavior : System.ServiceModel.Description.ServiceEndpoint * System.ServiceModel.Dispatcher.EndpointDispatcher -&gt; unit&#xA;override this.ApplyDispatchBehavior : System.ServiceModel.Description.ServiceEndpoint * System.ServiceModel.Dispatcher.EndpointDispatcher -&gt; unit" Usage="webHttpBehavior.ApplyDispatchBehavior (endpoint, endpointDispatcher)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.EndpointDispatcher)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.EndpointDispatcher)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.EndpointDispatcher)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.EndpointDispatcher)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.EndpointDispatcher)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.EndpointDispatcher)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.EndpointDispatcher)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.EndpointDispatcher)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.EndpointDispatcher)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.EndpointDispatcher)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.EndpointDispatcher)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.EndpointDispatcher)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.EndpointDispatcher)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.EndpointDispatcher)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.EndpointDispatcher)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -679,20 +637,6 @@ host.Description.Endpoints[0].Behaviors.Add(helpBehavior);
       <MemberSignature Language="VB.NET" Value="Sub FillInstance (wmiInstance As IWmiInstance) Implements IWmiInstanceProvider.FillInstance" />
       <MemberSignature Language="C++ CLI" Value=" virtual void System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System::ServiceModel::Administration::IWmiInstance ^ wmiInstance) = System::ServiceModel::Administration::IWmiInstanceProvider::FillInstance;" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.FillInstance(System.ServiceModel.Administration.IWmiInstance)</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Web</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -717,20 +661,6 @@ host.Description.Endpoints[0].Behaviors.Add(helpBehavior);
       <MemberSignature Language="VB.NET" Value="Function GetInstanceType () As String Implements IWmiInstanceProvider.GetInstanceType" />
       <MemberSignature Language="C++ CLI" Value=" virtual System::String ^ System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType() = System::ServiceModel::Administration::IWmiInstanceProvider::GetInstanceType;" />
       <MemberType>Method</MemberType>
-      <Implements>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Administration.IWmiInstanceProvider.GetInstanceType</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel.Web</AssemblyName>
         <AssemblyVersion>3.5.0.0</AssemblyVersion>
@@ -755,20 +685,6 @@ host.Description.Endpoints[0].Behaviors.Add(helpBehavior);
       <MemberSignature Language="F#" Value="abstract member Validate : System.ServiceModel.Description.ServiceEndpoint -&gt; unit&#xA;override this.Validate : System.ServiceModel.Description.ServiceEndpoint -&gt; unit" Usage="webHttpBehavior.Validate endpoint" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.Validate(System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.Validate(System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.Validate(System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.Validate(System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.Validate(System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.Validate(System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.Validate(System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.Validate(System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.Validate(System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.Validate(System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.Validate(System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.Validate(System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.Validate(System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.Validate(System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Description.IEndpointBehavior.Validate(System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

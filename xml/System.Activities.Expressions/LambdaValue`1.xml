@@ -98,16 +98,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities</AssemblyName>
@@ -142,16 +132,6 @@
       <MemberSignature Language="F#" Value="abstract member ConvertToString : System.Windows.Markup.IValueSerializerContext -&gt; string&#xA;override this.ConvertToString : System.Windows.Markup.IValueSerializerContext -&gt; string" Usage="lambdaValue.ConvertToString context" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
         <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

@@ -200,20 +200,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelName</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -255,20 +241,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.IChannel.ChannelPriority</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -309,20 +281,6 @@
       <MemberSignature Language="F#" Value="abstract member CreateMessageSink : string * obj * string -&gt; System.Runtime.Remoting.Messaging.IMessageSink&#xA;override this.CreateMessageSink : string * obj * string -&gt; System.Runtime.Remoting.Messaging.IMessageSink" Usage="tcpClientChannel.CreateMessageSink (url, remoteChannelData, objectURI)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelSender.CreateMessageSink(System.String,System.Object,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelSender.CreateMessageSink(System.String,System.Object,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelSender.CreateMessageSink(System.String,System.Object,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelSender.CreateMessageSink(System.String,System.Object,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelSender.CreateMessageSink(System.String,System.Object,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelSender.CreateMessageSink(System.String,System.Object,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelSender.CreateMessageSink(System.String,System.Object,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelSender.CreateMessageSink(System.String,System.Object,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelSender.CreateMessageSink(System.String,System.Object,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelSender.CreateMessageSink(System.String,System.Object,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelSender.CreateMessageSink(System.String,System.Object,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelSender.CreateMessageSink(System.String,System.Object,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelSender.CreateMessageSink(System.String,System.Object,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelSender.CreateMessageSink(System.String,System.Object,System.String@)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannelSender.CreateMessageSink(System.String,System.Object,System.String@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -373,19 +331,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
-        <InterfaceMember>P:System.Runtime.Remoting.Channels.ISecurableChannel.IsSecured</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Remoting</AssemblyName>
@@ -410,20 +355,6 @@
       <MemberSignature Language="F#" Value="abstract member Parse : string * string -&gt; string&#xA;override this.Parse : string * string -&gt; string" Usage="tcpClientChannel.Parse (url, objectURI)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
-        <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
         <InterfaceMember>M:System.Runtime.Remoting.Channels.IChannel.Parse(System.String,System.String@)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

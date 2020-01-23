@@ -1633,36 +1633,6 @@ Count after removing: 2
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>M:System.Xml.IXmlLineInfo.HasLineInfo</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml.XDocument</AssemblyName>
@@ -1809,36 +1779,6 @@ Root                1    2
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LineNumber</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xml.XDocument</AssemblyName>
@@ -1981,36 +1921,6 @@ Root                1    2
       <MemberSignature Language="F#" Usage="System.Xml.IXmlLineInfo.LinePosition" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
         <InterfaceMember>P:System.Xml.IXmlLineInfo.LinePosition</InterfaceMember>
       </Implements>
       <AssemblyInfo>

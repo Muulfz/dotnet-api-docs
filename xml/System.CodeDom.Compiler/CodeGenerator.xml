@@ -123,27 +123,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -191,27 +170,6 @@
       <MemberSignature Language="F#" Value="abstract member CreateValidIdentifier : string -&gt; string" Usage="codeGenerator.CreateValidIdentifier value" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2972,27 +2930,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -3222,27 +3159,6 @@
       <MemberSignature Language="F#" Value="abstract member IsValidIdentifier : string -&gt; bool" Usage="codeGenerator.IsValidIdentifier value" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -3971,27 +3887,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -4029,27 +3924,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual System::String ^ System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System::String ^ value) = System::CodeDom::Compiler::ICodeGenerator::CreateEscapedIdentifier;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateEscapedIdentifier(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4092,27 +3966,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.CreateValidIdentifier(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -4153,27 +4006,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System::CodeDom::CodeCompileUnit ^ e, System::IO::TextWriter ^ w, System::CodeDom::Compiler::CodeGeneratorOptions ^ o) = System::CodeDom::Compiler::ICodeGenerator::GenerateCodeFromCompileUnit;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromCompileUnit(System.CodeDom.CodeCompileUnit,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4216,27 +4048,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromExpression(System.CodeDom.CodeExpression,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -4277,27 +4088,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System::CodeDom::CodeNamespace ^ e, System::IO::TextWriter ^ w, System::CodeDom::Compiler::CodeGeneratorOptions ^ o) = System::CodeDom::Compiler::ICodeGenerator::GenerateCodeFromNamespace;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromNamespace(System.CodeDom.CodeNamespace,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4340,27 +4130,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromStatement(System.CodeDom.CodeStatement,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -4401,27 +4170,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System::CodeDom::CodeTypeDeclaration ^ e, System::IO::TextWriter ^ w, System::CodeDom::Compiler::CodeGeneratorOptions ^ o) = System::CodeDom::Compiler::ICodeGenerator::GenerateCodeFromType;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GenerateCodeFromType(System.CodeDom.CodeTypeDeclaration,System.IO.TextWriter,System.CodeDom.Compiler.CodeGeneratorOptions)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4464,27 +4212,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.GetTypeOutput(System.CodeDom.CodeTypeReference)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -4525,27 +4252,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System::String ^ value) = System::CodeDom::Compiler::ICodeGenerator::IsValidIdentifier;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.IsValidIdentifier(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -4589,27 +4295,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.Supports(System.CodeDom.Compiler.GeneratorSupport)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -4652,27 +4337,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System</AssemblyName>
@@ -4713,27 +4377,6 @@
       <MemberSignature Language="F#" Value="abstract member ValidateIdentifier : string -&gt; unit&#xA;override this.ValidateIdentifier : string -&gt; unit" Usage="codeGenerator.ValidateIdentifier value" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
-        <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
         <InterfaceMember>M:System.CodeDom.Compiler.ICodeGenerator.ValidateIdentifier(System.String)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

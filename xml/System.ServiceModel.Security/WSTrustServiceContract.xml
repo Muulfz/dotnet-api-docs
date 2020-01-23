@@ -89,15 +89,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.AddBindingParameters(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.AddBindingParameters(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.AddBindingParameters(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.AddBindingParameters(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.AddBindingParameters(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.AddBindingParameters(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.AddBindingParameters(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.AddBindingParameters(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.AddBindingParameters(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.AddBindingParameters(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Channels.BindingParameterCollection)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -128,15 +119,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyClientBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyClientBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyClientBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyClientBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyClientBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyClientBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyClientBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyClientBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyClientBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyClientBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.ClientRuntime)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -166,15 +148,6 @@
       <MemberSignature Language="F#" Value="abstract member ApplyDispatchBehavior : System.ServiceModel.Description.ContractDescription * System.ServiceModel.Description.ServiceEndpoint * System.ServiceModel.Dispatcher.DispatchRuntime -&gt; unit&#xA;override this.ApplyDispatchBehavior : System.ServiceModel.Description.ContractDescription * System.ServiceModel.Description.ServiceEndpoint * System.ServiceModel.Dispatcher.DispatchRuntime -&gt; unit" Usage="wSTrustServiceContract.ApplyDispatchBehavior (contractDescription, endpoint, dispatchRuntime)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.DispatchRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.DispatchRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.DispatchRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.DispatchRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.DispatchRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.DispatchRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.DispatchRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.DispatchRuntime)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.DispatchRuntime)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.ApplyDispatchBehavior(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint,System.ServiceModel.Dispatcher.DispatchRuntime)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -275,15 +248,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -315,15 +279,6 @@
       <MemberSignature Language="F#" Value="abstract member BeginTrust13CancelResponse : System.ServiceModel.Channels.Message * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginTrust13CancelResponse : System.ServiceModel.Channels.Message * AsyncCallback * obj -&gt; IAsyncResult" Usage="wSTrustServiceContract.BeginTrust13CancelResponse (request, callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -357,15 +312,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -397,15 +343,6 @@
       <MemberSignature Language="F#" Value="abstract member BeginTrust13IssueResponse : System.ServiceModel.Channels.Message * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginTrust13IssueResponse : System.ServiceModel.Channels.Message * AsyncCallback * obj -&gt; IAsyncResult" Usage="wSTrustServiceContract.BeginTrust13IssueResponse (request, callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -439,15 +376,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -479,15 +407,6 @@
       <MemberSignature Language="F#" Value="abstract member BeginTrust13RenewResponse : System.ServiceModel.Channels.Message * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginTrust13RenewResponse : System.ServiceModel.Channels.Message * AsyncCallback * obj -&gt; IAsyncResult" Usage="wSTrustServiceContract.BeginTrust13RenewResponse (request, callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -521,15 +440,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -561,15 +471,6 @@
       <MemberSignature Language="F#" Value="abstract member BeginTrust13ValidateResponse : System.ServiceModel.Channels.Message * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginTrust13ValidateResponse : System.ServiceModel.Channels.Message * AsyncCallback * obj -&gt; IAsyncResult" Usage="wSTrustServiceContract.BeginTrust13ValidateResponse (request, callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.BeginTrust13ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -603,15 +504,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Cancel(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -643,15 +535,6 @@
       <MemberSignature Language="F#" Value="abstract member BeginTrustFeb2005CancelResponse : System.ServiceModel.Channels.Message * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginTrustFeb2005CancelResponse : System.ServiceModel.Channels.Message * AsyncCallback * obj -&gt; IAsyncResult" Usage="wSTrustServiceContract.BeginTrustFeb2005CancelResponse (request, callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -685,15 +568,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Issue(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -725,15 +599,6 @@
       <MemberSignature Language="F#" Value="abstract member BeginTrustFeb2005IssueResponse : System.ServiceModel.Channels.Message * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginTrustFeb2005IssueResponse : System.ServiceModel.Channels.Message * AsyncCallback * obj -&gt; IAsyncResult" Usage="wSTrustServiceContract.BeginTrustFeb2005IssueResponse (request, callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -767,15 +632,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Renew(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -807,15 +663,6 @@
       <MemberSignature Language="F#" Value="abstract member BeginTrustFeb2005RenewResponse : System.ServiceModel.Channels.Message * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginTrustFeb2005RenewResponse : System.ServiceModel.Channels.Message * AsyncCallback * obj -&gt; IAsyncResult" Usage="wSTrustServiceContract.BeginTrustFeb2005RenewResponse (request, callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -849,15 +696,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005Validate(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -889,15 +727,6 @@
       <MemberSignature Language="F#" Value="abstract member BeginTrustFeb2005ValidateResponse : System.ServiceModel.Channels.Message * AsyncCallback * obj -&gt; IAsyncResult&#xA;override this.BeginTrustFeb2005ValidateResponse : System.ServiceModel.Channels.Message * AsyncCallback * obj -&gt; IAsyncResult" Usage="wSTrustServiceContract.BeginTrustFeb2005ValidateResponse (request, callback, state)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.BeginTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message,System.AsyncCallback,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1071,15 +900,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Cancel(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1107,15 +927,6 @@
       <MemberSignature Language="F#" Value="abstract member EndTrust13CancelResponse : IAsyncResult -&gt; System.ServiceModel.Channels.Message&#xA;override this.EndTrust13CancelResponse : IAsyncResult -&gt; System.ServiceModel.Channels.Message" Usage="wSTrustServiceContract.EndTrust13CancelResponse ar" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13CancelResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13CancelResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13CancelResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13CancelResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13CancelResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13CancelResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13CancelResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13CancelResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13CancelResponse(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13CancelResponse(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1145,15 +956,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Issue(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1181,15 +983,6 @@
       <MemberSignature Language="F#" Value="abstract member EndTrust13IssueResponse : IAsyncResult -&gt; System.ServiceModel.Channels.Message&#xA;override this.EndTrust13IssueResponse : IAsyncResult -&gt; System.ServiceModel.Channels.Message" Usage="wSTrustServiceContract.EndTrust13IssueResponse ar" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13IssueResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13IssueResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13IssueResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13IssueResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13IssueResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13IssueResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13IssueResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13IssueResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13IssueResponse(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13IssueResponse(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1219,15 +1012,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Renew(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1255,15 +1039,6 @@
       <MemberSignature Language="F#" Value="abstract member EndTrust13RenewResponse : IAsyncResult -&gt; System.ServiceModel.Channels.Message&#xA;override this.EndTrust13RenewResponse : IAsyncResult -&gt; System.ServiceModel.Channels.Message" Usage="wSTrustServiceContract.EndTrust13RenewResponse ar" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13RenewResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13RenewResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13RenewResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13RenewResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13RenewResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13RenewResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13RenewResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13RenewResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13RenewResponse(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13RenewResponse(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1293,15 +1068,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13Validate(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1329,15 +1095,6 @@
       <MemberSignature Language="F#" Value="abstract member EndTrust13ValidateResponse : IAsyncResult -&gt; System.ServiceModel.Channels.Message&#xA;override this.EndTrust13ValidateResponse : IAsyncResult -&gt; System.ServiceModel.Channels.Message" Usage="wSTrustServiceContract.EndTrust13ValidateResponse ar" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13ValidateResponse(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13AsyncContract.EndTrust13ValidateResponse(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1367,15 +1124,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Cancel(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Cancel(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1403,15 +1151,6 @@
       <MemberSignature Language="F#" Value="abstract member EndTrustFeb2005CancelResponse : IAsyncResult -&gt; System.ServiceModel.Channels.Message&#xA;override this.EndTrustFeb2005CancelResponse : IAsyncResult -&gt; System.ServiceModel.Channels.Message" Usage="wSTrustServiceContract.EndTrustFeb2005CancelResponse ar" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005CancelResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005CancelResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005CancelResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005CancelResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005CancelResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005CancelResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005CancelResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005CancelResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005CancelResponse(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005CancelResponse(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1441,15 +1180,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Issue(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Issue(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1477,15 +1207,6 @@
       <MemberSignature Language="F#" Value="abstract member EndTrustFeb2005IssueResponse : IAsyncResult -&gt; System.ServiceModel.Channels.Message&#xA;override this.EndTrustFeb2005IssueResponse : IAsyncResult -&gt; System.ServiceModel.Channels.Message" Usage="wSTrustServiceContract.EndTrustFeb2005IssueResponse ar" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005IssueResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005IssueResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005IssueResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005IssueResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005IssueResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005IssueResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005IssueResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005IssueResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005IssueResponse(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005IssueResponse(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1515,15 +1236,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Renew(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Renew(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1551,15 +1263,6 @@
       <MemberSignature Language="F#" Value="abstract member EndTrustFeb2005RenewResponse : IAsyncResult -&gt; System.ServiceModel.Channels.Message&#xA;override this.EndTrustFeb2005RenewResponse : IAsyncResult -&gt; System.ServiceModel.Channels.Message" Usage="wSTrustServiceContract.EndTrustFeb2005RenewResponse ar" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005RenewResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005RenewResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005RenewResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005RenewResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005RenewResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005RenewResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005RenewResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005RenewResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005RenewResponse(System.IAsyncResult)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005RenewResponse(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1589,15 +1292,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Validate(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005Validate(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1626,15 +1320,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005ValidateResponse(System.IAsyncResult)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005AsyncContract.EndTrustFeb2005ValidateResponse(System.IAsyncResult)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -1662,15 +1347,6 @@
       <MemberSignature Language="F#" Value="abstract member ExportContract : System.ServiceModel.Description.WsdlExporter * System.ServiceModel.Description.WsdlContractConversionContext -&gt; unit&#xA;override this.ExportContract : System.ServiceModel.Description.WsdlExporter * System.ServiceModel.Description.WsdlContractConversionContext -&gt; unit" Usage="wSTrustServiceContract.ExportContract (exporter, context)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportContract(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlContractConversionContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1707,15 +1383,6 @@
       <MemberSignature Language="F#" Value="abstract member ExportEndpoint : System.ServiceModel.Description.WsdlExporter * System.ServiceModel.Description.WsdlEndpointConversionContext -&gt; unit&#xA;override this.ExportEndpoint : System.ServiceModel.Description.WsdlExporter * System.ServiceModel.Description.WsdlEndpointConversionContext -&gt; unit" Usage="wSTrustServiceContract.ExportEndpoint (exporter, context)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Description.IWsdlExportExtension.ExportEndpoint(System.ServiceModel.Description.WsdlExporter,System.ServiceModel.Description.WsdlEndpointConversionContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2021,15 +1688,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -2056,15 +1714,6 @@
       <MemberSignature Language="F#" Value="abstract member ProcessTrust13CancelResponse : System.ServiceModel.Channels.Message -&gt; System.ServiceModel.Channels.Message&#xA;override this.ProcessTrust13CancelResponse : System.ServiceModel.Channels.Message -&gt; System.ServiceModel.Channels.Message" Usage="wSTrustServiceContract.ProcessTrust13CancelResponse message" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2093,15 +1742,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -2128,15 +1768,6 @@
       <MemberSignature Language="F#" Value="abstract member ProcessTrust13IssueResponse : System.ServiceModel.Channels.Message -&gt; System.ServiceModel.Channels.Message&#xA;override this.ProcessTrust13IssueResponse : System.ServiceModel.Channels.Message -&gt; System.ServiceModel.Channels.Message" Usage="wSTrustServiceContract.ProcessTrust13IssueResponse message" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2165,15 +1796,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -2200,15 +1822,6 @@
       <MemberSignature Language="F#" Value="abstract member ProcessTrust13RenewResponse : System.ServiceModel.Channels.Message -&gt; System.ServiceModel.Channels.Message&#xA;override this.ProcessTrust13RenewResponse : System.ServiceModel.Channels.Message -&gt; System.ServiceModel.Channels.Message" Usage="wSTrustServiceContract.ProcessTrust13RenewResponse message" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2237,15 +1850,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -2272,15 +1876,6 @@
       <MemberSignature Language="F#" Value="abstract member ProcessTrust13ValidateResponse : System.ServiceModel.Channels.Message -&gt; System.ServiceModel.Channels.Message&#xA;override this.ProcessTrust13ValidateResponse : System.ServiceModel.Channels.Message -&gt; System.ServiceModel.Channels.Message" Usage="wSTrustServiceContract.ProcessTrust13ValidateResponse message" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrust13SyncContract.ProcessTrust13ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2309,15 +1904,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Cancel(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -2344,15 +1930,6 @@
       <MemberSignature Language="F#" Value="abstract member ProcessTrustFeb2005CancelResponse : System.ServiceModel.Channels.Message -&gt; System.ServiceModel.Channels.Message&#xA;override this.ProcessTrustFeb2005CancelResponse : System.ServiceModel.Channels.Message -&gt; System.ServiceModel.Channels.Message" Usage="wSTrustServiceContract.ProcessTrustFeb2005CancelResponse message" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005CancelResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2381,15 +1958,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Issue(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -2416,15 +1984,6 @@
       <MemberSignature Language="F#" Value="abstract member ProcessTrustFeb2005IssueResponse : System.ServiceModel.Channels.Message -&gt; System.ServiceModel.Channels.Message&#xA;override this.ProcessTrustFeb2005IssueResponse : System.ServiceModel.Channels.Message -&gt; System.ServiceModel.Channels.Message" Usage="wSTrustServiceContract.ProcessTrustFeb2005IssueResponse message" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005IssueResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2453,15 +2012,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Renew(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -2488,15 +2038,6 @@
       <MemberSignature Language="F#" Value="abstract member ProcessTrustFeb2005RenewResponse : System.ServiceModel.Channels.Message -&gt; System.ServiceModel.Channels.Message&#xA;override this.ProcessTrustFeb2005RenewResponse : System.ServiceModel.Channels.Message -&gt; System.ServiceModel.Channels.Message" Usage="wSTrustServiceContract.ProcessTrustFeb2005RenewResponse message" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005RenewResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2525,15 +2066,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005Validate(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.ServiceModel</AssemblyName>
@@ -2560,15 +2092,6 @@
       <MemberSignature Language="F#" Value="abstract member ProcessTrustFeb2005ValidateResponse : System.ServiceModel.Channels.Message -&gt; System.ServiceModel.Channels.Message&#xA;override this.ProcessTrustFeb2005ValidateResponse : System.ServiceModel.Channels.Message -&gt; System.ServiceModel.Channels.Message" Usage="wSTrustServiceContract.ProcessTrustFeb2005ValidateResponse message" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Security.IWSTrustFeb2005SyncContract.ProcessTrustFeb2005ValidateResponse(System.ServiceModel.Channels.Message)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -2644,15 +2167,6 @@
       <MemberSignature Language="F#" Value="abstract member Validate : System.ServiceModel.Description.ContractDescription * System.ServiceModel.Description.ServiceEndpoint -&gt; unit&#xA;override this.Validate : System.ServiceModel.Description.ContractDescription * System.ServiceModel.Description.ServiceEndpoint -&gt; unit" Usage="wSTrustServiceContract.Validate (contractDescription, endpoint)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.Validate(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.Validate(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.Validate(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.Validate(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.Validate(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.Validate(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.Validate(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.Validate(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
-        <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.Validate(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
         <InterfaceMember>M:System.ServiceModel.Description.IContractBehavior.Validate(System.ServiceModel.Description.ContractDescription,System.ServiceModel.Description.ServiceEndpoint)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

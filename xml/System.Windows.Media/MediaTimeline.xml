@@ -553,20 +553,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
-        <InterfaceMember>P:System.Windows.Markup.IUriContext.BaseUri</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>PresentationCore</AssemblyName>

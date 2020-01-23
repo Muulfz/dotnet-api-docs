@@ -125,16 +125,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.CanConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities</AssemblyName>
@@ -170,16 +160,6 @@
       <MemberSignature Language="F#" Value="abstract member ConvertToString : System.Windows.Markup.IValueSerializerContext -&gt; string&#xA;override this.ConvertToString : System.Windows.Markup.IValueSerializerContext -&gt; string" Usage="visualBasicValue.ConvertToString context" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
-        <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
         <InterfaceMember>M:System.Activities.XamlIntegration.IValueSerializableExpression.ConvertToString(System.Windows.Markup.IValueSerializerContext)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -239,9 +219,6 @@
       <MemberSignature Language="C++ CLI" Value="public:&#xA; property System::String ^ ExpressionText { System::String ^ get(); void set(System::String ^ value); };" />
       <MemberSignature Language="F#" Value="member this.ExpressionText : string with get, set" Usage="Microsoft.VisualBasic.Activities.VisualBasicValue&lt;'Result&gt;.ExpressionText" />
       <MemberType>Property</MemberType>
-      <Implements>
-        <InterfaceMember>P:Microsoft.VisualBasic.Activities.IVisualBasicExpression.ExpressionText</InterfaceMember>
-      </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities</AssemblyName>
         <AssemblyVersion>4.0.0.0</AssemblyVersion>
@@ -273,15 +250,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
-        <InterfaceMember>M:System.Activities.Expressions.ITextExpression.GetExpressionTree</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Activities</AssemblyName>
@@ -306,15 +274,6 @@
       <MemberSignature Language="F#" Value="member this.Language : string" Usage="Microsoft.VisualBasic.Activities.VisualBasicValue&lt;'Result&gt;.Language" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
         <InterfaceMember>P:System.Activities.Expressions.ITextExpression.Language</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -344,15 +303,6 @@
       <MemberSignature Language="F#" Value="member this.RequiresCompilation : bool" Usage="Microsoft.VisualBasic.Activities.VisualBasicValue&lt;'Result&gt;.RequiresCompilation" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
-        <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
         <InterfaceMember>P:System.Activities.Expressions.ITextExpression.RequiresCompilation</InterfaceMember>
       </Implements>
       <AssemblyInfo>

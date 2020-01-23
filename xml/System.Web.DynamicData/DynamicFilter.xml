@@ -389,16 +389,6 @@
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.GetQueryable(System.Linq.IQueryable)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.GetQueryable(System.Linq.IQueryable)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.GetQueryable(System.Linq.IQueryable)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.GetQueryable(System.Linq.IQueryable)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.GetQueryable(System.Linq.IQueryable)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.GetQueryable(System.Linq.IQueryable)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.GetQueryable(System.Linq.IQueryable)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.GetQueryable(System.Linq.IQueryable)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.GetQueryable(System.Linq.IQueryable)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.GetQueryable(System.Linq.IQueryable)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.GetQueryable(System.Linq.IQueryable)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Web.DynamicData</AssemblyName>
@@ -432,16 +422,6 @@
       <MemberSignature Language="C++ CLI" Value=" virtual void System.Web.DynamicData.IFilterExpressionProvider.Initialize(System::Web::UI::WebControls::IQueryableDataSource ^ dataSource) = System::Web::DynamicData::IFilterExpressionProvider::Initialize;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.Initialize(System.Web.UI.WebControls.IQueryableDataSource)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.Initialize(System.Web.UI.WebControls.IQueryableDataSource)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.Initialize(System.Web.UI.WebControls.IQueryableDataSource)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.Initialize(System.Web.UI.WebControls.IQueryableDataSource)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.Initialize(System.Web.UI.WebControls.IQueryableDataSource)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.Initialize(System.Web.UI.WebControls.IQueryableDataSource)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.Initialize(System.Web.UI.WebControls.IQueryableDataSource)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.Initialize(System.Web.UI.WebControls.IQueryableDataSource)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.Initialize(System.Web.UI.WebControls.IQueryableDataSource)</InterfaceMember>
-        <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.Initialize(System.Web.UI.WebControls.IQueryableDataSource)</InterfaceMember>
         <InterfaceMember>M:System.Web.DynamicData.IFilterExpressionProvider.Initialize(System.Web.UI.WebControls.IQueryableDataSource)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

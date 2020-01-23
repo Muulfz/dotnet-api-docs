@@ -136,29 +136,6 @@ The following example demonstrates the properties and the <xref:System.StringCom
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -239,39 +216,6 @@ The following example demonstrates the properties and the <xref:System.StringCom
       <MemberSignature Language="F#" Value="abstract member Compare : string * string -&gt; int" Usage="stringComparer.Compare (x, y)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IComparer`1.Compare(`0,`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -585,29 +529,6 @@ The following example demonstrates the properties and the <xref:System.StringCom
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -658,39 +579,6 @@ The following example demonstrates the properties and the <xref:System.StringCom
       <MemberSignature Language="F#" Value="override this.Equals : string * string -&gt; bool" Usage="stringComparer.Equals (x, y)" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.Equals(`0,`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -793,29 +681,6 @@ The following example demonstrates the properties and the <xref:System.StringCom
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>mscorlib</AssemblyName>
@@ -868,39 +733,6 @@ The following example demonstrates the properties and the <xref:System.StringCom
       <MemberSignature Language="F#" Value="override this.GetHashCode : string -&gt; int" Usage="stringComparer.GetHashCode obj" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
         <InterfaceMember>M:System.Collections.Generic.IEqualityComparer`1.GetHashCode(`0)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1170,15 +1002,6 @@ The following example demonstrates the properties and the <xref:System.StringCom
       <MemberType>Method</MemberType>
       <Implements>
         <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IComparer.Compare(System.Object,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Runtime.Extensions</AssemblyName>
@@ -1215,19 +1038,6 @@ The following example demonstrates the properties and the <xref:System.StringCom
       <MemberSignature Language="C++ CLI" Value=" virtual bool System.Collections.IEqualityComparer.Equals(System::Object ^ x, System::Object ^ y) = System::Collections::IEqualityComparer::Equals;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEqualityComparer.Equals(System.Object,System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>
@@ -1268,19 +1078,6 @@ The following example demonstrates the properties and the <xref:System.StringCom
       <MemberSignature Language="C++ CLI" Value=" virtual int System.Collections.IEqualityComparer.GetHashCode(System::Object ^ obj) = System::Collections::IEqualityComparer::GetHashCode;" />
       <MemberType>Method</MemberType>
       <Implements>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
-        <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
         <InterfaceMember>M:System.Collections.IEqualityComparer.GetHashCode(System.Object)</InterfaceMember>
       </Implements>
       <AssemblyInfo>

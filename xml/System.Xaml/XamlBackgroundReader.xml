@@ -87,18 +87,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Xaml.IXamlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.HasLineInfo</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.HasLineInfo</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xaml</AssemblyName>
@@ -151,18 +139,6 @@
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Xaml.IXamlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LineNumber</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LineNumber</InterfaceMember>
       </Implements>
       <AssemblyInfo>
         <AssemblyName>System.Xaml</AssemblyName>
@@ -192,18 +168,6 @@
       <MemberSignature Language="F#" Value="member this.LinePosition : int" Usage="System.Xaml.XamlBackgroundReader.LinePosition" />
       <MemberType>Property</MemberType>
       <Implements>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LinePosition</InterfaceMember>
-        <InterfaceMember>P:System.Xaml.IXamlLineInfo.LinePosition</InterfaceMember>
         <InterfaceMember>P:System.Xaml.IXamlLineInfo.LinePosition</InterfaceMember>
       </Implements>
       <AssemblyInfo>
